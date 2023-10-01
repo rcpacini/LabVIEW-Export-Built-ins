@@ -1,0 +1,8 @@
+[21602]
+name=Ring
+ring=Pict Ring (modern)
+class=34,Ring
+rect=11,19,61,67
+terms=1
+term/0=11,19,61,67,o,#0000FF,Ring
+

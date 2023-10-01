@@ -1,0 +1,11 @@
+[8059]
+name=Flush File
+ring=Flush File
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,0,32,8,o,#007F7F,refnum out
+term/2=0,24,16,32,i,#7F7F00,error in
+term/3=0,0,16,8,i,#007F7F,refnum
+

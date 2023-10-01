@@ -1,0 +1,12 @@
+[1355]
+name=Control Online Help
+ring=Control Online Help
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=16,0,32,32,o,#7F7F00,error out
+term/1=0,24,16,32,i,#7F7F00,error in (no error)
+term/2=0,16,16,24,i,#007F7F,Path to the help file
+term/3=0,8,16,16,i,#FF00FF,String to search for
+term/4=0,0,16,8,i,#0000FF,Operation
+

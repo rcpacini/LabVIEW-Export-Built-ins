@@ -1,0 +1,8 @@
+[3023]
+name=Enum
+ring=Enum (classic)
+class=35,Enum
+rect=7,19,57,40
+terms=1
+term/0=7,19,57,40,o,#0000FF,Enum
+

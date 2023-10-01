@@ -1,0 +1,8 @@
+[24131]
+name=Current Processor ID
+ring=Current Processor ID
+class=16400,Function
+rect=0,0,32,11
+terms=1
+term/0=0,0,32,11,o,#0000FF,current processor ID
+

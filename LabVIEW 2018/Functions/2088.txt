@@ -1,0 +1,7 @@
+[2088]
+name=
+ring=Combo Box Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

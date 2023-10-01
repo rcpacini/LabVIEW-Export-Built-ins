@@ -1,0 +1,9 @@
+[11163]
+name=
+ring=Get Fixed-Point Components
+class=16410,GrowableFunction
+rect=0,0,77,18
+terms=2
+term/0=0,0,19,18,i,#666699,input fixed-point number
+term/1=19,0,77,17,o,#FF00FF,Encoding
+

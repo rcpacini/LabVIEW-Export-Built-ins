@@ -1,0 +1,8 @@
+[3105]
+name=Boolean
+ring=Square Light
+class=8,Boolean
+rect=0,19,19,38
+terms=1
+term/0=0,19,19,38,i,#007F00,Boolean
+

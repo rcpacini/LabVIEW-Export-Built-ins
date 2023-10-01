@@ -1,0 +1,7 @@
+[2054]
+name=Diagram Disable Structure
+ring=Diagram Disable Structure
+class=16487,DisableStructure
+rect=0,0,48,48
+terms=0
+

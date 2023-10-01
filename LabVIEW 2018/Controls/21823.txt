@@ -1,0 +1,8 @@
+[21823]
+name=Sub Panel
+ring=SubPanel (System)
+class=65,SubPanel
+rect=0,19,150,169
+terms=1
+term/0=0,19,150,169,o,#FF00FF,Sub Panel
+

@@ -1,0 +1,11 @@
+[8502]
+name=Get Matrix Elements
+ring=Get Matrix Elements
+class=16413,IndexArray
+rect=0,0,32,35
+terms=4
+term/0=0,0,16,18,i,#FF7F00,matrix
+term/1=16,0,32,35,o,#FF7F00,output matrix
+term/2=0,18,16,26,i,#0000FF,index (row)
+term/3=0,26,16,34,i,#0000FF,index (col)
+

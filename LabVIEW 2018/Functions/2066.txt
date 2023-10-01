@@ -1,0 +1,10 @@
+[2066]
+name=Build Waveform
+ring=Build Waveform
+class=16415,NamedBundler
+rect=0,0,33,30
+terms=3
+term/0=17,0,33,30,o,#993300,output waveform
+term/1=0,0,17,13,i,#993300,waveform
+term/2=0,12,17,29,i,#FF7F00,Y
+

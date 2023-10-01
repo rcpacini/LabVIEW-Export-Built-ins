@@ -1,0 +1,8 @@
+[21002]
+name=Boolean
+ring=Rocker
+class=8,Boolean
+rect=5,24,55,44
+terms=1
+term/0=5,24,55,44,o,#007F00,Boolean
+

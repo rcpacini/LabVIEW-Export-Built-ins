@@ -1,0 +1,10 @@
+[1079]
+name=Cast Unit Bases
+ring=Cast Unit Bases
+class=16400,Function
+rect=0,0,25,11
+terms=3
+term/0=0,0,7,11,i,#FF7F00,x
+term/1=7,0,17,11,i,#FF7F00,unit (none)
+term/2=17,0,25,11,o,#FF7F00,x
+

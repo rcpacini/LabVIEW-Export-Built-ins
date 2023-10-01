@@ -1,0 +1,8 @@
+[2061]
+name=Untitled 382
+ring=Local Variable
+class=16398,Local
+rect=0,0,29,19
+terms=1
+term/0=0,0,29,19,i,#000000,
+

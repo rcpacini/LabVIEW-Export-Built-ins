@@ -1,0 +1,7 @@
+[3829]
+name=
+ring=Furnace
+class=0,
+rect=0,0,0,0
+terms=0
+

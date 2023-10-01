@@ -1,0 +1,10 @@
+[8203]
+name=Variant To Flattened String
+ring=Variant To Flattened String
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=0,0,16,32,i,#7F007F,Variant
+term/1=16,0,32,16,o,#0000FF,type string
+term/2=16,16,32,32,o,#FF00FF,data string
+

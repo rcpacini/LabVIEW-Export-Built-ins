@@ -1,0 +1,9 @@
+[1900]
+name=Reverse 1D Array
+ring=Reverse 1D Array
+class=16400,Function
+rect=0,0,32,23
+terms=2
+term/0=16,0,32,23,o,#FF7F00,reversed array
+term/1=0,0,16,23,i,#FF7F00,array
+

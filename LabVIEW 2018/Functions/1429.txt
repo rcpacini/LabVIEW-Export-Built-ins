@@ -1,0 +1,18 @@
+[1429]
+name=File Dialog
+ring=
+class=16400,Function
+rect=0,0,32,32
+terms=11
+term/0=24,24,32,32,o,#007F00,cancelled
+term/1=24,16,32,24,o,#007F00,exists
+term/2=24,8,32,16,o,#007F7F,path
+term/3=16,16,24,32,i,#FF00FF,pattern label
+term/4=16,0,24,16,i,#FF00FF,button label
+term/5=8,16,16,32,i,#0000FF,datalog type
+term/6=8,0,16,16,i,#FF00FF,prompt
+term/7=0,24,8,32,i,#FF00FF,pattern
+term/8=0,16,8,24,i,#FF00FF,default name
+term/9=0,8,8,16,i,#0000FF,select mode (2)
+term/10=0,0,8,8,i,#007F7F,start path
+

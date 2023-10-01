@@ -1,0 +1,9 @@
+[8201]
+name=To Variant
+ring=To Variant
+class=16400,Function
+rect=0,0,26,11
+terms=2
+term/0=13,0,26,11,o,#7F007F,Variant
+term/1=0,0,13,11,i,#000000,anything
+

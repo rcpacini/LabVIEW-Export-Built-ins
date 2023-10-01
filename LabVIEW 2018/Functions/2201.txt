@@ -1,0 +1,9 @@
+[2201]
+name=Expression Node
+ring=Expression Node
+class=16541,ExpressionNode
+rect=0,0,28,17
+terms=2
+term/0=0,0,8,17,i,#FF7F00,
+term/1=20,0,28,17,o,#FF7F00,
+

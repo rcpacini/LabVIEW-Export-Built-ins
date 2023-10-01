@@ -1,0 +1,9 @@
+[1353]
+name=Control Help Window
+ring=Control Help Window
+class=16400,Function
+rect=0,0,30,30
+terms=2
+term/0=0,15,30,30,i,#993300,Top Left Corner
+term/1=0,0,30,15,i,#007F00,Show
+

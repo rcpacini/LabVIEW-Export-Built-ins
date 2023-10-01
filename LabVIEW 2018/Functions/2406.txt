@@ -1,0 +1,23 @@
+[2406]
+name=DecomposeLockDataValRef
+ring=DecomposeLockDataValRef
+class=16400,Function
+rect=0,0,32,32
+terms=16
+term/0=0,0,7,7,i,#007F7F,ref 0
+term/1=7,0,13,16,o,#007F7F,ref 0 out
+term/2=13,0,19,16,o,#007F7F,ref 1 out
+term/3=19,0,25,16,o,#007F7F,ref 2 out
+term/4=25,0,32,7,o,#FF7F00,value 0 out
+term/5=0,7,7,13,i,#007F7F,ref1
+term/6=25,7,32,13,o,#FF7F00,value 1
+term/7=0,13,7,19,i,#007F7F,ref 2
+term/8=25,13,32,19,o,#FF7F00,value 2
+term/9=0,19,7,25,i,#007F7F,ref 3
+term/10=25,19,32,25,o,#FF7F00,value 3
+term/11=0,25,7,32,i,#007F7F,ref 4
+term/12=7,16,13,32,o,#007F7F,ref 3 out
+term/13=13,16,19,32,o,#007F7F,ref 4 out
+term/14=19,16,25,32,o,#0000FF,private
+term/15=25,25,32,32,o,#FF7F00,value 4 out
+

@@ -1,0 +1,12 @@
+[8401]
+name=Unflatten From XML
+ring=Unflatten From XML
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,16,32,24,o,#000000,value
+term/2=0,24,16,32,i,#7F7F00,error in (no error)
+term/3=0,16,16,24,i,#000000,type
+term/4=0,8,16,16,i,#FF00FF,xml string
+

@@ -1,0 +1,7 @@
+[23521]
+name=
+ring=Rydberg Constant (1/m)
+class=0,
+rect=0,0,0,0
+terms=0
+

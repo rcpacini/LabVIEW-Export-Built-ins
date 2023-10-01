@@ -1,0 +1,10 @@
+[2048]
+name=Unbundle
+ring=Unbundle
+class=16477,Unbundler
+rect=0,0,32,17
+terms=3
+term/0=0,0,16,17,i,#000000,cluster
+term/1=16,0,32,8,o,#000000,
+term/2=16,8,32,16,o,#000000,
+

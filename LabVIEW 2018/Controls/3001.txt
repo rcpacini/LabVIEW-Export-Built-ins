@@ -1,0 +1,8 @@
+[3001]
+name=Numeric
+ring=Numeric Indicator (classic)
+class=18,Digital
+rect=0,19,50,40
+terms=1
+term/0=0,19,50,40,i,#FF7F00,Numeric
+

@@ -1,0 +1,12 @@
+[2302]
+name=VISA Flush I/O Buffer
+ring=VISA Flush I/O Buffer
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#7F007F,VISA resource name out
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=0,8,8,16,i,#0000FF,mask (16)
+term/4=0,0,8,8,i,#7F007F,VISA resource name
+

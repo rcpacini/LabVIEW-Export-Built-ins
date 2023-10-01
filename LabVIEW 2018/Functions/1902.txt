@@ -1,0 +1,9 @@
+[1902]
+name=Transpose 2D Array
+ring=Transpose 2D Array
+class=16400,Function
+rect=0,0,32,25
+terms=2
+term/0=16,0,32,25,o,#FF7F00,transposed array
+term/1=0,0,16,25,i,#FF7F00,2D array
+

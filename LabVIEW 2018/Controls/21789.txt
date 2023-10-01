@@ -1,0 +1,8 @@
+[21789]
+name=CAN Task
+ring=CAN Task (modern)
+class=67,GenClassTagRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,CAN Task
+

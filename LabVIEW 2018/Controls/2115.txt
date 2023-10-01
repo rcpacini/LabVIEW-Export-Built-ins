@@ -1,0 +1,8 @@
+[2115]
+name=String
+ring=Simple String
+class=27,String
+rect=0,19,40,38
+terms=1
+term/0=0,19,40,38,o,#FF00FF,String
+

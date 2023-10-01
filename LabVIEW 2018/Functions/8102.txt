@@ -1,0 +1,11 @@
+[8102]
+name=IVI New Session
+ring=IVI New Session
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=24,0,32,8,o,#7F007F,IVI session
+term/1=0,16,8,24,i,#0000FF,IVI session handle
+term/2=0,8,8,16,i,#FF00FF,resource name ("")
+term/3=0,0,8,8,i,#7F007F,IVI session (for class)
+

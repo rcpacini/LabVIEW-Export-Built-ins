@@ -1,0 +1,19 @@
+[1407]
+name=Read File
+ring=Read File
+class=16433,GPIBReadWrite
+rect=0,0,32,32
+terms=12
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#0000FF,offset
+term/2=24,8,32,16,o,#FF00FF,data
+term/3=24,0,32,8,o,#007F7F,dup refnum
+term/4=16,16,24,32,i,#0000FF,byte stream type
+term/5=16,0,24,16,i,#007F00,convert eol (F)
+term/6=8,16,16,32,i,#0000FF,count
+term/7=8,0,16,16,i,#007F00,line mode (F)
+term/8=0,24,8,32,i,#7F7F00,error in
+term/9=0,16,8,24,i,#0000FF,pos offset (0)
+term/10=0,8,8,16,i,#0000FF,pos mode (0:2)
+term/11=0,0,8,8,i,#007F7F,refnum
+

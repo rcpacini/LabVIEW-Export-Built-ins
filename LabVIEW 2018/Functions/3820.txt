@@ -1,0 +1,7 @@
+[3820]
+name=
+ring=Motor (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

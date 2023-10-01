@@ -1,0 +1,14 @@
+[1410]
+name=EOF
+ring=EOF
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=16,21,32,32,o,#7F7F00,error out
+term/1=16,11,32,21,o,#0000FF,offset
+term/2=16,0,32,11,o,#007F7F,dup refnum
+term/3=0,24,16,32,i,#7F7F00,error in
+term/4=0,16,16,24,i,#0000FF,pos offset (0)
+term/5=0,8,16,16,i,#0000FF,pos mode (0:1)
+term/6=0,0,16,8,i,#007F7F,refnum
+

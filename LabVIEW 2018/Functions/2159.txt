@@ -1,0 +1,16 @@
+[2159]
+name=TDMS Delete Data
+ring=TDMS Delete Data
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#007F7F,file path out
+term/2=16,0,24,16,i,#0000FF,count (-1: all)
+term/3=8,16,16,32,i,#007F00,keep empty group/channel? (T)
+term/4=8,0,16,16,i,#0000FF,from (0: start)
+term/5=0,24,8,32,i,#7F7F00,error in (no error)
+term/6=0,16,8,24,i,#FF00FF,channel name(s) in
+term/7=0,8,8,16,i,#FF00FF,group name in
+term/8=0,0,8,8,i,#007F7F,file path
+

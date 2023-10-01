@@ -1,0 +1,9 @@
+[2041]
+name=Build Array
+ring=Build Array
+class=16414,BuildArray
+rect=0,0,32,9
+terms=2
+term/0=16,0,32,9,o,#000000,appended array
+term/1=0,0,16,8,i,#FF7F00,element
+

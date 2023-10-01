@@ -1,0 +1,9 @@
+[5566]
+name=Fixed-Point to Integer Cast
+ring=Fixed-Point to Integer Cast
+class=16400,Function
+rect=0,0,32,29
+terms=2
+term/0=16,0,32,29,o,#0000FF,integer
+term/1=0,0,16,29,i,#666699,fixed-point
+

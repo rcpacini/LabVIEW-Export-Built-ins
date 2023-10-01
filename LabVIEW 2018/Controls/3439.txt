@@ -1,0 +1,8 @@
+[3439]
+name=Classic FieldPoint IO Point
+ring=FieldPoint IO Point (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic FieldPoint IO Point
+

@@ -1,0 +1,12 @@
+[8079]
+name=Write Datalog
+ring=Write Datalog
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,0,32,8,o,#000000,refnum out
+term/2=0,24,16,32,i,#7F7F00,error in
+term/3=0,8,16,16,i,#000000,record(s)
+term/4=0,0,16,8,i,#000000,refnum
+

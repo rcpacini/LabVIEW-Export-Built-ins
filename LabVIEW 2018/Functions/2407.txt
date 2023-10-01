@@ -1,0 +1,23 @@
+[2407]
+name=RecomposeUnlockDataValRef
+ring=RecomposeUnlockDataValRef (warning: dangerous)
+class=16400,Function
+rect=0,0,32,32
+terms=16
+term/0=0,0,7,7,i,#FF7F00,value 0
+term/1=7,0,13,16,i,#007F7F,ref 0
+term/2=13,0,19,16,i,#007F7F,ref 1
+term/3=19,0,25,16,i,#007F7F,ref 2
+term/4=25,0,32,7,o,#007F7F,ref 0 out
+term/5=0,7,7,13,i,#FF7F00,value 1
+term/6=25,7,32,13,o,#007F7F,ref 1 out
+term/7=0,13,7,19,i,#FF7F00,value 2
+term/8=25,13,32,19,o,#007F7F,ref 3 out
+term/9=0,19,7,25,i,#FF7F00,value 3
+term/10=25,19,32,25,o,#007F7F,ref 3 out
+term/11=0,25,7,32,i,#FF7F00,value 4
+term/12=7,16,13,32,i,#007F7F,ref 3
+term/13=13,16,19,32,i,#007F7F,ref 4
+term/14=19,16,25,32,i,#0000FF,private
+term/15=25,25,32,32,o,#007F7F,ref 4 out
+

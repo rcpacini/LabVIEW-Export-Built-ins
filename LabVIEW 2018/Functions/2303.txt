@@ -1,0 +1,18 @@
+[2303]
+name=VISA Move
+ring=VISA Move
+class=16400,Function
+rect=0,0,32,32
+terms=11
+term/0=0,0,7,7,i,#7F007F,VISA resource name
+term/1=7,0,13,16,i,#0000FF,source space (A16:  1)
+term/2=13,0,19,16,i,#0000FF,source width (8)
+term/3=25,0,32,7,o,#7F007F,VISA resource name out
+term/4=0,7,7,13,i,#0000FF,source offset (0)
+term/5=0,13,7,19,i,#0000FF,length
+term/6=0,19,7,25,i,#0000FF,dest offset (0)
+term/7=0,25,7,32,i,#7F7F00,error in (no error)
+term/8=7,16,13,32,i,#0000FF,dest space (A16:  1)
+term/9=13,16,19,32,i,#0000FF,dest width (same as source)
+term/10=25,25,32,32,o,#7F7F00,error out
+

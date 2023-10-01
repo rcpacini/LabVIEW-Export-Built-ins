@@ -1,0 +1,7 @@
+[3627]
+name=
+ring=Line (chiseled, thin)
+class=0,
+rect=0,0,0,0
+terms=0
+

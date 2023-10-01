@@ -1,0 +1,7 @@
+[3630]
+name=
+ring=Line (chiseled, thick)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+

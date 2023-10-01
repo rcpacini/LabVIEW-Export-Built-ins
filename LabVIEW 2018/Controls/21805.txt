@@ -1,0 +1,8 @@
+[21805]
+name=Listbox
+ring=Listbox (system)
+class=12,ListBox
+rect=0,19,160,150
+terms=1
+term/0=0,19,160,150,o,#0000FF,Listbox
+

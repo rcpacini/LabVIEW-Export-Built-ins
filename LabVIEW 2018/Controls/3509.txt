@@ -1,0 +1,8 @@
+[3509]
+name=Intensity Chart
+ring=Intensity Chart (classic)
+class=25,IntensityChart
+rect=3,19,310,237
+terms=1
+term/0=3,19,310,237,i,#FF7F00,Intensity Chart
+

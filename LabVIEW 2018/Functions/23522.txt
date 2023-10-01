@@ -1,0 +1,7 @@
+[23522]
+name=
+ring=Molar Gas Constant (J/(mol K))
+class=0,
+rect=0,0,0,0
+terms=0
+

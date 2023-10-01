@@ -1,0 +1,13 @@
+[8209]
+name=Delete Waveform Attribute
+ring=Delete Waveform Attribute
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,8,32,16,o,#007F00,no found
+term/2=16,0,32,8,o,#993300,waveform out
+term/3=0,24,16,32,i,#7F7F00,error in
+term/4=0,8,16,16,i,#FF00FF,name (all attributes)
+term/5=0,0,16,8,i,#993300,waveform
+

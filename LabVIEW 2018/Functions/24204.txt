@@ -1,0 +1,12 @@
+[24204]
+name=Get Control Values by Index
+ring=Get Control Values by Index
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,0,8,8,i,#007F7F,VI Refnum
+term/1=0,8,8,16,i,#0000FF,control indexes
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=24,16,32,24,o,#7F007F,data values
+term/4=24,24,32,32,o,#7F7F00,error out
+

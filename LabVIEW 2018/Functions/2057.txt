@@ -1,0 +1,10 @@
+[2057]
+name=Bundle By Name
+ring=Bundle By Name
+class=16415,NamedBundler
+rect=0,0,30,18
+terms=3
+term/0=22,0,30,18,o,#000000,output cluster
+term/1=13,0,22,18,i,#000000,input cluster
+term/2=0,0,14,17,i,#000000,element
+

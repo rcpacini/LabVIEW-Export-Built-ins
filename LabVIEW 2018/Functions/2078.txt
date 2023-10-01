@@ -1,0 +1,14 @@
+[2078]
+name=Register Event Callback
+ring=Register Event Callback
+class=16410,GrowableFunction
+rect=0,0,142,70
+terms=7
+term/0=0,0,13,9,i,#007F7F,event callback refnum
+term/1=129,0,142,9,o,#007F7F,
+term/2=0,9,13,18,i,#7F7F00,error in (no error)
+term/3=129,9,142,18,o,#7F7F00,error out
+term/4=0,18,142,35,i,#000000,event source
+term/5=0,35,142,52,i,#000000,VI Ref
+term/6=0,52,142,69,i,#7F007F,User Parameter
+

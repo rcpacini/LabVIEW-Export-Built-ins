@@ -1,0 +1,7 @@
+[3626]
+name=
+ring=Line (thin)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+

@@ -1,0 +1,7 @@
+[3821]
+name=
+ring=Horiz Line
+class=4,Decoration
+rect=0,0,32,2
+terms=0
+

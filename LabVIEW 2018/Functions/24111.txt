@@ -1,0 +1,21 @@
+[24111]
+name=TDMS Read
+ring=TDMS Read
+class=16400,Function
+rect=0,0,32,32
+terms=14
+term/0=0,0,7,7,i,#007F7F,tdms file
+term/1=7,0,13,16,i,#0000FF,offset (0)
+term/2=13,0,19,16,i,#0000FF,count (-1: all)
+term/3=25,0,32,7,o,#007F7F,tdms file out
+term/4=0,7,7,13,i,#FF00FF,group name in
+term/5=25,7,32,13,o,#FF00FF,group name out
+term/6=0,13,7,19,i,#FF00FF,channel name(s) in
+term/7=25,13,32,19,o,#FF00FF,channel name(s) out
+term/8=25,19,32,25,o,#993300,data
+term/9=0,25,7,32,i,#7F7F00,error in (no error)
+term/10=7,16,13,32,i,#993300,data type
+term/11=13,16,19,32,i,#007F00,return channels in file order? (F)
+term/12=19,16,25,32,o,#007F00,end of file?
+term/13=25,25,32,32,o,#7F7F00,error out
+

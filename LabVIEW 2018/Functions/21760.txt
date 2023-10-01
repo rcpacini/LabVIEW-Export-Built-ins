@@ -1,0 +1,7 @@
+[21760]
+name=
+ring=Left Rect Valve (shaded)
+class=0,
+rect=0,0,0,0
+terms=0
+

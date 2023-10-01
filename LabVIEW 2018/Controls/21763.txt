@@ -1,0 +1,7 @@
+[21763]
+name=
+ring=Up Bow Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

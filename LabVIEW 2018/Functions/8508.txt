@@ -1,0 +1,11 @@
+[8508]
+name=Resize Matrix
+ring=Resize Matrix
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,0,32,32,o,#FF7F00,resized matrix
+term/1=0,24,16,32,i,#0000FF,number of columns
+term/2=0,16,16,24,i,#0000FF,number of rows
+term/3=0,0,16,8,i,#FF7F00,matrix
+

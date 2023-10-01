@@ -1,0 +1,14 @@
+[5691]
+name=Open Dynamic Bitfile Reference
+ring=Open Dynamic Bitfile Reference
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=0,0,16,8,i,#FF00FF,Device address
+term/1=0,8,16,16,i,#007F7F,Bitfile path
+term/2=0,16,16,24,i,#007F00,Run When Loaded
+term/3=0,24,16,32,i,#7F7F00,Error In
+term/4=16,0,24,32,i,#007F7F,Type
+term/5=24,0,32,8,o,#007F7F,Refnum
+term/6=24,24,32,32,o,#7F7F00,Error Out
+

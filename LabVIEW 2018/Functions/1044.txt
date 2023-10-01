@@ -1,0 +1,10 @@
+[1044]
+name=Complex To Re/Im
+ring=Complex To Re/Im
+class=16400,Function
+rect=0,0,22,22
+terms=3
+term/0=0,0,11,22,i,#FF7F00,x + iy
+term/1=11,0,22,11,o,#FF7F00,x
+term/2=11,11,22,22,o,#FF7F00,y
+

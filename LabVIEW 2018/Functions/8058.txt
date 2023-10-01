@@ -1,0 +1,18 @@
+[8058]
+name=File Dialog
+ring=File Dialog
+class=16492,FileDialog
+rect=0,0,32,32
+terms=11
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#007F00,cancelled
+term/2=24,8,32,16,o,#007F00,exists
+term/3=24,0,32,8,o,#007F7F,selected path
+term/4=16,16,24,32,i,#FF00FF,pattern label
+term/5=16,0,24,16,i,#FF00FF,button label
+term/6=8,16,16,32,i,#FF00FF,pattern (all files)
+term/7=8,0,16,16,i,#FF00FF,prompt
+term/8=0,24,8,32,i,#7F7F00,error in
+term/9=0,16,8,24,i,#FF00FF,default name
+term/10=0,0,8,8,i,#007F7F,start path
+

@@ -1,0 +1,7 @@
+[3706]
+name=
+ring=Down Rect Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

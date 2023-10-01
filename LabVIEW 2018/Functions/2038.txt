@@ -1,0 +1,7 @@
+[2038]
+name=
+ring=Listbox Symbol Ring Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

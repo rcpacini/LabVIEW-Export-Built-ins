@@ -1,0 +1,7 @@
+[21862]
+name=
+ring=Vertical Splitter Bar (Classic)
+class=0,
+rect=0,0,0,0
+terms=0
+

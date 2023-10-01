@@ -1,0 +1,8 @@
+[3006]
+name=Numeric
+ring=Dlg Numeric #2
+class=18,Digital
+rect=8,16,58,37
+terms=1
+term/0=8,16,58,37,o,#0000FF,Numeric
+

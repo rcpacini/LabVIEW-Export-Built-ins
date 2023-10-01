@@ -1,0 +1,7 @@
+[23512]
+name=
+ring=Base 10 Logarithm Of e
+class=0,
+rect=0,0,0,0
+terms=0
+

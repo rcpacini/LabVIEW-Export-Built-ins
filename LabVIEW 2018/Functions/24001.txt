@@ -1,0 +1,16 @@
+[24001]
+name=RT FIFO Read
+ring=RT FIFO Read
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=0,0,8,8,i,#007F7F,rt fifo
+term/1=0,8,8,16,i,#FF00FF,element
+term/2=0,16,8,24,i,#0000FF,timeout in ms (0)
+term/3=0,24,8,32,i,#7F7F00,error in (no error)
+term/4=16,16,24,32,o,#0000FF,# elements
+term/5=24,0,32,8,o,#007F7F,rt fifo out
+term/6=24,8,32,16,o,#FF00FF,element out
+term/7=24,16,32,24,o,#007F00,empty?
+term/8=24,24,32,32,o,#7F7F00,error out
+

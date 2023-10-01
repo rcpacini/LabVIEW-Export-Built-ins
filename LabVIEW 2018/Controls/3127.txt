@@ -1,0 +1,8 @@
+[3127]
+name=stop
+ring=Round Stop Button
+class=8,Boolean
+rect=0,19,44,63
+terms=1
+term/0=0,19,44,63,o,#007F00,stop
+

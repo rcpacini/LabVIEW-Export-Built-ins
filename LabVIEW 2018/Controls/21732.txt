@@ -1,0 +1,8 @@
+[21732]
+name=Dial
+ring=Dial (modern)
+class=32,Knob
+rect=18,48,66,96
+terms=1
+term/0=18,48,66,96,o,#FF7F00,Dial
+

@@ -1,0 +1,11 @@
+[23064]
+name=Floating Point Equal?
+ring=Floating Point Equal?
+class=16400,Function
+rect=0,0,21,21
+terms=4
+term/0=10,0,21,21,o,#007F00,x ~ y?
+term/1=0,15,10,21,i,#FF7F00,y
+term/2=0,5,10,15,i,#FF7F00,tolerance
+term/3=0,0,10,5,i,#FF7F00,x
+

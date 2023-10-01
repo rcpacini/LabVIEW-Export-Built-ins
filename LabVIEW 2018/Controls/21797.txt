@@ -1,0 +1,8 @@
+[21797]
+name=Table Control
+ring=Table (system)
+class=13,Table
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#FF00FF,Table Control
+

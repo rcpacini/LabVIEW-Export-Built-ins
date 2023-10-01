@@ -1,0 +1,11 @@
+[24130]
+name=CPU Information
+ring=CPU Information
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,0,32,8,o,#0000FF,# of logical processors
+term/1=16,8,32,16,o,#0000FF,# of packages
+term/2=16,16,32,24,o,#0000FF,# of cores per package
+term/3=16,24,32,32,o,#0000FF,# of logical processors per core
+

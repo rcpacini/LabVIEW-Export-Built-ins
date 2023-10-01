@@ -1,0 +1,15 @@
+[8083]
+name=List Folder
+ring=List Folder
+class=16400,Function
+rect=0,0,32,32
+terms=8
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#FF00FF,folder names
+term/2=24,8,32,16,o,#FF00FF,filenames
+term/3=24,0,32,8,o,#007F7F,path out
+term/4=16,0,24,16,i,#0000FF,datalog type
+term/5=8,16,16,32,i,#FF00FF,pattern
+term/6=0,24,8,32,i,#7F7F00,error in
+term/7=0,0,8,8,i,#007F7F,path
+

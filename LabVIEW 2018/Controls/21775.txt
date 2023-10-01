@@ -1,0 +1,8 @@
+[21775]
+name=DAQmx Scale Name
+ring=DAQmx Scale Name (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Scale Name
+

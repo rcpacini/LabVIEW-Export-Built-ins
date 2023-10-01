@@ -1,0 +1,14 @@
+[24119]
+name=TDMS Refnum To File ID
+ring=TDMS Defragment
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,8,32,16,o,#0000FF,object id
+term/2=16,0,32,8,o,#0000FF,tdms file id
+term/3=0,24,16,32,i,#7F7F00,error in (no error)
+term/4=0,16,16,24,i,#FF00FF,channel name
+term/5=0,8,16,16,i,#FF00FF,group name
+term/6=0,0,16,8,i,#007F7F,tdms file
+

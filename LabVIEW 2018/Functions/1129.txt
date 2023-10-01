@@ -1,0 +1,9 @@
+[1129]
+name=Octal Digit?
+ring=Octal Digit?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,octal?
+term/1=0,0,10,21,i,#FF00FF,char
+

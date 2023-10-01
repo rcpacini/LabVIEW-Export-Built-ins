@@ -1,0 +1,8 @@
+[5556]
+name=Time Stamp
+ring=Time Stamp Indicator (classic)
+class=60,AbsTime
+rect=0,18,92,54
+terms=1
+term/0=0,18,92,54,i,#990000,Time Stamp
+

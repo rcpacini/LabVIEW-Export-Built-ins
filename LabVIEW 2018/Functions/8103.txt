@@ -1,0 +1,8 @@
+[8103]
+name=IVI Delete Session
+ring=IVI Delete Session
+class=16400,Function
+rect=0,0,32,32
+terms=1
+term/0=0,0,8,8,i,#7F007F,IVI session
+

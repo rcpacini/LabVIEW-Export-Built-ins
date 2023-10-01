@@ -1,0 +1,7 @@
+[2070]
+name=
+ring=Array (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

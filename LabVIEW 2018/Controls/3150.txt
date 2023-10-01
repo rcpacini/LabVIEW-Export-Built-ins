@@ -1,0 +1,8 @@
+[3150]
+name=OleVariant
+ring=OLE Variant
+class=3,Generic
+rect=0,19,86,38
+terms=1
+term/0=0,19,86,38,o,#7F007F,OleVariant
+

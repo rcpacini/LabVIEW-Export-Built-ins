@@ -1,0 +1,9 @@
+[1116]
+name=Not Equal To 0?
+ring=Not Equal To 0?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,x != 0?
+term/1=0,0,10,21,i,#FF7F00,x
+

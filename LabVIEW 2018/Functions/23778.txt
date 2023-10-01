@@ -1,0 +1,10 @@
+[23778]
+name=?
+ring=Shared Variable
+class=16512,SharedVariableNode
+rect=0,0,51,26
+terms=3
+term/0=38,2,51,14,o,#000000,?
+term/1=0,13,13,26,i,#7F7F00,error in (no error)
+term/2=38,13,51,26,o,#7F7F00,error out
+

@@ -1,0 +1,7 @@
+[23523]
+name=
+ring=Empty Path Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

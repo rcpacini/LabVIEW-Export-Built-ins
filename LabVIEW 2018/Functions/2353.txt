@@ -1,0 +1,10 @@
+[2353]
+name=Feedback Node
+ring=Feedback Node
+class=16522,FeedbackNode
+rect=0,0,32,24
+terms=3
+term/0=16,0,32,12,i,#000000,
+term/1=0,0,16,12,o,#000000,
+term/2=0,12,32,24,i,#000000,
+

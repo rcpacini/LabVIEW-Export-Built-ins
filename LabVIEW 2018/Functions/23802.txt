@@ -1,0 +1,16 @@
+[23802]
+name=Search Variable Container
+ring=Search Variable Container
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,8,32,16,o,#7F007F,refnum array out
+term/2=24,0,32,8,o,#7F007F,container refnum out
+term/3=8,16,16,32,i,#993300,access type
+term/4=8,0,16,16,i,#7F007F,class
+term/5=0,24,8,32,i,#7F7F00,error in
+term/6=0,16,8,24,i,#7F007F,data type
+term/7=0,8,8,16,i,#FF00FF,regular expression
+term/8=0,0,8,8,i,#7F007F,container refnum in
+

@@ -1,0 +1,8 @@
+[21920]
+name=String
+ring=String Control (system)
+class=27,String
+rect=0,19,147,40
+terms=1
+term/0=0,19,147,40,o,#FF00FF,String
+

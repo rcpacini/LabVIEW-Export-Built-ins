@@ -1,0 +1,10 @@
+[8001]
+name=Automation Close
+ring=Automation Close
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=16,21,32,32,o,#7F7F00,error out
+term/1=0,21,16,32,i,#7F7F00,error in(no error)
+term/2=0,0,16,11,i,#007F7F,Automation Refnum
+

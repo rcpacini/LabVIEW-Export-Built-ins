@@ -1,0 +1,11 @@
+[1161]
+name=
+ring=
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,16,32,32,o,#993300,value
+term/1=16,0,32,16,o,#007F00,err
+term/2=0,16,16,32,i,#000000,type
+term/3=0,0,16,16,i,#FF00FF,binary string
+

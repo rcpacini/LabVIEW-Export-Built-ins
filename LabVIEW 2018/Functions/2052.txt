@@ -1,0 +1,10 @@
+[2052]
+name=Event Structure
+ring=Event Structure
+class=16458,EventStructure
+rect=0,0,128,128
+terms=3
+term/0=0,20,14,32,i,#007F7F,Event Registration Refnum
+term/1=114,20,128,32,o,#007F7F,Event Registration Refnum
+term/2=0,0,14,15,i,#0000FF,
+

@@ -1,0 +1,7 @@
+[23511]
+name=
+ring=Reciprocal Of e
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,8 @@
+[3410]
+name=Automation Refnum
+ring=Automation Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Automation Refnum
+

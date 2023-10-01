@@ -1,0 +1,9 @@
+[5565]
+name=Fixed-Point Overflow?
+ring=Fixed-Point Overflow?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,overflow?
+term/1=0,0,10,21,i,#666699,FXP
+

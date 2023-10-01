@@ -1,0 +1,8 @@
+[3409]
+name=VISA resource name
+ring=VISA resource name (classic)
+class=50,VISAResourceName
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,VISA resource name
+

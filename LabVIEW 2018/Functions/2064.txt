@@ -1,0 +1,7 @@
+[2064]
+name=Conditional Disable Structure
+ring=Conditional Disable Structure
+class=16487,DisableStructure
+rect=0,0,48,48
+terms=0
+

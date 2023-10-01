@@ -1,0 +1,12 @@
+[1967]
+name=MakeAddr
+ring=MakeAddr
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=16,16,32,32,o,#7F7F00,error out
+term/1=16,0,32,16,o,#0000FF,packed address
+term/2=0,21,16,32,i,#7F7F00,error in
+term/3=0,11,16,21,i,#0000FF,secondary address
+term/4=0,0,16,11,i,#0000FF,primary address
+

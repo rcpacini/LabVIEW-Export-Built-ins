@@ -1,0 +1,8 @@
+[21013]
+name=Boolean
+ring=Square LED (modern)
+class=8,Boolean
+rect=3,22,27,30
+terms=1
+term/0=3,22,27,30,i,#007F00,Boolean
+

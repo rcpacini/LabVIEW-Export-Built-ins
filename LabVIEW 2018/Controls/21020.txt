@@ -1,0 +1,8 @@
+[21020]
+name=Ring
+ring=Split Button
+class=34,Ring
+rect=0,15,20,42
+terms=1
+term/0=0,15,20,42,o,#FF7F00,Ring
+

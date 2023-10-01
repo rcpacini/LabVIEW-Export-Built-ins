@@ -1,0 +1,8 @@
+[2110]
+name=String
+ring=Dlg String
+class=27,String
+rect=0,19,40,36
+terms=1
+term/0=0,19,40,36,o,#FF00FF,String
+

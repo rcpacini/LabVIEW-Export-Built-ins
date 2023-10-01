@@ -1,0 +1,12 @@
+[1085]
+name=DataSocket Close
+ring=DataSocket Close
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#007F00,timed out
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=0,16,8,24,i,#0000FF,ms timeout (0)
+term/4=0,0,8,8,i,#007F7F,connection id
+

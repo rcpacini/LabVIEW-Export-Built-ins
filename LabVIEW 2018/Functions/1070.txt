@@ -1,0 +1,8 @@
+[1070]
+name=Random Number (0-1)
+ring=Random Number (0-1)
+class=16400,Function
+rect=0,0,19,21
+terms=1
+term/0=0,0,19,21,o,#FF7F00,number: 0 to 1
+

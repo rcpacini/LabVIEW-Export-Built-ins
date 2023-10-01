@@ -1,0 +1,8 @@
+[21230]
+name=stop
+ring=Stop Button
+class=8,Boolean
+rect=1,20,40,40
+terms=1
+term/0=1,20,40,40,o,#007F00,stop
+

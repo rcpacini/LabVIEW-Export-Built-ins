@@ -1,0 +1,14 @@
+[23791]
+name=Open Variable Connection in Background
+ring=Open Variable Connection in Background
+class=16531,SharedVariableDynamicOpen
+rect=0,0,32,32
+terms=7
+term/0=0,0,8,8,i,#7F007F,shared variable refnum in
+term/1=24,0,32,8,o,#7F007F,shared variable refnum out
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=24,24,32,32,o,#7F7F00,error out
+term/4=0,8,8,16,i,#000000,data type
+term/5=8,16,16,32,i,#993300,access
+term/6=8,0,16,16,i,#0000FF,buffer size in elements
+

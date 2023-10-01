@@ -1,0 +1,7 @@
+[3805]
+name=
+ring=Right Bow Valve (outline)
+class=0,
+rect=0,0,0,0
+terms=0
+

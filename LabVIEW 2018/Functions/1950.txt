@@ -1,0 +1,14 @@
+[1950]
+name=GPIB Write
+ring=GPIB Write
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=0,0,8,8,i,#FF00FF,address string
+term/1=0,8,8,16,i,#FF00FF,data
+term/2=0,16,8,24,i,#0000FF,mode (0)
+term/3=0,24,8,32,i,#7F7F00,error in
+term/4=8,0,16,32,i,#0000FF,timeout ms (488.2 global)
+term/5=16,0,32,16,o,#007F00,status
+term/6=16,16,32,32,o,#7F7F00,error out
+

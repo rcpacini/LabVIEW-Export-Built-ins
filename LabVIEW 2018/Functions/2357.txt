@@ -1,0 +1,9 @@
+[2357]
+name=MathScript Node
+ring=MathScript Node
+class=16499,MathScriptNode
+rect=0,0,160,84
+terms=2
+term/0=0,74,9,84,i,#7F7F00,error in
+term/1=151,74,160,84,o,#7F7F00,error out
+

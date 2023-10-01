@@ -1,0 +1,8 @@
+[3110]
+name=Boolean
+ring=Horizontal Toggle Switch (classic)
+class=8,Boolean
+rect=0,19,40,39
+terms=1
+term/0=0,19,40,39,o,#007F00,Boolean
+

@@ -1,0 +1,8 @@
+[3402]
+name=Data Log File Refnum
+ring=Data Log File Refnum
+class=9,RefNum
+rect=0,19,48,89
+terms=1
+term/0=0,19,48,89,o,#000000,Data Log File Refnum
+

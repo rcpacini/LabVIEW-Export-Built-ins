@@ -1,0 +1,7 @@
+[3828]
+name=
+ring=Exchanger
+class=0,
+rect=0,0,0,0
+terms=0
+

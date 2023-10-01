@@ -1,0 +1,12 @@
+[8018]
+name=Preserve Run-Time Class
+ring=Preserve Run-Time Class
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=21,0,32,8,o,#C10061,object out
+term/1=21,8,32,16,o,#7F7F00,error out
+term/2=11,0,21,16,i,#C10061,target object
+term/3=0,0,11,8,i,#C10061,object in
+term/4=0,8,11,16,i,#7F7F00,error in
+

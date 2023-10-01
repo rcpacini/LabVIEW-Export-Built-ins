@@ -1,0 +1,15 @@
+[8067]
+name=Get Volume Info
+ring=Get Volume Info
+class=16400,Function
+rect=0,0,32,32
+terms=8
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#0000FF,free (bytes)
+term/2=24,8,32,16,o,#0000FF,size (bytes)
+term/3=24,0,32,8,o,#007F7F,path out
+term/4=16,16,24,32,o,#0000FF,
+term/5=16,0,24,16,o,#007F7F,volume path
+term/6=0,24,8,32,i,#7F7F00,error in
+term/7=0,0,8,8,i,#007F7F,path
+

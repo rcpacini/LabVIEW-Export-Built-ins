@@ -1,0 +1,16 @@
+[2087]
+name=VISA USB Control Out
+ring=VISA USB Control Out
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=0,0,7,7,i,#7F007F,VISA resource name
+term/1=7,0,13,16,i,#0000FF,value (0)
+term/2=13,0,19,16,i,#0000FF,index (0)
+term/3=25,0,32,7,o,#7F007F,VISA resource name out
+term/4=0,7,7,13,i,#0000FF,request type
+term/5=0,13,7,19,i,#0000FF,request
+term/6=0,19,7,25,i,#0000FF,length (0)
+term/7=0,25,7,32,i,#7F7F00,error in (no error)
+term/8=25,25,32,32,o,#7F7F00,error out
+

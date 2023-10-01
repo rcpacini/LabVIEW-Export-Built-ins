@@ -1,0 +1,8 @@
+[3018]
+name=Ring
+ring=Menu Ring (classic)
+class=34,Ring
+rect=1,20,116,40
+terms=1
+term/0=1,20,116,40,o,#0000FF,Ring
+

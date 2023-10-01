@@ -1,0 +1,11 @@
+[1540]
+name=Array To Spreadsheet String
+ring=Array To Spreadsheet String
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=21,0,32,32,o,#FF00FF,spreadsheet string
+term/1=11,0,21,32,i,#FF00FF,delimiter (Tab)
+term/2=0,16,11,32,i,#FF7F00,array
+term/3=0,0,11,16,i,#FF00FF,format string
+

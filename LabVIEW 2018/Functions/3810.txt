@@ -1,0 +1,7 @@
+[3810]
+name=
+ring=Horiz Pipe (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

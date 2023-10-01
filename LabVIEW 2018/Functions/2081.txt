@@ -1,0 +1,13 @@
+[2081]
+name=Format Into String
+ring=Format Into String
+class=16438,FormatScanString
+rect=0,0,32,29
+terms=6
+term/0=10,0,22,12,i,#FF00FF,format string
+term/1=0,0,10,12,i,#FF00FF,initial string
+term/2=22,0,32,12,o,#FF00FF,resulting string
+term/3=0,12,16,20,i,#7F7F00,error in
+term/4=16,12,32,20,o,#7F7F00,error out
+term/5=0,20,16,28,i,#FF7F00,input 1
+

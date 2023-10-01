@@ -1,0 +1,13 @@
+[2404]
+name=DecomposeVariant
+ring=DecomposeVariant
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=0,0,7,7,o,#7F007F,variant out
+term/1=25,0,32,7,o,#007F00,valid?
+term/2=0,7,7,13,i,#7F007F,variant in
+term/3=0,19,7,25,i,#FF7F00,type
+term/4=25,19,32,25,o,#FF7F00,value
+term/5=25,25,32,32,o,#0000FF,private
+

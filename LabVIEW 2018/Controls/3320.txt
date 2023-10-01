@@ -1,0 +1,8 @@
+[3320]
+name=Classic Traditional DAQ Channel
+ring=Traditional DAQ Channel (classic)
+class=49,DAQChannelName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic Traditional DAQ Channel
+

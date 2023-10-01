@@ -1,0 +1,9 @@
+[1154]
+name=To Extended Precision Complex
+ring=To Extended Precision Complex
+class=16400,Function
+rect=0,0,26,11
+terms=2
+term/0=13,0,26,11,o,#FF7F00,extended precision complex
+term/1=0,0,13,11,i,#FF7F00,number
+

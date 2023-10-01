@@ -1,0 +1,7 @@
+[2000]
+name=Stacked Sequence Structure
+ring=Stacked Sequence Structure
+class=16407,Sequence
+rect=0,0,48,48
+terms=0
+

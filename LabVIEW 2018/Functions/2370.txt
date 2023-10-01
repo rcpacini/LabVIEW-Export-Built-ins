@@ -1,0 +1,7 @@
+[2370]
+name=
+ring=Target Structure
+class=16543,TargetStructureNode
+rect=0,0,48,48
+terms=0
+

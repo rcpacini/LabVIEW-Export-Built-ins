@@ -1,0 +1,8 @@
+[22002]
+name=Radio Buttons
+ring=Radio Buttons (system)
+class=72,RadioButtonsControl
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#0000FF,Radio Buttons
+

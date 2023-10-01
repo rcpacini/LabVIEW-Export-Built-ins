@@ -1,0 +1,8 @@
+[21702]
+name=String
+ring=String Indicator (modern)
+class=27,String
+rect=0,19,100,44
+terms=1
+term/0=0,19,100,44,i,#FF00FF,String
+

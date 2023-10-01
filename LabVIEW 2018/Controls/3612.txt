@@ -1,0 +1,7 @@
+[3612]
+name=
+ring=Raised Left Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

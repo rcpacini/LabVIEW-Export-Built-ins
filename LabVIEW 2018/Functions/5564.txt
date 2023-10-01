@@ -1,0 +1,10 @@
+[5564]
+name=Include Fixed-Point Overflow Status
+ring=Include Fixed-Point Overflow Status
+class=16400,Function
+rect=0,0,32,24
+terms=3
+term/0=16,0,32,12,o,#666699,FXP with overflow included
+term/1=0,12,16,24,i,#007F00,overflow
+term/2=0,0,16,12,i,#666699,FXP
+

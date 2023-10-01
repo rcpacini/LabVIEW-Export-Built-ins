@@ -1,0 +1,12 @@
+[3912]
+name=Delete From Array
+ring=Delete From Array
+class=16410,GrowableFunction
+rect=0,0,32,33
+terms=5
+term/0=16,16,32,32,o,#000000,deleted portion
+term/1=0,0,16,16,i,#FF7F00,array
+term/2=0,16,16,24,i,#0000FF,length
+term/3=16,0,32,16,o,#000000,array w/ subset deleted
+term/4=0,24,16,32,i,#0000FF,index
+

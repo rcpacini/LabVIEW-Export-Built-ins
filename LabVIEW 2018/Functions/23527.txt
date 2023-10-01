@@ -1,0 +1,7 @@
+[23527]
+name=
+ring=Not a Shared Variable
+class=0,
+rect=0,0,0,0
+terms=0
+

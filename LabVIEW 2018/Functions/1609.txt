@@ -1,0 +1,9 @@
+[1609]
+name=Byte Array To String
+ring=Byte Array To String
+class=16400,Function
+rect=0,0,25,11
+terms=2
+term/0=13,0,25,11,o,#FF00FF,string
+term/1=0,0,13,11,i,#0000FF,unsigned byte array
+

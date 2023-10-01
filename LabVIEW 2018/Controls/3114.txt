@@ -1,0 +1,8 @@
+[3114]
+name=Boolean
+ring=Classic Horizontal Slide Switch
+class=8,Boolean
+rect=0,19,30,38
+terms=1
+term/0=0,19,30,38,o,#007F00,Boolean
+

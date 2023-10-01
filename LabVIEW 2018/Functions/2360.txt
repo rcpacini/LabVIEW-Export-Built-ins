@@ -1,0 +1,7 @@
+[2360]
+name=In Place Element Structure
+ring=In Place Element Structure
+class=16516,InPlaceElementStructure
+rect=0,0,48,48
+terms=0
+

@@ -1,0 +1,8 @@
+[2001]
+name=Case Structure
+ring=Case Structure
+class=16408,CaseStructure
+rect=0,0,48,48
+terms=1
+term/0=0,12,8,24,i,#007F00,
+

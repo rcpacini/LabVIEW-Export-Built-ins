@@ -1,0 +1,8 @@
+[21741]
+name=Boolean
+ring=Vertical Slide Switch (modern)
+class=8,Boolean
+rect=2,21,16,65
+terms=1
+term/0=2,21,16,65,o,#007F00,Boolean
+

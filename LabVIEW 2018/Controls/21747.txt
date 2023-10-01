@@ -1,0 +1,8 @@
+[21747]
+name=User Defined Refnum Tag Flatten
+ring=User Defined Refnum Tag Flatten (modern)
+class=122,GenClassTagFlatRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,User Defined Refnum Tag Flatten
+

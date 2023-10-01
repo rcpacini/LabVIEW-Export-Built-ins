@@ -1,0 +1,7 @@
+[3471]
+name=
+ring=CAN Task (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

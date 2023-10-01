@@ -1,0 +1,16 @@
+[8082]
+name=File/Directory Info
+ring=File/Directory Info
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#990000,last mod
+term/2=24,8,32,16,o,#0000FF,size
+term/3=24,0,32,8,o,#007F7F,path out
+term/4=16,16,24,32,o,#007F7F,resolved path
+term/5=16,0,24,16,o,#007F00,directory
+term/6=8,16,16,32,o,#007F00,shortcut
+term/7=0,24,8,32,i,#7F7F00,error in
+term/8=0,0,8,8,i,#007F7F,path
+

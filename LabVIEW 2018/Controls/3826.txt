@@ -1,0 +1,7 @@
+[3826]
+name=
+ring=Left Arrow
+class=4,Decoration
+rect=0,0,8,8
+terms=0
+

@@ -1,0 +1,7 @@
+[3638]
+name=
+ring=Lowered Rounded Box
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+

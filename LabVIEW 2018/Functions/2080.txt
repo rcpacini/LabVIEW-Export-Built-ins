@@ -1,0 +1,16 @@
+[2080]
+name=Scan From String
+ring=Scan From String
+class=16438,FormatScanString
+rect=0,0,32,37
+terms=9
+term/0=10,0,22,12,i,#FF00FF,format string
+term/1=0,0,10,12,i,#FF00FF,input string
+term/2=22,0,32,12,o,#FF00FF,remaining string
+term/3=0,12,16,20,i,#0000FF,initial scan location
+term/4=16,12,32,20,o,#0000FF,offset past scan
+term/5=0,20,16,28,i,#7F7F00,error in
+term/6=16,20,32,28,o,#7F7F00,error out
+term/7=0,28,16,36,i,#FF7F00,default value 1
+term/8=16,28,32,36,o,#FF7F00,output 1
+

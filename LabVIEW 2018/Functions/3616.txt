@@ -1,0 +1,7 @@
+[3616]
+name=
+ring=Recessed Left Triangle
+class=0,
+rect=0,0,0,0
+terms=0
+

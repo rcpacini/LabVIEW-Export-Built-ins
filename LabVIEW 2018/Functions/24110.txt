@@ -1,0 +1,17 @@
+[24110]
+name=TDMS Write
+ring=TDMS Write
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=0,0,7,7,i,#007F7F,tdms file
+term/1=7,0,13,16,i,#0000FF,data layout (0:decimated)
+term/2=25,0,32,7,o,#007F7F,tdms file out
+term/3=0,7,7,13,i,#FF00FF,group name in (Untitled)
+term/4=25,7,32,13,o,#FF00FF,group name out
+term/5=0,13,7,19,i,#FF00FF,channel name(s) in (Untitled)
+term/6=25,13,32,19,o,#FF00FF,channel name(s) out
+term/7=0,19,7,25,i,#993300,data
+term/8=0,25,7,32,i,#7F7F00,error in (no error)
+term/9=25,25,32,32,o,#7F7F00,error out
+

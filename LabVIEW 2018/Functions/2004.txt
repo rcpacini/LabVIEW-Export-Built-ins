@@ -1,0 +1,7 @@
+[2004]
+name=Formula Node
+ring=Formula Node
+class=16409,Formula
+rect=0,0,160,84
+terms=0
+

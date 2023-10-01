@@ -1,0 +1,7 @@
+[32505]
+name=
+ring=Smoothed Rounded Rectangle
+class=0,
+rect=0,0,0,0
+terms=0
+

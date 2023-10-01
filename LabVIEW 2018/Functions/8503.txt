@@ -1,0 +1,13 @@
+[8503]
+name=Get Submatrix
+ring=Get Submatrix
+class=16410,GrowableFunction
+rect=0,0,32,51
+terms=6
+term/0=0,0,16,18,i,#FF7F00,matrix
+term/1=16,0,32,51,o,#FF7F00,submatrix
+term/2=0,18,16,26,i,#0000FF,row 1
+term/3=0,26,16,34,i,#0000FF,row N
+term/4=0,34,16,42,i,#0000FF,column 1
+term/5=0,42,16,50,i,#0000FF,column N
+

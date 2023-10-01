@@ -1,0 +1,8 @@
+[3476]
+name=Data Value Reference
+ring=Data Value Reference
+class=135,DataValRefNum
+rect=0,19,76,67
+terms=1
+term/0=0,19,76,67,o,#007F7F,Data Value Reference
+

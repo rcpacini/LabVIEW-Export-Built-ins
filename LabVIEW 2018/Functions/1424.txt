@@ -1,0 +1,9 @@
+[1424]
+name=Refnum to Path
+ring=Refnum to Path
+class=16400,Function
+rect=0,0,25,11
+terms=2
+term/0=12,0,25,11,o,#007F7F,path
+term/1=0,0,12,11,i,#007F7F,refnum
+

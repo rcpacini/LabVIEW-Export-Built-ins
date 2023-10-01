@@ -1,0 +1,10 @@
+[1170]
+name=Split Number
+ring=Split Number
+class=16400,Function
+rect=0,0,18,18
+terms=3
+term/0=0,0,9,18,i,#0000FF,x
+term/1=9,0,18,9,o,#0000FF,hi(x)
+term/2=9,9,18,18,o,#0000FF,lo(x)
+

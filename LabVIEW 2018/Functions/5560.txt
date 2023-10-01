@@ -1,0 +1,9 @@
+[5560]
+name=To Time Stamp
+ring=To Time Stamp
+class=16400,Function
+rect=0,0,26,11
+terms=2
+term/0=13,0,26,11,o,#990000,Time Stamp
+term/1=0,0,13,11,i,#FF7F00,number
+

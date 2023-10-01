@@ -1,0 +1,11 @@
+[2044]
+name=Array Subset
+ring=Array Subset
+class=16410,GrowableFunction
+rect=0,0,32,35
+terms=4
+term/0=0,0,16,18,i,#FF7F00,array
+term/1=16,0,32,35,o,#000000,subarray
+term/2=0,18,16,26,i,#0000FF,index
+term/3=0,26,16,34,i,#0000FF,length
+

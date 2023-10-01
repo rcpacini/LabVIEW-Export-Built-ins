@@ -1,0 +1,7 @@
+[3718]
+name=
+ring=Down Tee (shaded)
+class=0,
+rect=0,0,0,0
+terms=0
+

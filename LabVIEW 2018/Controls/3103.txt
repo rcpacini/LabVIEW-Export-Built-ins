@@ -1,0 +1,8 @@
+[3103]
+name=Boolean
+ring=Flat Square Button
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+

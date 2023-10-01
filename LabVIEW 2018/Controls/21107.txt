@@ -1,0 +1,8 @@
+[21107]
+name=Slide
+ring=Vertical Graduated Bar
+class=21,Slide
+rect=5,27,16,122
+terms=1
+term/0=5,27,16,122,i,#0000FF,Slide
+

@@ -1,0 +1,10 @@
+[1080]
+name=Implies
+ring=Implies
+class=16400,Function
+rect=0,0,21,15
+terms=3
+term/0=10,0,21,15,o,#007F00,x .implies. y?
+term/1=0,7,10,15,i,#007F00,y
+term/2=0,0,10,7,i,#007F00,x
+

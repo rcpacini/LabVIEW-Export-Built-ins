@@ -1,0 +1,14 @@
+[9130]
+name=Lossy Enqueue Element
+ring=Lossy Enqueue Element
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=0,0,8,8,i,#007F7F,queue
+term/1=0,8,8,16,i,#FF00FF,element
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=24,0,32,8,o,#007F7F,queue out
+term/4=24,8,32,16,o,#FF00FF,overflow element
+term/5=24,16,32,24,o,#007F00,overflow?
+term/6=24,24,32,32,o,#7F7F00,error out
+

@@ -1,0 +1,7 @@
+[2104]
+name=Inline C Node
+ring=Inline C Node
+class=16504,InlineCNode
+rect=0,0,160,84
+terms=0
+

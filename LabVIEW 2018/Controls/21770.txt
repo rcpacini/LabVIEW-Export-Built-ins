@@ -1,0 +1,8 @@
+[21770]
+name=DAQmx Global Channel
+ring=DAQmx Global Channel (modern)
+class=57,DAQmxName
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,DAQmx Global Channel
+

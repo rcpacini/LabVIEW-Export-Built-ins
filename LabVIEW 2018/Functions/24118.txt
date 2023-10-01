@@ -1,0 +1,17 @@
+[24118]
+name=TDMS Write IP
+ring=TDMS Write IP
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=0,0,7,7,i,#007F7F,tdms file
+term/1=25,0,32,7,o,#007F7F,tdms file out
+term/2=0,7,7,13,i,#FF00FF,group name in
+term/3=25,7,32,13,o,#FF00FF,group name out
+term/4=0,13,7,19,i,#FF00FF,channel names in
+term/5=25,13,32,19,o,#FF00FF,channel names out
+term/6=0,19,7,25,i,#FF00FF,data
+term/7=25,19,32,25,o,#993300,data out
+term/8=0,25,7,32,i,#7F7F00,error in (no error)
+term/9=25,25,32,32,o,#7F7F00,error out
+

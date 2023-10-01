@@ -1,0 +1,12 @@
+[3917]
+name=Multiply
+ring=Multiply (with error terminals)
+class=16400,Function
+rect=0,0,21,30
+terms=5
+term/0=10,0,21,21,o,#FF7F00,x*y
+term/1=0,10,10,21,i,#FF7F00,y
+term/2=0,0,10,10,i,#FF7F00,x
+term/3=10,21,21,30,o,#7F7F00,error out
+term/4=0,21,10,30,i,#7F7F00,error in (no error)
+

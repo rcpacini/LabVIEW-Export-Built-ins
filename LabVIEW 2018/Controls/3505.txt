@@ -1,0 +1,8 @@
+[3505]
+name=Pixmap
+ring=PixMap
+class=78,Pixmap
+rect=0,19,38,57
+terms=1
+term/0=0,19,38,57,i,#0000FF,Pixmap
+

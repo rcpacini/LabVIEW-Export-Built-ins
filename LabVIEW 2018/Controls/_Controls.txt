@@ -1,0 +1,3093 @@
+[128]
+name=
+ring=
+class=5,Text
+rect=0,0,4,14
+terms=0
+
+[2072]
+name=ActiveX Container
+ring=ActiveX Container
+class=16,ActiveXContainer
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#007F7F,ActiveX Container
+
+[2100]
+name=Numeric
+ring=Dlg Numeric #1
+class=18,Digital
+rect=0,19,40,36
+terms=1
+term/0=0,19,40,36,o,#FF7F00,Numeric
+
+[2110]
+name=String
+ring=Dlg String
+class=27,String
+rect=0,19,40,36
+terms=1
+term/0=0,19,40,36,o,#FF00FF,String
+
+[2111]
+name=String
+ring=
+class=27,String
+rect=0,19,40,40
+terms=1
+term/0=0,19,40,40,o,#FF00FF,String
+
+[2115]
+name=String
+ring=Simple String
+class=27,String
+rect=0,19,40,38
+terms=1
+term/0=0,19,40,38,o,#FF00FF,String
+
+[2125]
+name=.NET Container
+ring=.NET Container
+class=16,ActiveXContainer
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#007F7F,.NET Container
+
+[2900]
+name=Numeric
+ring=Simple Numeric
+class=18,Digital
+rect=0,19,40,38
+terms=1
+term/0=0,19,40,38,o,#FF7F00,Numeric
+
+[2905]
+name=Color Box
+ring=Color Box Thin Border
+class=7,ColorBox
+rect=2,21,28,47
+terms=1
+term/0=2,21,28,47,o,#0000FF,Color Box
+
+[3000]
+name=Numeric
+ring=Numeric Control (classic)
+class=18,Digital
+rect=7,19,57,40
+terms=1
+term/0=7,19,57,40,o,#FF7F00,Numeric
+
+[3001]
+name=Numeric
+ring=Numeric Indicator (classic)
+class=18,Digital
+rect=0,19,50,40
+terms=1
+term/0=0,19,50,40,i,#FF7F00,Numeric
+
+[3002]
+name=Slide
+ring=Simple Vertical Slide
+class=21,Slide
+rect=22,28,32,129
+terms=1
+term/0=22,28,32,129,o,#FF7F00,Slide
+
+[3003]
+name=Slide
+ring=Simple Horizontal Slide
+class=21,Slide
+rect=9,29,110,39
+terms=1
+term/0=9,29,110,39,o,#FF7F00,Slide
+
+[3004]
+name=Slide
+ring=Classic Vertical Slide
+class=21,Slide
+rect=24,28,30,129
+terms=1
+term/0=24,28,30,129,o,#FF7F00,Slide
+
+[3005]
+name=Knob
+ring=Knob (classic)
+class=32,Knob
+rect=16,43,56,83
+terms=1
+term/0=16,43,56,83,o,#FF7F00,Knob
+
+[3006]
+name=Numeric
+ring=Dlg Numeric #2
+class=18,Digital
+rect=8,16,58,37
+terms=1
+term/0=8,16,58,37,o,#0000FF,Numeric
+
+[3007]
+name=Slide
+ring=Vertical Pointer Slide (classic)
+class=21,Slide
+rect=27,28,33,129
+terms=1
+term/0=27,28,33,129,o,#FF7F00,Slide
+
+[3008]
+name=Color Box
+ring=Framed Color Box (classic)
+class=7,ColorBox
+rect=0,19,30,49
+terms=1
+term/0=0,19,30,49,o,#0000FF,Color Box
+
+[3009]
+name=Slide
+ring=Vertical Fill Slide (classic)
+class=21,Slide
+rect=22,28,32,129
+terms=1
+term/0=22,28,32,129,o,#FF7F00,Slide
+
+[3010]
+name=Slide
+ring=Horizontal Slide (classic)
+class=21,Slide
+rect=9,31,110,37
+terms=1
+term/0=9,31,110,37,o,#FF7F00,Slide
+
+[3011]
+name=Slide
+ring=Horizontal Pointer Slide (classic)
+class=21,Slide
+rect=9,28,110,34
+terms=1
+term/0=9,28,110,34,o,#FF7F00,Slide
+
+[3012]
+name=Slide
+ring=Horizontal Fill Slide (classic)
+class=21,Slide
+rect=9,29,110,39
+terms=1
+term/0=9,29,110,39,o,#FF7F00,Slide
+
+[3013]
+name=Color Box
+ring=Classic Color Box
+class=7,ColorBox
+rect=0,19,30,49
+terms=1
+term/0=0,19,30,49,o,#0000FF,Color Box
+
+[3014]
+name=Ring
+ring=Text Ring (classic)
+class=34,Ring
+rect=7,19,57,40
+terms=1
+term/0=7,19,57,40,o,#0000FF,Ring
+
+[3015]
+name=Ring
+ring=Pict Ring (classic)
+class=34,Ring
+rect=7,19,57,67
+terms=1
+term/0=7,19,57,67,o,#0000FF,Ring
+
+[3016]
+name=Ring
+ring=Text & Pict Ring (classic)
+class=34,Ring
+rect=7,19,57,72
+terms=1
+term/0=7,19,57,72,o,#0000FF,Ring
+
+[3017]
+name=
+ring=Menu-Popup Ring
+class=34,Ring
+rect=0,0,16,12
+terms=1
+term/0=0,0,16,12,o,#0000FF,
+
+[3018]
+name=Ring
+ring=Menu Ring (classic)
+class=34,Ring
+rect=1,20,116,40
+terms=1
+term/0=1,20,116,40,o,#0000FF,Ring
+
+[3019]
+name=Ring
+ring=Recessed Menu Ring
+class=34,Ring
+rect=1,20,116,40
+terms=1
+term/0=1,20,116,40,o,#0000FF,Ring
+
+[3020]
+name=Tank
+ring=Tank (classic)
+class=21,Slide
+rect=22,28,82,129
+terms=1
+term/0=22,28,82,129,i,#FF7F00,Tank
+
+[3021]
+name=Thermometer
+ring=Thermometer (classic)
+class=21,Slide
+rect=28,24,38,129
+terms=1
+term/0=28,24,38,129,i,#FF7F00,Thermometer
+
+[3022]
+name=Color Ramp
+ring=Classic Color Ramp
+class=20,ColorRamp
+rect=38,19,103,84
+terms=1
+term/0=38,19,103,84,i,#FF7F00,Color Ramp
+
+[3023]
+name=Enum
+ring=Enum (classic)
+class=35,Enum
+rect=7,19,57,40
+terms=1
+term/0=7,19,57,40,o,#0000FF,Enum
+
+[3030]
+name=Meter
+ring=Meter (classic)
+class=32,Knob
+rect=0,19,160,79
+terms=1
+term/0=0,19,160,79,i,#FF7F00,Meter
+
+[3040]
+name=Gauge
+ring=Gauge (classic)
+class=32,Knob
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,i,#FF7F00,Gauge
+
+[3050]
+name=Dial
+ring=Dial (classic)
+class=32,Knob
+rect=16,43,56,83
+terms=1
+term/0=16,43,56,83,o,#FF7F00,Dial
+
+[3060]
+name=Ring
+ring=Text Ring (system)
+class=34,Ring
+rect=0,19,116,40
+terms=1
+term/0=0,19,116,40,o,#0000FF,Ring
+
+[3061]
+name=Ring
+ring=Pulldown Menu Ring
+class=34,Ring
+rect=1,35,116,55
+terms=1
+term/0=1,35,116,55,o,#0000FF,Ring
+
+[3062]
+name=Enum
+ring=Enum (system)
+class=35,Enum
+rect=0,19,116,40
+terms=1
+term/0=0,19,116,40,o,#0000FF,Enum
+
+[3070]
+name=Tank
+ring=Atmospheric Tank (classic)
+class=21,Slide
+rect=28,31,88,81
+terms=1
+term/0=28,31,88,81,i,#FF7F00,Tank
+
+[3071]
+name=Tank
+ring=Horizontal Tank
+class=21,Slide
+rect=38,22,148,72
+terms=1
+term/0=38,22,148,72,i,#FF7F00,Tank
+
+[3072]
+name=Hopper
+ring=Hopper #2
+class=21,Slide
+rect=28,28,88,78
+terms=1
+term/0=28,28,88,78,i,#FF7F00,Hopper
+
+[3073]
+name=Bin
+ring=Bin #1
+class=21,Slide
+rect=28,28,88,78
+terms=1
+term/0=28,28,88,78,i,#FF7F00,Bin
+
+[3074]
+name=Tank
+ring=Open Tank (shaded classic)
+class=21,Slide
+rect=26,28,90,80
+terms=1
+term/0=26,28,90,80,i,#FF7F00,Tank
+
+[3075]
+name=Tank
+ring=Pressure Tank (flat)
+class=21,Slide
+rect=28,23,88,83
+terms=1
+term/0=28,23,88,83,i,#FF7F00,Tank
+
+[3100]
+name=Boolean
+ring=Round Button
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,o,#007F00,Boolean
+
+[3101]
+name=Boolean
+ring=Square Button
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,o,#007F00,Boolean
+
+[3102]
+name=Boolean
+ring=Flat Round Button
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+
+[3103]
+name=Boolean
+ring=Flat Square Button
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+
+[3104]
+name=Boolean
+ring=Round Light
+class=8,Boolean
+rect=0,19,19,38
+terms=1
+term/0=0,19,19,38,i,#007F00,Boolean
+
+[3105]
+name=Boolean
+ring=Square Light
+class=8,Boolean
+rect=0,19,19,38
+terms=1
+term/0=0,19,19,38,i,#007F00,Boolean
+
+[3106]
+name=Boolean
+ring=Round Radio Button
+class=8,Boolean
+rect=0,19,12,31
+terms=1
+term/0=0,19,12,31,o,#007F00,Boolean
+
+[3107]
+name=Boolean
+ring=Square Radio Button
+class=8,Boolean
+rect=0,19,12,31
+terms=1
+term/0=0,19,12,31,o,#007F00,Boolean
+
+[3108]
+name=Boolean
+ring=Horizontal Switch
+class=8,Boolean
+rect=0,19,30,34
+terms=1
+term/0=0,19,30,34,o,#007F00,Boolean
+
+[3109]
+name=Boolean
+ring=Vertical Switch
+class=8,Boolean
+rect=0,19,15,49
+terms=1
+term/0=0,19,15,49,o,#007F00,Boolean
+
+[3110]
+name=Boolean
+ring=Horizontal Toggle Switch (classic)
+class=8,Boolean
+rect=0,19,40,39
+terms=1
+term/0=0,19,40,39,o,#007F00,Boolean
+
+[3111]
+name=Boolean
+ring=Vertical Toggle Switch (classic)
+class=8,Boolean
+rect=0,19,20,59
+terms=1
+term/0=0,19,20,59,o,#007F00,Boolean
+
+[3112]
+name=Boolean
+ring=Round Push Button (profile)
+class=8,Boolean
+rect=0,19,30,49
+terms=1
+term/0=0,19,30,49,o,#007F00,Boolean
+
+[3113]
+name=Boolean
+ring=Square Push Button (profile)
+class=8,Boolean
+rect=0,19,30,49
+terms=1
+term/0=0,19,30,49,o,#007F00,Boolean
+
+[3114]
+name=Boolean
+ring=Classic Horizontal Slide Switch
+class=8,Boolean
+rect=0,19,30,38
+terms=1
+term/0=0,19,30,38,o,#007F00,Boolean
+
+[3115]
+name=Boolean
+ring=Vertical Slide Switch (classic)
+class=8,Boolean
+rect=0,19,19,49
+terms=1
+term/0=0,19,19,49,o,#007F00,Boolean
+
+[3116]
+name=Boolean
+ring=LED Button
+class=8,Boolean
+rect=0,19,22,52
+terms=1
+term/0=0,19,22,52,o,#007F00,Boolean
+
+[3117]
+name=Boolean
+ring=Checkbox (classic)
+class=8,Boolean
+rect=0,19,12,31
+terms=1
+term/0=0,19,12,31,o,#007F00,Boolean
+
+[3118]
+name=Boolean
+ring=Round Push Button
+class=8,Boolean
+rect=0,19,27,49
+terms=1
+term/0=0,19,27,49,o,#007F00,Boolean
+
+[3119]
+name=Boolean
+ring=Square Push Button
+class=8,Boolean
+rect=0,19,27,49
+terms=1
+term/0=0,19,27,49,o,#007F00,Boolean
+
+[3120]
+name=Boolean
+ring=Round LED (classic)
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+
+[3121]
+name=Boolean
+ring=Square LED (classic)
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+
+[3122]
+name=Boolean
+ring=Labeled Round Button
+class=8,Boolean
+rect=0,19,32,49
+terms=1
+term/0=0,19,32,49,o,#007F00,Boolean
+
+[3123]
+name=Boolean
+ring=Labeled Square Button
+class=8,Boolean
+rect=0,19,40,39
+terms=1
+term/0=0,19,40,39,o,#007F00,Boolean
+
+[3124]
+name=Boolean
+ring=Labeled Rectangular Button
+class=8,Boolean
+rect=0,19,40,39
+terms=1
+term/0=0,19,40,39,o,#007F00,Boolean
+
+[3125]
+name=Boolean
+ring=Labeled Oblong Button
+class=8,Boolean
+rect=0,19,40,39
+terms=1
+term/0=0,19,40,39,o,#007F00,Boolean
+
+[3127]
+name=stop
+ring=Round Stop Button
+class=8,Boolean
+rect=0,19,44,63
+terms=1
+term/0=0,19,44,63,o,#007F00,stop
+
+[3128]
+name=stop
+ring=Rectangular Stop Button
+class=8,Boolean
+rect=0,19,44,41
+terms=1
+term/0=0,19,44,41,o,#007F00,stop
+
+[3129]
+name=Boolean
+ring=
+class=8,Boolean
+rect=0,19,32,39
+terms=1
+term/0=0,19,32,39,i,#007F00,Boolean
+
+[3130]
+name=Boolean
+ring=OK Button (system)
+class=8,Boolean
+rect=0,19,75,42
+terms=1
+term/0=0,19,75,42,o,#007F00,Boolean
+
+[3131]
+name=Boolean
+ring=Cancel Button (system)
+class=8,Boolean
+rect=0,19,75,42
+terms=1
+term/0=0,19,75,42,o,#007F00,Boolean
+
+[3132]
+name=Boolean
+ring=Checkbox (system)
+class=8,Boolean
+rect=0,19,13,32
+terms=1
+term/0=0,19,13,32,o,#007F00,Boolean
+
+[3133]
+name=Boolean
+ring=Radio Button (system)
+class=8,Boolean
+rect=0,19,13,32
+terms=1
+term/0=0,19,13,32,o,#007F00,Boolean
+
+[3134]
+name=Boolean
+ring=Platform Flat Square Button
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+
+[3150]
+name=OleVariant
+ring=OLE Variant
+class=3,Generic
+rect=0,19,86,38
+terms=1
+term/0=0,19,86,38,o,#7F007F,OleVariant
+
+[3200]
+name=String
+ring=String Control (classic)
+class=27,String
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#FF00FF,String
+
+[3201]
+name=String
+ring=String Indicator (classic)
+class=27,String
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,i,#FF00FF,String
+
+[3203]
+name=Path
+ring=File Path Control (classic)
+class=11,Path
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#007F7F,Path
+
+[3204]
+name=Path
+ring=File Path Indicator (classic)
+class=11,Path
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,i,#007F7F,Path
+
+[3210]
+name=Digital Data
+ring=Digital Data (classic)
+class=61,DigitalTable
+rect=0,19,150,106
+terms=1
+term/0=0,19,150,106,o,#007F00,Digital Data
+
+[3300]
+name=Array
+ring=Array (classic)
+class=14,Array
+rect=32,19,82,69
+terms=1
+term/0=32,19,82,69,o,#000000,Array
+
+[3304]
+name=Combo Box
+ring=Combo Box (classic)
+class=29,ComboBox
+rect=0,19,163,40
+terms=1
+term/0=0,19,163,40,o,#FF00FF,Combo Box
+
+[3310]
+name=Variant
+ring=Variant
+class=10,LVVariant
+rect=0,19,150,94
+terms=1
+term/0=0,19,150,94,i,#000000,Variant
+
+[3317]
+name=Classic DAQmx Scale Name
+ring=DAQmx Scale Name (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic DAQmx Scale Name
+
+[3318]
+name=Classic DAQmx Device Name
+ring=DAQmx Device Name (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic DAQmx Device Name
+
+[3319]
+name=Classic DAQmx Terminal
+ring=DAQmx Terminal (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic DAQmx Terminal
+
+[3320]
+name=Classic Traditional DAQ Channel
+ring=Traditional DAQ Channel (classic)
+class=49,DAQChannelName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic Traditional DAQ Channel
+
+[3329]
+name=User Defined Tag
+ring=User Defined Tag (classic)
+class=28,IOName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,User Defined Tag
+
+[3330]
+name=Tab Control
+ring=Tab Control (classic)
+class=55,TabControl
+rect=0,25,225,175
+terms=1
+term/0=0,25,225,175,o,#0000FF,Tab Control
+
+[3331]
+name=Tab Control
+ring=Tab Control (system)
+class=55,TabControl
+rect=0,25,225,175
+terms=1
+term/0=0,25,225,175,o,#0000FF,Tab Control
+
+[3332]
+name=Tab Control
+ring=Tab Control (modern)
+class=55,TabControl
+rect=0,25,225,175
+terms=1
+term/0=0,25,225,175,o,#0000FF,Tab Control
+
+[3335]
+name=Classic DAQmx Physical Channel
+ring=DAQmx Physical Channel (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic DAQmx Physical Channel
+
+[3336]
+name=DAQmx Analog Trigger Source
+ring=DAQmx Analog Trigger Source (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,DAQmx Analog Trigger Source
+
+[3337]
+name=Classic DAQmx Switch
+ring=DAQmx Switch (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic DAQmx Switch
+
+[3339]
+name=CAN Interface
+ring=CAN Interface (classic)
+class=28,IOName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,CAN Interface
+
+[3340]
+name=CAN Channel
+ring=CAN Channel (classic)
+class=28,IOName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,CAN Channel
+
+[3400]
+name=Cluster
+ring=Cluster (classic)
+class=30,Cluster
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#000000,Cluster
+
+[3402]
+name=Data Log File Refnum
+ring=Data Log File Refnum
+class=9,RefNum
+rect=0,19,48,89
+terms=1
+term/0=0,19,48,89,o,#000000,Data Log File Refnum
+
+[3405]
+name=Device Refnum
+ring=Device Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Device Refnum
+
+[3406]
+name=Occurrence Refnum
+ring=Occurrence Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Occurrence Refnum
+
+[3407]
+name=TCP Network Connection Refnum
+ring=TCP Network Connection Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,TCP Network Connection Refnum
+
+[3408]
+name=Byte Stream File Refnum
+ring=Byte Stream File Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Byte Stream File Refnum
+
+[3409]
+name=VISA resource name
+ring=VISA resource name (classic)
+class=50,VISAResourceName
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,VISA resource name
+
+[3410]
+name=Automation Refnum
+ring=Automation Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Automation Refnum
+
+[3412]
+name=App Refnum
+ring=Application Refnum
+class=59,LVObjectRefNum
+rect=0,19,36,67
+terms=1
+term/0=0,19,36,67,o,#007F7F,App Refnum
+
+[3413]
+name=Menu Refnum
+ring=Menu Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Menu Refnum
+
+[3414]
+name=IVI Logical Name
+ring=IVI Logical Name (classic)
+class=51,IVILogicalName
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,IVI Logical Name
+
+[3415]
+name=IMAQ Session
+ring=IMAQ Session
+class=9,RefNum
+rect=0,19,40,45
+terms=1
+term/0=0,19,40,45,o,#007F7F,IMAQ Session
+
+[3417]
+name=DataSocket Refnum
+ring=DataSocket Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,DataSocket Refnum
+
+[3418]
+name=UDP Network Connection Refnum
+ring=UDP Network Connection Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,UDP Network Connection Refnum
+
+[3419]
+name=Ctl Refnum
+ring=Control Refnum
+class=59,LVObjectRefNum
+rect=0,19,36,67
+terms=1
+term/0=0,19,36,67,o,#007F7F,Ctl Refnum
+
+[3422]
+name=VI Refnum
+ring=VI Refnum
+class=58,VIRefNum
+rect=0,19,36,67
+terms=1
+term/0=0,19,36,67,o,#007F7F,VI Refnum
+
+[3423]
+name=Notifier
+ring=Notifier Refnum
+class=9,RefNum
+rect=0,19,76,67
+terms=1
+term/0=0,19,76,67,o,#007F7F,Notifier
+
+[3424]
+name=Queue
+ring=Queue Refnum
+class=9,RefNum
+rect=0,19,76,67
+terms=1
+term/0=0,19,76,67,o,#007F7F,Queue
+
+[3428]
+name=User Defined Refnum
+ring=User Defined Refnum
+class=68,GenClassRef
+rect=0,19,34,45
+terms=1
+term/0=0,19,34,45,o,#007F7F,User Defined Refnum
+
+[3429]
+name=User Defined Refnum Tag
+ring=User Defined Refnum Tag (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,User Defined Refnum Tag
+
+[3435]
+name=Event Callback
+ring=Event Callback Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Event Callback
+
+[3439]
+name=Classic FieldPoint IO Point
+ring=FieldPoint IO Point (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic FieldPoint IO Point
+
+[3441]
+name=.NET Refnum
+ring=.NET Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,.NET Refnum
+
+[3442]
+name=Classic DAQmx Task Name
+ring=DAQmx Task Name (classic)
+class=57,DAQmxName
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic DAQmx Task Name
+
+[3443]
+name=Classic DAQmx Global Channel
+ring=DAQmx Global Channel (classic)
+class=57,DAQmxName
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic DAQmx Global Channel
+
+[3448]
+name=Classic Motion Resource
+ring=Motion Resource (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic Motion Resource
+
+[3450]
+name=IrDA Refnum
+ring=IrDA Network Connection Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,IrDA Refnum
+
+[3454]
+name=User Defined Refnum Tag Flatten
+ring=User Defined Refnum Tag Flatten (classic)
+class=122,GenClassTagFlatRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,User Defined Refnum Tag Flatten
+
+[3457]
+name=LabVIEW Object
+ring=LabVIEW Object
+class=102,LabVIEWClassControl
+rect=0,15,48,63
+terms=1
+term/0=0,15,48,63,o,#C10061,LabVIEW Object
+
+[3468]
+name=Bluetooth Refnum
+ring=Bluetooth Network Connection Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Bluetooth Refnum
+
+[3470]
+name=CAN Task
+ring=CAN Task (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,CAN Task
+
+[3472]
+name=Classic Shared Variable Control
+ring=Shared Variable Control (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic Shared Variable Control
+
+[3474]
+name=Queue
+ring=FIFO Refnum
+class=9,RefNum
+rect=0,19,76,67
+terms=1
+term/0=0,19,76,67,o,#007F7F,Queue
+
+[3476]
+name=Data Value Reference
+ring=Data Value Reference
+class=135,DataValRefNum
+rect=0,19,76,67
+terms=1
+term/0=0,19,76,67,o,#007F7F,Data Value Reference
+
+[3477]
+name=TDMS File
+ring=TDMS File
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,TDMS File
+
+[3486]
+name=Python Session Refnum
+ring=Python Session Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Python Session Refnum
+
+[3500]
+name=XY Graph
+ring=XY Graph (classic)
+class=83,XYGraph
+rect=2,19,326,319
+terms=1
+term/0=2,19,326,319,i,#993300,XY Graph
+
+[3501]
+name=Waveform Chart
+ring=Waveform Chart (classic)
+class=23,WaveformChart
+rect=0,19,322,237
+terms=1
+term/0=0,19,322,237,i,#FF7F00,Waveform Chart
+
+[3504]
+name=Waveform Graph
+ring=Waveform Graph (classic)
+class=24,WaveformGraph
+rect=0,19,322,237
+terms=1
+term/0=0,19,322,237,i,#FF7F00,Waveform Graph
+
+[3505]
+name=Pixmap
+ring=PixMap
+class=78,Pixmap
+rect=0,19,38,57
+terms=1
+term/0=0,19,38,57,i,#0000FF,Pixmap
+
+[3506]
+name=
+ring=User Item
+class=6,Control
+rect=0,0,38,38
+terms=1
+term/0=0,0,38,38,i,#0000FF,
+
+[3507]
+name=Pixmap
+ring=PixMap (warning: dangerous)
+class=78,Pixmap
+rect=53,19,91,57
+terms=1
+term/0=53,19,91,57,i,#0000FF,Pixmap
+
+[3508]
+name=2D Picture
+ring=2D Picture
+class=15,Picture
+rect=0,19,81,100
+terms=1
+term/0=0,19,81,100,i,#0000FF,2D Picture
+
+[3509]
+name=Intensity Chart
+ring=Intensity Chart (classic)
+class=25,IntensityChart
+rect=3,19,310,237
+terms=1
+term/0=3,19,310,237,i,#FF7F00,Intensity Chart
+
+[3510]
+name=Intensity Graph
+ring=Intensity Graph (classic)
+class=26,IntensityGraph
+rect=3,19,310,237
+terms=1
+term/0=3,19,310,237,i,#FF7F00,Intensity Graph
+
+[3511]
+name=Digital Waveform Graph
+ring=Digital Waveform Graph (classic)
+class=121,DigitalGraph
+rect=116,19,438,237
+terms=1
+term/0=116,19,438,237,i,#FF00FF,Digital Waveform Graph
+
+[3600]
+name=
+ring=Raised Box (classic)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3601]
+name=
+ring=Recessed Box
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3602]
+name=
+ring=Flat Box
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3603]
+name=
+ring=Raised Circle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3604]
+name=
+ring=Recessed Circle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3605]
+name=
+ring=Flat Circle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3606]
+name=
+ring=Raised Frame
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3607]
+name=
+ring=Recessed Frame (modern)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3608]
+name=
+ring=Flat Frame
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3609]
+name=
+ring=Raised Rounded Box
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3610]
+name=
+ring=Recessed Rounded Box
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3611]
+name=
+ring=Flat Rounded Box
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3612]
+name=
+ring=Raised Left Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3613]
+name=
+ring=Raised Right Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3614]
+name=
+ring=Raised Up Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3615]
+name=
+ring=Raised Down Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3616]
+name=
+ring=Recessed Left Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3617]
+name=
+ring=Recessed Right Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3618]
+name=
+ring=Recessed Up Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3619]
+name=
+ring=Recessed Down Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3620]
+name=
+ring=Flat Left Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3621]
+name=
+ring=Flat Right Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3622]
+name=
+ring=Flat Up Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3623]
+name=
+ring=Flat Down Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3624]
+name=
+ring=Recessed Frame (system)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3625]
+name=
+ring=Colored Rectangle (broken?)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3626]
+name=
+ring=Line (thin)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3627]
+name=
+ring=Line (chiseled, thin)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3628]
+name=
+ring=Line with Arrow (thin)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3629]
+name=
+ring=Line (thick)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3630]
+name=
+ring=Line (chiseled, thick)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3631]
+name=
+ring=Line with Arrow (thick)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3632]
+name=
+ring=Line (chiseled, system)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
+[3633]
+name=
+ring=Horizontal Smooth Box
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+
+[3634]
+name=
+ring=Vertical Smooth Box
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+
+[3635]
+name=
+ring=Lowered Box (thick)
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+
+[3636]
+name=
+ring=Horizontal Button Box
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+
+[3637]
+name=
+ring=Raised Box (modern)
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+
+[3638]
+name=
+ring=Lowered Rounded Box
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+
+[3700]
+name=
+ring=Left Rect Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3701]
+name=
+ring=Left Bow Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3702]
+name=
+ring=Up Rect Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3703]
+name=
+ring=Up Bow Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3704]
+name=
+ring=Right Rect Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3705]
+name=
+ring=Right Bow Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3706]
+name=
+ring=Down Rect Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3707]
+name=
+ring=Down Bow Valve (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3708]
+name=
+ring=Left Up Elbow (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3709]
+name=
+ring=Left Tee (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3710]
+name=
+ring=Horiz Pipe (shaded)
+class=4,Decoration
+rect=0,0,32,16
+terms=0
+
+[3711]
+name=
+ring=Left Down Elbow (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3712]
+name=
+ring=Up Tee (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3713]
+name=
+ring=Left Pump (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3714]
+name=
+ring=Right Up Elbow (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3715]
+name=
+ring=Right Tee (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3716]
+name=
+ring=Vert Pipe (shaded)
+class=4,Decoration
+rect=0,0,16,32
+terms=0
+
+[3717]
+name=
+ring=Right Down Elbow (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3718]
+name=
+ring=Down Tee (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3719]
+name=
+ring=Right Pump (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3720]
+name=
+ring=Motor (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3800]
+name=
+ring=Left Rect Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3801]
+name=
+ring=Left Bow Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3802]
+name=
+ring=Up Rect Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3803]
+name=
+ring=Up Bow Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3804]
+name=
+ring=Right Rect Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3805]
+name=
+ring=Right Bow Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3806]
+name=
+ring=Down Rect Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3807]
+name=
+ring=Down Bow Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3808]
+name=
+ring=Left Up Elbow (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3809]
+name=
+ring=Left Tee (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3810]
+name=
+ring=Horiz Pipe (flat)
+class=4,Decoration
+rect=0,0,32,16
+terms=0
+
+[3811]
+name=
+ring=Left Down Elbow (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3812]
+name=
+ring=Up Tee (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3813]
+name=
+ring=Left Pump (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3814]
+name=
+ring=Right Up Elbow (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3815]
+name=
+ring=Right Tee (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3816]
+name=
+ring=Vert Pipe (flat)
+class=4,Decoration
+rect=0,0,16,32
+terms=0
+
+[3817]
+name=
+ring=Right Down Elbow (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3818]
+name=
+ring=Down Tee (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3819]
+name=
+ring=Right Pump (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3820]
+name=
+ring=Motor (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3821]
+name=
+ring=Horiz Line
+class=4,Decoration
+rect=0,0,32,2
+terms=0
+
+[3822]
+name=
+ring=Vert Line
+class=4,Decoration
+rect=0,0,2,32
+terms=0
+
+[3823]
+name=
+ring=Up Arrow
+class=4,Decoration
+rect=0,0,8,8
+terms=0
+
+[3824]
+name=
+ring=Down Arrow
+class=4,Decoration
+rect=0,0,8,8
+terms=0
+
+[3825]
+name=
+ring=Right Arrow
+class=4,Decoration
+rect=0,0,8,8
+terms=0
+
+[3826]
+name=
+ring=Left Arrow
+class=4,Decoration
+rect=0,0,8,8
+terms=0
+
+[3827]
+name=
+ring=Conveyer
+class=4,Decoration
+rect=0,0,64,16
+terms=0
+
+[3828]
+name=
+ring=Exchanger
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3829]
+name=
+ring=Furnace
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3830]
+name=
+ring=Rotary Feeder
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3831]
+name=
+ring=Agitator
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3832]
+name=
+ring=Compressor
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[3833]
+name=
+ring=Check Valve
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[5555]
+name=Time Stamp
+ring=Time Stamp Control (classic)
+class=60,AbsTime
+rect=7,18,99,54
+terms=1
+term/0=7,18,99,54,o,#990000,Time Stamp
+
+[5556]
+name=Time Stamp
+ring=Time Stamp Indicator (classic)
+class=60,AbsTime
+rect=0,18,92,54
+terms=1
+term/0=0,18,92,54,i,#990000,Time Stamp
+
+[21000]
+name=Knob
+ring=Knob (modern)
+class=32,Knob
+rect=18,48,66,96
+terms=1
+term/0=18,48,66,96,o,#FF7F00,Knob
+
+[21001]
+name=Boolean
+ring=Push Button
+class=8,Boolean
+rect=5,24,55,45
+terms=1
+term/0=5,24,55,45,o,#007F00,Boolean
+
+[21002]
+name=Boolean
+ring=Rocker
+class=8,Boolean
+rect=5,24,55,44
+terms=1
+term/0=5,24,55,44,o,#007F00,Boolean
+
+[21003]
+name=Numeric
+ring=Numeric Control (modern)
+class=18,Digital
+rect=11,17,65,42
+terms=1
+term/0=11,17,65,42,o,#FF7F00,Numeric
+
+[21004]
+name=Numeric
+ring=Numeric Indicator (modern)
+class=18,Digital
+rect=0,17,54,42
+terms=1
+term/0=0,17,54,42,i,#FF7F00,Numeric
+
+[21005]
+name=Boolean
+ring=Vertical Toggle Switch (modern)
+class=8,Boolean
+rect=2,19,12,59
+terms=1
+term/0=2,19,12,59,o,#007F00,Boolean
+
+[21006]
+name=Tank
+ring=Tank (modern)
+class=21,Slide
+rect=24,25,84,124
+terms=1
+term/0=24,25,84,124,i,#FF7F00,Tank
+
+[21007]
+name=Thermometer
+ring=Thermometer (modern)
+class=21,Slide
+rect=28,29,38,128
+terms=1
+term/0=28,29,38,128,i,#FF7F00,Thermometer
+
+[21008]
+name=Meter
+ring=Meter (modern)
+class=32,Knob
+rect=0,17,200,107
+terms=1
+term/0=0,17,200,107,i,#FF7F00,Meter
+
+[21009]
+name=Gauge
+ring=Gauge (modern)
+class=32,Knob
+rect=0,19,120,139
+terms=1
+term/0=0,19,120,139,i,#FF7F00,Gauge
+
+[21011]
+name=Boolean
+ring=Slide Switch
+class=8,Boolean
+rect=2,21,44,33
+terms=1
+term/0=2,21,44,33,o,#007F00,Boolean
+
+[21012]
+name=Boolean
+ring=Round LED (modern)
+class=8,Boolean
+rect=2,21,19,38
+terms=1
+term/0=2,21,19,38,i,#007F00,Boolean
+
+[21013]
+name=Boolean
+ring=Square LED (modern)
+class=8,Boolean
+rect=3,22,27,30
+terms=1
+term/0=3,22,27,30,i,#007F00,Boolean
+
+[21014]
+name=Slide
+ring=Vertical Fill Slide (modern)
+class=21,Slide
+rect=24,29,34,128
+terms=1
+term/0=24,29,34,128,o,#FF7F00,Slide
+
+[21015]
+name=Boolean
+ring=Text Button
+class=8,Boolean
+rect=1,20,40,40
+terms=1
+term/0=1,20,40,40,o,#007F00,Boolean
+
+[21017]
+name=Slide
+ring=Vertical Pointer Slide (modern)
+class=21,Slide
+rect=24,29,34,128
+terms=1
+term/0=24,29,34,128,o,#FF7F00,Slide
+
+[21019]
+name=Color Box
+ring=Framed Color Box (modern)
+class=7,ColorBox
+rect=0,19,32,51
+terms=1
+term/0=0,19,32,51,o,#0000FF,Color Box
+
+[21020]
+name=Ring
+ring=Split Button
+class=34,Ring
+rect=0,15,20,42
+terms=1
+term/0=0,15,20,42,o,#FF7F00,Ring
+
+[21100]
+name=Slide
+ring=Horizontal Fill Slide (modern)
+class=21,Slide
+rect=7,24,108,34
+terms=1
+term/0=7,24,108,34,o,#FF7F00,Slide
+
+[21101]
+name=Slide
+ring=Horizontal Pointer Slide (modern)
+class=21,Slide
+rect=7,24,108,34
+terms=1
+term/0=7,24,108,34,o,#FF7F00,Slide
+
+[21102]
+name=Slide
+ring=Horizontal Progress Bar (modern)
+class=21,Slide
+rect=4,26,101,37
+terms=1
+term/0=4,26,101,37,i,#0000FF,Slide
+
+[21104]
+name=Slide
+ring=Vertical Progress Bar (modern)
+class=21,Slide
+rect=5,27,16,122
+terms=1
+term/0=5,27,16,122,i,#0000FF,Slide
+
+[21106]
+name=Slide
+ring=Horizontal Graduated Bar
+class=21,Slide
+rect=4,26,101,37
+terms=1
+term/0=4,26,101,37,i,#0000FF,Slide
+
+[21107]
+name=Slide
+ring=Vertical Graduated Bar
+class=21,Slide
+rect=5,27,16,122
+terms=1
+term/0=5,27,16,122,i,#0000FF,Slide
+
+[21110]
+name=Scrollbar
+ring=Horizontal Scrollbar
+class=90,Scrollbar
+rect=0,18,100,35
+terms=1
+term/0=0,18,100,35,o,#0000FF,Scrollbar
+
+[21111]
+name=Scrollbar
+ring=Vertical Scrollbar
+class=90,Scrollbar
+rect=0,18,17,118
+terms=1
+term/0=0,18,17,118,o,#0000FF,Scrollbar
+
+[21216]
+name=Digital Data
+ring=Digital Data (modern)
+class=61,DigitalTable
+rect=0,19,150,106
+terms=1
+term/0=0,19,150,106,o,#007F00,Digital Data
+
+[21230]
+name=stop
+ring=Stop Button
+class=8,Boolean
+rect=1,20,40,40
+terms=1
+term/0=1,20,40,40,o,#007F00,stop
+
+[21333]
+name=Mixed Checkbox
+ring=Mixed Checkbox (system)
+class=127,MixedCheckbox
+rect=0,19,13,32
+terms=1
+term/0=0,19,13,32,o,#0000FF,Mixed Checkbox
+
+[21600]
+name=Ring
+ring=Menu Ring (modern)
+class=34,Ring
+rect=1,20,116,41
+terms=1
+term/0=1,20,116,41,o,#0000FF,Ring
+
+[21601]
+name=Ring
+ring=Text Ring (modern)
+class=34,Ring
+rect=11,16,61,41
+terms=1
+term/0=11,16,61,41,o,#0000FF,Ring
+
+[21602]
+name=Ring
+ring=Pict Ring (modern)
+class=34,Ring
+rect=11,19,61,67
+terms=1
+term/0=11,19,61,67,o,#0000FF,Ring
+
+[21603]
+name=Ring
+ring=Text & Pict Ring (modern)
+class=34,Ring
+rect=9,17,63,75
+terms=1
+term/0=9,17,63,75,o,#0000FF,Ring
+
+[21604]
+name=Combo Box
+ring=Combo Box (modern)
+class=29,ComboBox
+rect=0,19,175,44
+terms=1
+term/0=0,19,175,44,o,#FF00FF,Combo Box
+
+[21605]
+name=Enum
+ring=Enum (modern)
+class=35,Enum
+rect=11,16,61,41
+terms=1
+term/0=11,16,61,41,o,#0000FF,Enum
+
+[21607]
+name=Cluster
+ring=Cluster (modern)
+class=30,Cluster
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#000000,Cluster
+
+[21608]
+name=Array
+ring=Array (modern)
+class=14,Array
+rect=41,19,121,99
+terms=1
+term/0=41,19,121,99,o,#000000,Array
+
+[21700]
+name=Boolean
+ring=Horizontal Toggle Switch (modern)
+class=8,Boolean
+rect=0,21,40,31
+terms=1
+term/0=0,21,40,31,o,#007F00,Boolean
+
+[21701]
+name=String
+ring=String Control (modern)
+class=27,String
+rect=0,19,100,44
+terms=1
+term/0=0,19,100,44,o,#FF00FF,String
+
+[21702]
+name=String
+ring=String Indicator (modern)
+class=27,String
+rect=0,19,100,44
+terms=1
+term/0=0,19,100,44,i,#FF00FF,String
+
+[21703]
+name=Waveform Graph
+ring=Waveform Graph (modern)
+class=24,WaveformGraph
+rect=0,25,328,243
+terms=1
+term/0=0,25,328,243,i,#FF7F00,Waveform Graph
+
+[21716]
+name=XY Graph
+ring=XY Graph (modern)
+class=83,XYGraph
+rect=0,25,342,325
+terms=1
+term/0=0,25,342,325,i,#993300,XY Graph
+
+[21717]
+name=Waveform Chart
+ring=Waveform Chart (modern)
+class=23,WaveformChart
+rect=0,25,328,243
+terms=1
+term/0=0,25,328,243,i,#FF7F00,Waveform Chart
+
+[21718]
+name=Digital Waveform Graph
+ring=Digital Waveform Graph (modern)
+class=121,DigitalGraph
+rect=111,19,439,237
+terms=1
+term/0=111,19,439,237,i,#FF00FF,Digital Waveform Graph
+
+[21719]
+name=Intensity Chart
+ring=Intensity Chart (modern)
+class=25,IntensityChart
+rect=0,19,313,237
+terms=1
+term/0=0,19,313,237,i,#FF7F00,Intensity Chart
+
+[21720]
+name=Intensity Graph
+ring=Intensity Graph (modern)
+class=26,IntensityGraph
+rect=0,19,313,237
+terms=1
+term/0=0,19,313,237,i,#FF7F00,Intensity Graph
+
+[21721]
+name=Mixed Signal Graph
+ring=Mixed Signal Graph
+class=92,MixedSignalGraph
+rect=0,19,392,238
+terms=1
+term/0=0,19,392,238,i,#FF7F00,Mixed Signal Graph
+
+[21730]
+name=Path
+ring=File Path Control (modern)
+class=11,Path
+rect=0,19,100,44
+terms=1
+term/0=0,19,100,44,o,#007F7F,Path
+
+[21731]
+name=Path
+ring=File Path Indicator (modern)
+class=11,Path
+rect=0,19,100,44
+terms=1
+term/0=0,19,100,44,i,#007F7F,Path
+
+[21732]
+name=Dial
+ring=Dial (modern)
+class=32,Knob
+rect=18,48,66,96
+terms=1
+term/0=18,48,66,96,o,#FF7F00,Dial
+
+[21733]
+name=Traditional DAQ Channel
+ring=Traditional DAQ Channel (modern)
+class=49,DAQChannelName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,Traditional DAQ Channel
+
+[21736]
+name=IVI Logical Name
+ring=IVI Logical Name (modern)
+class=51,IVILogicalName
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,IVI Logical Name
+
+[21737]
+name=VISA resource name
+ring=VISA resource name (modern)
+class=50,VISAResourceName
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,VISA resource name
+
+[21738]
+name=OK Button
+ring=OK Button (modern)
+class=8,Boolean
+rect=1,20,40,40
+terms=1
+term/0=1,20,40,40,o,#007F00,OK Button
+
+[21739]
+name=Cancel Button
+ring=Cancel Button (modern)
+class=8,Boolean
+rect=1,20,48,40
+terms=1
+term/0=1,20,48,40,o,#007F00,Cancel Button
+
+[21740]
+name=Boolean
+ring=Vert Rocker
+class=8,Boolean
+rect=5,24,25,74
+terms=1
+term/0=5,24,25,74,o,#007F00,Boolean
+
+[21741]
+name=Boolean
+ring=Vertical Slide Switch (modern)
+class=8,Boolean
+rect=2,21,16,65
+terms=1
+term/0=2,21,16,65,o,#007F00,Boolean
+
+[21745]
+name=User Defined Refnum Tag
+ring=User Defined Refnum Tag (modern)
+class=67,GenClassTagRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,User Defined Refnum Tag
+
+[21747]
+name=User Defined Refnum Tag Flatten
+ring=User Defined Refnum Tag Flatten (modern)
+class=122,GenClassTagFlatRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,User Defined Refnum Tag Flatten
+
+[21749]
+name=User Defined Tag
+ring=User Defined Tag (modern)
+class=28,IOName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,User Defined Tag
+
+[21751]
+name=Tank
+ring=Atmospheric Tank (modern)
+class=21,Slide
+rect=28,31,88,81
+terms=1
+term/0=28,31,88,81,i,#FF7F00,Tank
+
+[21752]
+name=Tank
+ring=Open Tank (flat classic)
+class=21,Slide
+rect=26,28,90,80
+terms=1
+term/0=26,28,90,80,i,#FF7F00,Tank
+
+[21753]
+name=Tank
+ring=Pressure Tank (shaded)
+class=21,Slide
+rect=28,23,88,83
+terms=1
+term/0=28,23,88,83,i,#FF7F00,Tank
+
+[21754]
+name=Hopper
+ring=Hopper #1
+class=21,Slide
+rect=28,28,88,78
+terms=1
+term/0=28,28,88,78,i,#FF7F00,Hopper
+
+[21755]
+name=Bin
+ring=Bin #2
+class=21,Slide
+rect=28,28,88,78
+terms=1
+term/0=28,28,88,78,i,#FF7F00,Bin
+
+[21760]
+name=
+ring=Left Rect Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21761]
+name=
+ring=Left Bow Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21762]
+name=
+ring=Up Rect Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21763]
+name=
+ring=Up Bow Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21764]
+name=
+ring=Right Rect Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21765]
+name=
+ring=Right Bow Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21766]
+name=
+ring=Down Rect Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21767]
+name=
+ring=Down Bow Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[21770]
+name=DAQmx Global Channel
+ring=DAQmx Global Channel (modern)
+class=57,DAQmxName
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,DAQmx Global Channel
+
+[21773]
+name=DAQmx Device Name
+ring=DAQmx Device Name (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Device Name
+
+[21774]
+name=DAQmx Analog Trigger Source
+ring=DAQmx Analog Trigger Source (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Analog Trigger Source
+
+[21775]
+name=DAQmx Scale Name
+ring=DAQmx Scale Name (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Scale Name
+
+[21776]
+name=DAQmx Switch
+ring=DAQmx Switch (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Switch
+
+[21777]
+name=DAQmx Physical Channel
+ring=DAQmx Physical Channel (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Physical Channel
+
+[21778]
+name=DAQmx Task Name
+ring=DAQmx Task Name (modern)
+class=57,DAQmxName
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,DAQmx Task Name
+
+[21781]
+name=DAQmx Terminal
+ring=DAQmx Terminal (modern)
+class=57,DAQmxName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,DAQmx Terminal
+
+[21784]
+name=FieldPoint IO Point
+ring=FieldPoint IO Point (modern)
+class=67,GenClassTagRef
+rect=0,15,254,41
+terms=1
+term/0=0,15,254,41,o,#7F007F,FieldPoint IO Point
+
+[21787]
+name=Motion Resource
+ring=Motion Resource (modern)
+class=67,GenClassTagRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,Motion Resource
+
+[21789]
+name=CAN Task
+ring=CAN Task (modern)
+class=67,GenClassTagRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,CAN Task
+
+[21790]
+name=Table Control
+ring=Table (modern)
+class=13,Table
+rect=0,19,250,169
+terms=1
+term/0=0,19,250,169,o,#FF00FF,Table Control
+
+[21791]
+name=Multicolumn Listbox
+ring=Multicolumn Listbox (modern)
+class=46,MulticolumnListbox
+rect=0,19,250,169
+terms=1
+term/0=0,19,250,169,o,#0000FF,Multicolumn Listbox
+
+[21792]
+name=Listbox
+ring=Listbox (modern)
+class=12,ListBox
+rect=0,19,175,170
+terms=1
+term/0=0,19,175,170,o,#0000FF,Listbox
+
+[21793]
+name=Tree
+ring=Tree (modern)
+class=66,TreeControl
+rect=0,19,250,169
+terms=1
+term/0=0,19,250,169,o,#FF00FF,Tree
+
+[21794]
+name=Tree
+ring=Tree (system)
+class=66,TreeControl
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#FF00FF,Tree
+
+[21796]
+name=Table Control
+ring=Table (classic)
+class=13,Table
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#FF00FF,Table Control
+
+[21797]
+name=Table Control
+ring=Table (system)
+class=13,Table
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#FF00FF,Table Control
+
+[21798]
+name=Multicolumn Listbox
+ring=Multicolumn Listbox (system)
+class=46,MulticolumnListbox
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#0000FF,Multicolumn Listbox
+
+[21799]
+name=Multicolumn Listbox
+ring=Multicolumn Listbox (classic)
+class=46,MulticolumnListbox
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#0000FF,Multicolumn Listbox
+
+[21805]
+name=Listbox
+ring=Listbox (system)
+class=12,ListBox
+rect=0,19,160,150
+terms=1
+term/0=0,19,160,150,o,#0000FF,Listbox
+
+[21806]
+name=Listbox
+ring=Listbox (classic)
+class=12,ListBox
+rect=0,19,163,150
+terms=1
+term/0=0,19,163,150,o,#0000FF,Listbox
+
+[21810]
+name=Sub Panel
+ring=SubPanel
+class=65,SubPanel
+rect=0,19,150,169
+terms=1
+term/0=0,19,150,169,o,#0000FF,Sub Panel
+
+[21811]
+name=Sub Panel
+ring=SubPanel (Classic)
+class=65,SubPanel
+rect=0,19,150,169
+terms=1
+term/0=0,19,150,169,o,#0000FF,Sub Panel
+
+[21814]
+name=Shared Variable Control
+ring=Shared Variable Control (modern)
+class=67,GenClassTagRef
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,Shared Variable Control
+
+[21815]
+name=CAN Interface
+ring=CAN Interface (modern)
+class=28,IOName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,CAN Interface
+
+[21817]
+name=CAN Channel
+ring=CAN Channel (modern)
+class=28,IOName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,CAN Channel
+
+[21819]
+name=Tree
+ring=Tree (classic)
+class=66,TreeControl
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#FF00FF,Tree
+
+[21823]
+name=Sub Panel
+ring=SubPanel (System)
+class=65,SubPanel
+rect=0,19,150,169
+terms=1
+term/0=0,19,150,169,o,#FF00FF,Sub Panel
+
+[21860]
+name=
+ring=Vertical Splitter Bar
+class=0,
+rect=0,0,0,0
+terms=0
+
+[21861]
+name=
+ring=Horizontal Splitter Bar
+class=0,
+rect=0,0,0,0
+terms=0
+
+[21862]
+name=
+ring=Vertical Splitter Bar (Classic)
+class=0,
+rect=0,0,0,0
+terms=0
+
+[21863]
+name=
+ring=Horizontal Splitter Bar (Classic)
+class=0,
+rect=0,0,0,0
+terms=0
+
+[21864]
+name=
+ring=Vertical Splitter Bar (System)
+class=0,
+rect=0,0,0,0
+terms=0
+
+[21865]
+name=
+ring=Horizontal Splitter Bar (System)
+class=0,
+rect=0,0,0,0
+terms=0
+
+[21900]
+name=Numeric
+ring=Spin Control (system)
+class=18,Digital
+rect=0,19,58,41
+terms=1
+term/0=0,19,58,41,o,#FF7F00,Numeric
+
+[21901]
+name=Slide
+ring=Vertical Pointer Slide (system)
+class=21,Slide
+rect=32,28,36,129
+terms=1
+term/0=32,28,36,129,o,#FF7F00,Slide
+
+[21902]
+name=Slide
+ring=Horizontal Pointer Slide (system)
+class=21,Slide
+rect=5,29,106,33
+terms=1
+term/0=5,29,106,33,o,#FF7F00,Slide
+
+[21903]
+name=Slide
+ring=Vertical Slide (system)
+class=21,Slide
+rect=32,28,36,129
+terms=1
+term/0=32,28,36,129,o,#FF7F00,Slide
+
+[21904]
+name=Slide
+ring=Horizontal Slide (system)
+class=21,Slide
+rect=5,29,106,33
+terms=1
+term/0=5,29,106,33,o,#FF7F00,Slide
+
+[21905]
+name=Slide
+ring=Dlg Horiz Scrollbar
+class=21,Slide
+rect=16,23,117,40
+terms=1
+term/0=16,23,117,40,o,#FF7F00,Slide
+
+[21906]
+name=Slide
+ring=Dlg Vert Scrollbar
+class=21,Slide
+rect=8,38,25,139
+terms=1
+term/0=8,38,25,139,o,#FF7F00,Slide
+
+[21909]
+name=Slide
+ring=Vertical Progress Bar (system)
+class=21,Slide
+rect=5,28,18,129
+terms=1
+term/0=5,28,18,129,i,#0000FF,Slide
+
+[21910]
+name=Slide
+ring=Horizontal Progress Bar (system)
+class=21,Slide
+rect=0,24,101,37
+terms=1
+term/0=0,24,101,37,i,#0000FF,Slide
+
+[21913]
+name=Time Stamp
+ring=Time Stamp Control (modern)
+class=60,AbsTime
+rect=11,17,106,57
+terms=1
+term/0=11,17,106,57,o,#990000,Time Stamp
+
+[21914]
+name=Time Stamp
+ring=Time Stamp Indicator (modern)
+class=60,AbsTime
+rect=0,17,95,57
+terms=1
+term/0=0,17,95,57,i,#990000,Time Stamp
+
+[21917]
+name=Combo Box
+ring=Combo Box (system)
+class=29,ComboBox
+rect=0,19,160,39
+terms=1
+term/0=0,19,160,39,o,#FF00FF,Combo Box
+
+[21919]
+name=Numeric
+ring=Numeric Control (system)
+class=18,Digital
+rect=0,21,39,43
+terms=1
+term/0=0,21,39,43,o,#FF7F00,Numeric
+
+[21920]
+name=String
+ring=String Control (system)
+class=27,String
+rect=0,19,147,40
+terms=1
+term/0=0,19,147,40,o,#FF00FF,String
+
+[21922]
+name=Path
+ring=File Path Control (system)
+class=11,Path
+rect=0,19,100,41
+terms=1
+term/0=0,19,100,41,o,#007F7F,Path
+
+[21924]
+name=Boolean
+ring=CheckBox (modern)
+class=8,Boolean
+rect=0,19,52,71
+terms=1
+term/0=0,19,52,71,o,#007F00,Boolean
+
+[21925]
+name=Ring
+ring=Pict Ring (system)
+class=34,Ring
+rect=0,19,50,67
+terms=1
+term/0=0,19,50,67,o,#FF7F00,Ring
+
+[21950]
+name=DAQmx Device Name
+ring=DAQmx Device Name (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Device Name
+
+[21951]
+name=DAQmx Analog Trigger Source
+ring=DAQmx Analog Trigger Source (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Analog Trigger Source
+
+[21952]
+name=DAQmx Scale Name
+ring=DAQmx Scale Name (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Scale Name
+
+[21953]
+name=DAQmx Switch
+ring=DAQmx Switch (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Switch
+
+[21954]
+name=DAQmx Physical Channel
+ring=DAQmx Physical Channel (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Physical Channel
+
+[21955]
+name=DAQmx Terminal
+ring=DAQmx Terminal (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Terminal
+
+[21957]
+name=DAQmx Global Channel
+ring=DAQmx Global Channel (system)
+class=57,DAQmxName
+rect=0,17,101,40
+terms=1
+term/0=0,17,101,40,o,#7F007F,DAQmx Global Channel
+
+[21959]
+name=DAQmx Task Name
+ring=DAQmx Task Name (system)
+class=57,DAQmxName
+rect=0,17,101,40
+terms=1
+term/0=0,17,101,40,o,#7F007F,DAQmx Task Name
+
+[21960]
+name=
+ring=Label (modern)
+class=5,Text
+rect=0,0,4,14
+terms=0
+
+[21961]
+name=
+ring=Label (system)
+class=5,Text
+rect=0,0,4,14
+terms=0
+
+[21963]
+name=CAN Task
+ring=CAN Task (system)
+class=67,GenClassTagRef
+rect=0,17,101,40
+terms=1
+term/0=0,17,101,40,o,#7F007F,CAN Task
+
+[21964]
+name=CAN Interface
+ring=CAN Interface (system)
+class=28,IOName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,CAN Interface
+
+[21966]
+name=CAN Channel
+ring=CAN Channel (system)
+class=28,IOName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,CAN Channel
+
+[21967]
+name=Time Stamp
+ring=Time Stamp Control (system)
+class=60,AbsTime
+rect=0,19,69,55
+terms=1
+term/0=0,19,69,55,o,#990000,Time Stamp
+
+[22001]
+name=Radio Buttons
+ring=Radio Buttons (modern)
+class=72,RadioButtonsControl
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#0000FF,Radio Buttons
+
+[22002]
+name=Radio Buttons
+ring=Radio Buttons (system)
+class=72,RadioButtonsControl
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#0000FF,Radio Buttons
+
+[22003]
+name=Radio Buttons
+ring=Radio Buttons (classic)
+class=72,RadioButtonsControl
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,o,#0000FF,Radio Buttons
+
+[23776]
+name=3D Picture
+ring=3D Picture
+class=100,SceneGraphDisplay
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,i,#007F7F,3D Picture
+
+[23777]
+name=Array
+ring=Array Interface Control
+class=14,Array
+rect=41,19,121,99
+terms=1
+term/0=41,19,121,99,o,#000000,Array
+
+[23780]
+name=Multi-Segment Pipe
+ring=Multi-Segment Pipe
+class=130,MultiSegmentPipe
+rect=0,19,124,97
+terms=1
+term/0=0,19,124,97,o,#007F00,Multi-Segment Pipe
+
+[32500]
+name=
+ring=Smoothed Oval
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32501]
+name=
+ring=Vertical Gradient Oval
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32502]
+name=
+ring=Horizontal Gradient Oval
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32503]
+name=
+ring=Vertical Gradient Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32504]
+name=
+ring=Horizontal Gradient Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32505]
+name=
+ring=Smoothed Rounded Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32506]
+name=
+ring=Vertical Gradient Rounded Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32507]
+name=
+ring=Horizontal Gradient Rounded Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32508]
+name=
+ring=Rounded Rectangle with Shadow
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32509]
+name=
+ring=Oval with Shadow
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32513]
+name=
+ring=Eased Corner Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32514]
+name=
+ring=Dlg Mac Group Box
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+
+[32600]
+name=Gauge
+ring=Gauge for Simon
+class=32,Knob
+rect=0,19,120,139
+terms=1
+term/0=0,19,120,139,i,#FF7F00,Gauge
+
+[32700]
+name=Tab Control
+ring=Tab Control (NXG Style)
+class=55,TabControl
+rect=0,25,225,175
+terms=1
+term/0=0,25,225,175,o,#0000FF,Tab Control
+

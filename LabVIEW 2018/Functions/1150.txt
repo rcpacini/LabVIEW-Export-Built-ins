@@ -1,0 +1,10 @@
+[1150]
+name=Mantissa & Exponent
+ring=Mantissa & Exponent
+class=16400,Function
+rect=0,0,28,28
+terms=3
+term/0=0,0,14,28,i,#FF7F00,number
+term/1=14,0,28,14,o,#FF7F00,mantissa
+term/2=14,14,28,28,o,#FF7F00,exponent
+

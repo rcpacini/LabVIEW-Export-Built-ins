@@ -1,0 +1,7 @@
+[3633]
+name=
+ring=Horizontal Smooth Box
+class=4,Decoration
+rect=0,0,100,100
+terms=0
+

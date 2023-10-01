@@ -1,0 +1,7 @@
+[3606]
+name=
+ring=Raised Frame
+class=0,
+rect=0,0,0,0
+terms=0
+

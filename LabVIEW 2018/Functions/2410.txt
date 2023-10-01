@@ -1,0 +1,11 @@
+[2410]
+name=Leak Variant Value Reference
+ring=Leak Variant Value Reference
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,16,32,32,o,#7F7F00,error out
+term/1=16,0,32,16,o,#007F7F,variant value ref out
+term/2=0,16,16,32,i,#7F7F00,error in
+term/3=0,0,16,16,i,#007F7F,variant value ref in
+

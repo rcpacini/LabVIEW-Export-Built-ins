@@ -1,0 +1,13 @@
+[1973]
+name=ReadStatus
+ring=ReadStatus
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=16,21,32,32,o,#7F7F00,error out
+term/1=16,11,32,21,o,#007F00,status
+term/2=16,0,32,11,o,#0000FF,serial poll response
+term/3=0,21,16,32,i,#7F7F00,error in
+term/4=0,11,16,21,i,#0000FF,address
+term/5=0,0,16,11,i,#0000FF,bus
+

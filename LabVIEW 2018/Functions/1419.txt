@@ -1,0 +1,10 @@
+[1419]
+name=Build Path
+ring=Build Path
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=16,0,32,32,o,#007F7F,appended path
+term/1=0,16,16,32,i,#FF00FF,name or relative path
+term/2=0,0,16,16,i,#007F7F,base path
+

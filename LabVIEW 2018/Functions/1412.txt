@@ -1,0 +1,17 @@
+[1412]
+name=Access Rights
+ring=Access Rights
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#0000FF,permissions
+term/2=24,8,32,16,o,#FF00FF,group
+term/3=24,0,32,8,o,#FF00FF,owner
+term/4=16,0,24,32,o,#007F7F,dup path
+term/5=8,0,16,32,i,#007F7F,path
+term/6=0,24,8,32,i,#7F7F00,error in
+term/7=0,16,8,24,i,#0000FF,new permissions
+term/8=0,8,8,16,i,#FF00FF,new group
+term/9=0,0,8,8,i,#FF00FF,new owner
+

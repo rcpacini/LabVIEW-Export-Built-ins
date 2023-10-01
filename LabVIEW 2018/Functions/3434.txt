@@ -1,0 +1,7 @@
+[3434]
+name=
+ring=DAQmx Task Name (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

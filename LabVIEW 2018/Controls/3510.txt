@@ -1,0 +1,8 @@
+[3510]
+name=Intensity Graph
+ring=Intensity Graph (classic)
+class=26,IntensityGraph
+rect=3,19,310,237
+terms=1
+term/0=3,19,310,237,i,#FF7F00,Intensity Graph
+

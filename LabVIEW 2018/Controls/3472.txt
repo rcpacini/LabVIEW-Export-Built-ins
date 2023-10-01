@@ -1,0 +1,8 @@
+[3472]
+name=Classic Shared Variable Control
+ring=Shared Variable Control (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic Shared Variable Control
+

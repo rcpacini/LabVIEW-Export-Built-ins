@@ -1,0 +1,8 @@
+[21600]
+name=Ring
+ring=Menu Ring (modern)
+class=34,Ring
+rect=1,20,116,41
+terms=1
+term/0=1,20,116,41,o,#0000FF,Ring
+

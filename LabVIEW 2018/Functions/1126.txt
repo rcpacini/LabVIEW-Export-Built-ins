@@ -1,0 +1,9 @@
+[1126]
+name=Lexical Class
+ring=Lexical Class
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#0000FF,class number
+term/1=0,0,10,21,i,#FF00FF,char
+

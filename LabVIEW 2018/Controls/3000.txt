@@ -1,0 +1,8 @@
+[3000]
+name=Numeric
+ring=Numeric Control (classic)
+class=18,Digital
+rect=7,19,57,40
+terms=1
+term/0=7,19,57,40,o,#FF7F00,Numeric
+

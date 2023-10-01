@@ -1,0 +1,8 @@
+[3111]
+name=Boolean
+ring=Vertical Toggle Switch (classic)
+class=8,Boolean
+rect=0,19,20,59
+terms=1
+term/0=0,19,20,59,o,#007F00,Boolean
+

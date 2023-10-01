@@ -1,0 +1,11 @@
+[1516]
+name=Select
+ring=Select
+class=16400,Function
+rect=0,0,27,27
+terms=4
+term/0=14,0,27,27,o,#FF7F00,s? t:f
+term/1=0,19,14,27,i,#FF7F00,f
+term/2=0,9,14,19,i,#007F00,s
+term/3=0,0,14,9,i,#FF7F00,t
+

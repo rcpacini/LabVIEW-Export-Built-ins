@@ -1,0 +1,7 @@
+[3800]
+name=
+ring=Left Rect Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

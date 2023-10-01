@@ -1,0 +1,12 @@
+[1539]
+name=Spreadsheet String To Array
+ring=Spreadsheet String To Array
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=21,0,32,32,o,#FF7F00,array
+term/1=11,0,21,32,i,#FF00FF,delimiter (Tab)
+term/2=0,21,11,32,i,#FF7F00,array type (2D Dbl)
+term/3=0,11,11,21,i,#FF00FF,spreadsheet string
+term/4=0,0,11,11,i,#FF00FF,format string
+

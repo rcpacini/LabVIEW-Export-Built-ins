@@ -1,0 +1,12 @@
+[1511]
+name=Append True/False String
+ring=Append True/False String
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=16,0,32,32,o,#FF00FF,output string
+term/1=0,24,16,32,i,#007F00,selector
+term/2=0,16,16,24,i,#FF00FF,false string
+term/3=0,8,16,16,i,#FF00FF,true string
+term/4=0,0,16,8,i,#FF00FF,string ("")
+

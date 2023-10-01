@@ -1,0 +1,8 @@
+[21784]
+name=FieldPoint IO Point
+ring=FieldPoint IO Point (modern)
+class=67,GenClassTagRef
+rect=0,15,254,41
+terms=1
+term/0=0,15,254,41,o,#7F007F,FieldPoint IO Point
+

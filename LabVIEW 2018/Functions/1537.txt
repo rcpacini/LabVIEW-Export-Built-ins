@@ -1,0 +1,9 @@
+[1537]
+name=Reverse String
+ring=Reverse String
+class=16400,Function
+rect=0,0,29,13
+terms=2
+term/0=15,0,29,13,o,#FF00FF,reversed
+term/1=0,0,15,13,i,#FF00FF,string
+

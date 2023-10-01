@@ -1,0 +1,8 @@
+[3022]
+name=Color Ramp
+ring=Classic Color Ramp
+class=20,ColorRamp
+rect=38,19,103,84
+terms=1
+term/0=38,19,103,84,i,#FF7F00,Color Ramp
+

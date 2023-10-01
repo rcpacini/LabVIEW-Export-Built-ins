@@ -1,0 +1,7 @@
+[3821]
+name=
+ring=Horiz Line
+class=0,
+rect=0,0,0,0
+terms=0
+

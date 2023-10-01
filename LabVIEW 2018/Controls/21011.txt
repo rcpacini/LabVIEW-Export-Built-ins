@@ -1,0 +1,8 @@
+[21011]
+name=Boolean
+ring=Slide Switch
+class=8,Boolean
+rect=2,21,44,33
+terms=1
+term/0=2,21,44,33,o,#007F00,Boolean
+

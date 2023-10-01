@@ -1,0 +1,9 @@
+[1120]
+name=Sort 1D Array
+ring=Sort 1D Array
+class=16400,Function
+rect=0,0,32,32
+terms=2
+term/0=16,0,32,32,o,#FF7F00,sorted array
+term/1=0,0,16,32,i,#FF7F00,array
+

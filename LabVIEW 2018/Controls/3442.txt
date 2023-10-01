@@ -1,0 +1,8 @@
+[3442]
+name=Classic DAQmx Task Name
+ring=DAQmx Task Name (classic)
+class=57,DAQmxName
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic DAQmx Task Name
+

@@ -1,0 +1,8 @@
+[1300]
+name=Tick Count (ms)
+ring=Tick Count (ms)
+class=16400,Function
+rect=0,0,32,32
+terms=1
+term/0=0,0,32,32,o,#0000FF,millisecond timer value
+

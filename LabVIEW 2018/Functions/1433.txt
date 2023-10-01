@@ -1,0 +1,15 @@
+[1433]
+name=Device Control/Status
+ring=Device Control/Status
+class=16400,Function
+rect=0,0,32,32
+terms=8
+term/0=24,24,32,32,o,#0000FF,new param
+term/1=24,0,32,8,o,#0000FF,err
+term/2=16,0,24,32,i,#007F00,spc reset (F)
+term/3=8,0,16,32,i,#007F00,async (T)
+term/4=0,24,8,32,i,#0000FF,param (-)
+term/5=0,16,8,24,i,#0000FF,code (-)
+term/6=0,8,8,16,i,#007F00,ctrl/stat (T:ctrl)
+term/7=0,0,8,8,i,#007F7F,device refnum
+

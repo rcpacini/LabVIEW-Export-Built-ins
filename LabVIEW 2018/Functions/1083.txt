@@ -1,0 +1,8 @@
+[1083]
+name=First Call?
+ring=First Call?
+class=16400,Function
+rect=0,0,14,14
+terms=1
+term/0=0,0,14,14,o,#007F00,First Call?: T/F
+

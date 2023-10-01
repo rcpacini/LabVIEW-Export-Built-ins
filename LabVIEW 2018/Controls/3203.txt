@@ -1,0 +1,8 @@
+[3203]
+name=Path
+ring=File Path Control (classic)
+class=11,Path
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#007F7F,Path
+

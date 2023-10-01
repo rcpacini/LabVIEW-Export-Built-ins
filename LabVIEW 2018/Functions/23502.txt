@@ -1,0 +1,7 @@
+[23502]
+name=
+ring=Tab Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

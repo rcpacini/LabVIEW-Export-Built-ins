@@ -1,0 +1,8 @@
+[21731]
+name=Path
+ring=File Path Indicator (modern)
+class=11,Path
+rect=0,19,100,44
+terms=1
+term/0=0,19,100,44,i,#007F7F,Path
+

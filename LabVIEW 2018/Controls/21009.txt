@@ -1,0 +1,8 @@
+[21009]
+name=Gauge
+ring=Gauge (modern)
+class=32,Knob
+rect=0,19,120,139
+terms=1
+term/0=0,19,120,139,i,#FF7F00,Gauge
+

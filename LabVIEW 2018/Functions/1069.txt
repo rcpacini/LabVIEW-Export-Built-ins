@@ -1,0 +1,9 @@
+[1069]
+name=Negate
+ring=Negate
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#FF7F00,-x
+term/1=0,0,10,21,i,#FF7F00,x
+

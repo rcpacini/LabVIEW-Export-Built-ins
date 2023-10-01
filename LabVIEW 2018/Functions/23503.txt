@@ -1,0 +1,7 @@
+[23503]
+name=
+ring=Empty String Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

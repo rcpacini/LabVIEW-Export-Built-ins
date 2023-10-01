@@ -1,0 +1,8 @@
+[24133]
+name=Number of Cache Levels
+ring=Number of Cache Levels
+class=16400,Function
+rect=0,0,32,14
+terms=1
+term/0=0,0,32,14,o,#0000FF,# of cache levels
+

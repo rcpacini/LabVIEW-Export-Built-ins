@@ -1,0 +1,8 @@
+[21733]
+name=Traditional DAQ Channel
+ring=Traditional DAQ Channel (modern)
+class=49,DAQChannelName
+rect=0,19,104,45
+terms=1
+term/0=0,19,104,45,o,#7F007F,Traditional DAQ Channel
+

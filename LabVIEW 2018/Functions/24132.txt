@@ -1,0 +1,10 @@
+[24132]
+name=Data Cache Size
+ring=Data Cache Size
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=0,0,16,8,i,#0000FF,cache level (2)
+term/1=16,0,32,8,o,#0000FF,total cache size (in bytes)
+term/2=16,24,32,32,o,#0000FF,cache entry size (in bytes)
+

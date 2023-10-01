@@ -1,0 +1,14 @@
+[8076]
+name=Set Permissions
+ring=Set Permissions
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#007F7F,path out
+term/2=8,0,16,16,i,#0000FF,permissions
+term/3=0,24,8,32,i,#7F7F00,error in
+term/4=0,16,8,24,i,#FF00FF,new group
+term/5=0,8,8,16,i,#FF00FF,new owner
+term/6=0,0,8,8,i,#007F7F,path
+

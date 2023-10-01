@@ -1,0 +1,12 @@
+[8061]
+name=Get Datalog Position
+ring=Get Datalog Position
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,8,32,16,o,#0000FF,offset (in records)
+term/2=16,0,32,8,o,#000000,refnum out
+term/3=0,24,16,32,i,#7F7F00,error in
+term/4=0,0,16,8,i,#000000,refnum
+

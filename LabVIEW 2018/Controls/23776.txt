@@ -1,0 +1,8 @@
+[23776]
+name=3D Picture
+ring=3D Picture
+class=100,SceneGraphDisplay
+rect=0,19,100,119
+terms=1
+term/0=0,19,100,119,i,#007F7F,3D Picture
+

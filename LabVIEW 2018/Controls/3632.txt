@@ -1,0 +1,7 @@
+[3632]
+name=
+ring=Line (chiseled, system)
+class=4,Decoration
+rect=0,0,31,31
+terms=0
+
