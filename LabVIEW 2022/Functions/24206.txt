@@ -1,0 +1,12 @@
+[24206]
+name=Open Python Session
+ring=Open Python Session
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,0,8,8,i,#FF00FF,python version
+term/1=0,8,8,16,i,#007F7F,python path
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=24,0,32,8,o,#007F7F,session out
+term/4=24,24,32,32,o,#7F7F00,error out
+

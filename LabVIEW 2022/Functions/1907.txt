@@ -1,0 +1,12 @@
+[1907]
+name=Array Max & Min
+ring=Array Max & Min
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,0,16,32,i,#FF7F00,array
+term/1=16,0,32,8,o,#FF7F00,max value
+term/2=16,8,32,16,o,#0000FF,max index (indices)
+term/3=16,16,32,24,o,#FF7F00,min value
+term/4=16,24,32,32,o,#0000FF,min index (indices)
+

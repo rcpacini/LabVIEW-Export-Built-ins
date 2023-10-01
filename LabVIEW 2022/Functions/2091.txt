@@ -1,0 +1,8 @@
+[2091]
+name=This VI
+ring=VI Server Reference
+class=16451,ControlReferenceConstant
+rect=0,17,54,36
+terms=1
+term/0=0,17,54,36,o,#007F7F,This VI
+

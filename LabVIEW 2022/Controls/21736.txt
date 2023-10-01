@@ -1,0 +1,8 @@
+[21736]
+name=IVI Logical Name
+ring=IVI Logical Name (modern)
+class=51,IVILogicalName
+rect=0,15,104,41
+terms=1
+term/0=0,15,104,41,o,#7F007F,IVI Logical Name
+

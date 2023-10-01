@@ -1,0 +1,8 @@
+[3405]
+name=Device Refnum
+ring=Device Refnum
+class=9,RefNum
+rect=0,19,21,46
+terms=1
+term/0=0,19,21,46,o,#007F7F,Device Refnum
+

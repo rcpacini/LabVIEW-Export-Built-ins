@@ -1,0 +1,9 @@
+[8402]
+name=Flatten To XML
+ring=Flatten To XML
+class=16400,Function
+rect=0,0,32,32
+terms=2
+term/0=16,8,32,16,o,#FF00FF,xml string
+term/1=0,8,16,16,i,#000000,anything
+

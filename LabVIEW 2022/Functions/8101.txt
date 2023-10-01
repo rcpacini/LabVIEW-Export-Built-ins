@@ -1,0 +1,17 @@
+[8101]
+name=Scan String For Tokens
+ring=Scan String For Tokens
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=16,24,32,32,o,#0000FF,token index
+term/1=16,16,32,24,o,#FF00FF,token string
+term/2=16,8,32,16,o,#0000FF,offset past token
+term/3=16,0,32,8,o,#FF00FF,string out
+term/4=8,16,16,32,i,#007F00,use cached delim/oper data? (F)
+term/5=8,0,16,16,i,#007F00,allow empty tokens? (F)
+term/6=0,24,8,32,i,#FF00FF,delimiters (\s,\t,\r,\n)
+term/7=0,16,8,24,i,#FF00FF,operators (none)
+term/8=0,8,8,16,i,#0000FF,offset
+term/9=0,0,8,8,i,#FF00FF,input string
+

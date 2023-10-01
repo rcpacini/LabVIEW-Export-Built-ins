@@ -1,0 +1,8 @@
+[3017]
+name=
+ring=Menu-Popup Ring
+class=34,Ring
+rect=0,0,16,12
+terms=1
+term/0=0,0,16,12,o,#0000FF,
+

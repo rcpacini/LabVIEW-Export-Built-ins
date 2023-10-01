@@ -1,0 +1,10 @@
+[2042]
+name=Index Array
+ring=Index Array
+class=16413,IndexArray
+rect=0,0,32,27
+terms=3
+term/0=0,0,16,18,i,#FF7F00,array
+term/1=16,0,32,27,o,#000000,element
+term/2=0,18,16,26,i,#0000FF,index
+

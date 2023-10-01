@@ -1,0 +1,8 @@
+[3002]
+name=Slide
+ring=Simple Vertical Slide
+class=21,Slide
+rect=22,28,32,129
+terms=1
+term/0=22,28,32,129,o,#FF7F00,Slide
+

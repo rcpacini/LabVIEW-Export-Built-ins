@@ -1,0 +1,7 @@
+[3614]
+name=
+ring=Raised Up Triangle
+class=0,
+rect=0,0,0,0
+terms=0
+

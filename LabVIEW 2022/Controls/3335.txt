@@ -1,0 +1,8 @@
+[3335]
+name=Classic DAQmx Physical Channel
+ring=DAQmx Physical Channel (classic)
+class=57,DAQmxName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,Classic DAQmx Physical Channel
+

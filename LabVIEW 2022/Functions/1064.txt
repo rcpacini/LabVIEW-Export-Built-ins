@@ -1,0 +1,9 @@
+[1064]
+name=Not
+ring=Not
+class=16400,Function
+rect=0,0,21,17
+terms=2
+term/0=10,0,21,17,o,#007F00,.not. x?
+term/1=0,0,10,17,i,#007F00,x
+

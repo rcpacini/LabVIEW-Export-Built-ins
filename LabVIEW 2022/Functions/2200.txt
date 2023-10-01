@@ -1,0 +1,10 @@
+[2200]
+name=Compound Arithmetic
+ring=Compound Arithmetic
+class=16412,CompoundArithmetic
+rect=0,0,24,17
+terms=3
+term/0=12,0,24,17,o,#FF7F00,result
+term/1=0,0,12,8,i,#FF7F00,value
+term/2=0,8,12,16,i,#FF7F00,value
+

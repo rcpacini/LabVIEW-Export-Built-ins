@@ -1,0 +1,7 @@
+[2119]
+name=
+ring=DAQmx Analog Trigger Source (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

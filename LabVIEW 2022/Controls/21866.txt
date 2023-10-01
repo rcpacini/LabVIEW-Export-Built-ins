@@ -1,0 +1,7 @@
+[21866]
+name=
+ring=Vertical Splitter Bar (NXG Style)
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,8 @@
+[21703]
+name=Waveform Graph
+ring=Waveform Graph (modern)
+class=24,WaveformGraph
+rect=0,25,328,243
+terms=1
+term/0=0,25,328,243,i,#FF7F00,Waveform Graph
+

@@ -1,0 +1,8 @@
+[21601]
+name=Ring
+ring=Text Ring (modern)
+class=34,Ring
+rect=11,16,61,41
+terms=1
+term/0=11,16,61,41,o,#0000FF,Ring
+

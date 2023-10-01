@@ -1,0 +1,7 @@
+[2373]
+name=Type Specialization Structure
+ring=Type Specialization Structure
+class=16487,DisableStructure
+rect=0,0,48,48
+terms=0
+

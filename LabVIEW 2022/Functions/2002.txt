@@ -1,0 +1,8 @@
+[2002]
+name=For Loop
+ring=For Loop
+class=16434,ForLoop
+rect=0,0,48,48
+terms=1
+term/0=0,0,16,16,i,#0000FF,
+

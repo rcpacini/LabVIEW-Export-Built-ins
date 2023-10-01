@@ -1,0 +1,8 @@
+[21964]
+name=CAN Interface
+ring=CAN Interface (system)
+class=28,IOName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,CAN Interface
+

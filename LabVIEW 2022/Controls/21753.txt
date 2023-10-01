@@ -1,0 +1,8 @@
+[21753]
+name=Tank
+ring=Pressure Tank (shaded)
+class=21,Slide
+rect=28,23,88,83
+terms=1
+term/0=28,23,88,83,i,#FF7F00,Tank
+

@@ -1,0 +1,10 @@
+[2075]
+name=Destroy User Event
+ring=Destroy User Event
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=0,0,16,8,i,#007F7F,user event
+term/1=0,24,16,32,i,#7F7F00,error in
+term/2=16,24,32,32,o,#7F7F00,error out
+

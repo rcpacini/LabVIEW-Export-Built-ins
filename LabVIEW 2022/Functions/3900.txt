@@ -1,0 +1,13 @@
+[3900]
+name=Invoke Node
+ring=Invoke Node
+class=16420,Invoke
+rect=0,0,64,36
+terms=6
+term/0=0,0,13,9,i,#007F7F,reference
+term/1=51,0,64,9,o,#007F7F,reference out
+term/2=0,9,13,18,i,#7F7F00,error in (no error)
+term/3=51,9,64,18,o,#7F7F00,error out
+term/4=0,18,32,35,i,#000000,Method
+term/5=32,18,64,35,o,#000000,Method
+

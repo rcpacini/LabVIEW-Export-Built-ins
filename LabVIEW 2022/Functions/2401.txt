@@ -1,0 +1,12 @@
+[2401]
+name=Swap Values
+ring=Swap Values
+class=16400,Function
+rect=0,0,32,21
+terms=5
+term/0=16,2,32,8,o,#0000FF, y'
+term/1=16,14,32,20,o,#0000FF, x'  
+term/2=0,2,16,8,i,#0000FF,y
+term/3=0,8,16,14,i,#007F00,?(T)
+term/4=0,14,16,20,i,#0000FF,x
+

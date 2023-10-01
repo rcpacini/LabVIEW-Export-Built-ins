@@ -1,0 +1,19 @@
+[1086]
+name=DataSocket Read
+ring=DataSocket Read
+class=16400,Function
+rect=0,0,32,32
+terms=12
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#007F00,timed out
+term/2=24,8,32,16,o,#7F007F,data
+term/3=24,0,32,8,o,#FF00FF,connection out
+term/4=16,16,24,32,o,#990000,timestamp
+term/5=16,0,24,16,o,#0000FF,quality
+term/6=8,16,16,32,i,#007F00,wait for updated value (T)
+term/7=8,0,16,16,o,#0000FF,status
+term/8=0,24,8,32,i,#7F7F00,error in (no error)
+term/9=0,16,8,24,i,#0000FF,ms timeout (10000)
+term/10=0,8,8,16,i,#7F007F,type (Variant)
+term/11=0,0,8,8,i,#FF00FF,connection in
+

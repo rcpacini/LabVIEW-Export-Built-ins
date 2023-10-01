@@ -1,0 +1,13 @@
+[1187]
+name=Fract/Exp String To Number
+ring=Fract/Exp String To Number
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=21,16,32,32,o,#FF7F00,number
+term/1=21,0,32,16,o,#0000FF,offset past number
+term/2=11,0,21,32,i,#007F00,use system decimal point (T)
+term/3=0,21,11,32,i,#FF7F00,default (0 dbl)
+term/4=0,11,11,21,i,#0000FF,offset
+term/5=0,0,11,11,i,#FF00FF,string
+

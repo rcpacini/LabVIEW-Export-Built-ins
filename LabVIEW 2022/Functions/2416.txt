@@ -1,0 +1,9 @@
+[2416]
+name=Assert Structural Type Match
+ring=Assert Structural Type Match
+class=16400,Function
+rect=0,0,13,21
+terms=2
+term/0=0,10,13,21,i,#7F007F,reference
+term/1=0,0,13,10,i,#7F007F,anything
+

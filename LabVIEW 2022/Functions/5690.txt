@@ -1,0 +1,10 @@
+[5690]
+name=Dynamic FPGA Interface Cast
+ring=Dynamic FPGA Interface Cast
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=0,0,11,32,i,#007F7F,Type
+term/1=11,0,21,32,i,#007F7F,Session In
+term/2=21,0,32,32,o,#007F7F,Session Out
+

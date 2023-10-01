@@ -1,0 +1,8 @@
+[21799]
+name=Multicolumn Listbox
+ring=Multicolumn Listbox (classic)
+class=46,MulticolumnListbox
+rect=0,19,230,150
+terms=1
+term/0=0,19,230,150,o,#0000FF,Multicolumn Listbox
+

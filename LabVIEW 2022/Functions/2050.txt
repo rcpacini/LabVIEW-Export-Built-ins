@@ -1,0 +1,9 @@
+[2050]
+name=Code Interface Node
+ring=Code Interface Node
+class=16416,CIN
+rect=0,0,32,21
+terms=2
+term/0=0,12,16,20,i,#000000,input
+term/1=16,12,32,20,o,#000000,output
+

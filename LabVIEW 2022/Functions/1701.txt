@@ -1,0 +1,11 @@
+[1701]
+name=Wait on Occurrence
+ring=Wait on Occurrence
+class=16400,Function
+rect=0,0,16,21
+terms=4
+term/0=10,0,16,21,o,#007F00,timed out
+term/1=0,15,10,21,i,#007F00,ignore previous (T)
+term/2=0,5,10,15,i,#007F7F,occurrence
+term/3=0,0,10,5,i,#0000FF,ms timeout (-1)
+

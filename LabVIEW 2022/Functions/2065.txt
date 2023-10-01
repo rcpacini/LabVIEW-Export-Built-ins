@@ -1,0 +1,12 @@
+[2065]
+name=Register For Events
+ring=Register For Events
+class=16542,RegisterForEvents
+rect=0,0,104,36
+terms=5
+term/0=0,0,13,9,i,#007F7F,event registration refnum
+term/1=91,0,104,9,o,#007F7F,Event Registration Refnum
+term/2=0,9,13,18,i,#7F7F00,error in (no error)
+term/3=91,9,104,18,o,#7F7F00,error out
+term/4=0,18,104,35,i,#000000,event source
+

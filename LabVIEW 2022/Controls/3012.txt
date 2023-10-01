@@ -1,0 +1,8 @@
+[3012]
+name=Slide
+ring=Horizontal Fill Slide (classic)
+class=21,Slide
+rect=9,29,110,39
+terms=1
+term/0=9,29,110,39,o,#FF7F00,Slide
+

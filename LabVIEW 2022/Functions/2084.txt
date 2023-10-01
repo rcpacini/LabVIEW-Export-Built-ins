@@ -1,0 +1,8 @@
+[2084]
+name=Static VI Reference
+ring=Static VI Reference
+class=16465,StaticVIReference
+rect=0,0,36,48
+terms=1
+term/0=0,0,36,48,o,#007F7F,vi reference
+

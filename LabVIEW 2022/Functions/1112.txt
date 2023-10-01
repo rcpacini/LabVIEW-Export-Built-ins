@@ -1,0 +1,9 @@
+[1112]
+name=Empty String/Path?
+ring=Empty String/Path?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,empty?
+term/1=0,0,10,21,i,#FF00FF,string/path
+

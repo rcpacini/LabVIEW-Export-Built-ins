@@ -1,0 +1,7 @@
+[21863]
+name=
+ring=Horizontal Splitter Bar (Classic)
+class=0,
+rect=0,0,0,0
+terms=0
+

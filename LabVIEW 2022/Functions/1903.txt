@@ -1,0 +1,9 @@
+[1903]
+name=Add Array Elements
+ring=Add Array Elements
+class=16400,Function
+rect=0,0,25,25
+terms=2
+term/0=12,0,25,25,o,#FF7F00,sum
+term/1=0,0,12,25,i,#FF7F00,numeric array
+

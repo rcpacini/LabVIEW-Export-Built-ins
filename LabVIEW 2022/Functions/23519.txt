@@ -1,0 +1,7 @@
+[23519]
+name=
+ring=Gravitational Constant (N m2/kg2)
+class=0,
+rect=0,0,0,0
+terms=0
+

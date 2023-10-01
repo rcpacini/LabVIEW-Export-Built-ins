@@ -1,0 +1,10 @@
+[3904]
+name=Constructor Node
+ring=Constructor Node
+class=16505,Constructor
+rect=0,0,66,19
+terms=3
+term/0=53,0,66,9,o,#007F7F,new reference
+term/1=0,9,13,18,i,#7F7F00,error in (no error)
+term/2=53,9,66,18,o,#7F7F00,error out
+

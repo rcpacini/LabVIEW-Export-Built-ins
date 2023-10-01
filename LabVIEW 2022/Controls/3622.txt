@@ -1,0 +1,7 @@
+[3622]
+name=
+ring=Flat Up Triangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

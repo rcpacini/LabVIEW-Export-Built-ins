@@ -1,0 +1,8 @@
+[3117]
+name=Boolean
+ring=Checkbox (classic)
+class=8,Boolean
+rect=0,19,12,31
+terms=1
+term/0=0,19,12,31,o,#007F00,Boolean
+

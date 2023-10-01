@@ -1,0 +1,10 @@
+[2402]
+name=Coerce To Type
+ring=Coerce To Type
+class=16400,Function
+rect=0,0,25,11
+terms=3
+term/0=0,0,7,11,i,#FF7F00,x
+term/1=7,0,17,11,i,#FF7F00,type
+term/2=17,0,25,11,o,#FF7F00,coerced x
+

@@ -1,0 +1,11 @@
+[2408]
+name=New Data Value Reference
+ring=New Data Value Reference
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,0,32,8,o,#007F7F,data value reference
+term/2=0,24,16,32,i,#7F7F00,error in
+term/3=0,0,16,8,i,#FF7F00,data value
+

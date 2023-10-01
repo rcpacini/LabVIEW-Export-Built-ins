@@ -1,0 +1,8 @@
+[3500]
+name=XY Graph
+ring=XY Graph (classic)
+class=83,XYGraph
+rect=2,19,326,319
+terms=1
+term/0=2,19,326,319,i,#993300,XY Graph
+

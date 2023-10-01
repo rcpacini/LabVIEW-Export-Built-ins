@@ -1,0 +1,10 @@
+[1046]
+name=Re/Im To Complex
+ring=Re/Im To Complex
+class=16400,Function
+rect=0,0,21,21
+terms=3
+term/0=10,0,21,21,o,#FF7F00,x + iy
+term/1=0,10,10,21,i,#FF7F00,y
+term/2=0,0,10,10,i,#FF7F00,x
+

@@ -1,0 +1,7 @@
+[3812]
+name=
+ring=Up Tee (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

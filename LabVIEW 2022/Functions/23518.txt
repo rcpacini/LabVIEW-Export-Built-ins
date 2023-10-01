@@ -1,0 +1,7 @@
+[23518]
+name=
+ring=Speed Of Light In Vacuum (m/sec)
+class=0,
+rect=0,0,0,0
+terms=0
+

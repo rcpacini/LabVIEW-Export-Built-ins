@@ -1,0 +1,10 @@
+[2351]
+name=Split Signals
+ring=Split Signals
+class=16477,Unbundler
+rect=0,0,32,9
+terms=3
+term/0=0,1,16,9,i,#00007F,combined signal
+term/1=16,1,32,9,o,#00007F,output signal
+term/2=0,0,16,8,i,#00007F,combined signal
+

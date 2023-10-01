@@ -1,0 +1,10 @@
+[1710]
+name=IP To String
+ring=IP To String
+class=16400,Function
+rect=0,0,32,18
+terms=3
+term/0=16,0,32,18,o,#FF00FF,name
+term/1=0,9,16,18,i,#007F00,dot notation? (F)
+term/2=0,0,16,9,i,#0000FF,net address
+

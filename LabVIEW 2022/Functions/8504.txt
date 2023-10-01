@@ -1,0 +1,12 @@
+[8504]
+name=Set Matrix Diagonal
+ring=Set Matrix Diagonal
+class=16410,GrowableFunction
+rect=0,0,32,41
+terms=5
+term/0=0,0,16,16,i,#FF7F00,matrix
+term/1=16,0,32,41,o,#FF7F00,output matrix
+term/2=0,33,16,41,i,#FF7F00,new diagonal/fill element
+term/3=0,16,16,24,i,#0000FF,disabled index (row)
+term/4=0,24,16,32,i,#0000FF,index (col)
+

@@ -1,0 +1,7 @@
+[3701]
+name=
+ring=Left Bow Valve (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

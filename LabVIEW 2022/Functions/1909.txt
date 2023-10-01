@@ -1,0 +1,11 @@
+[1909]
+name=Threshold 1D Array
+ring=Threshold 1D Array
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,0,32,32,o,#FF7F00,fractional index or x
+term/1=0,21,16,32,i,#0000FF,start index (0)
+term/2=0,11,16,21,i,#FF7F00,threshold y
+term/3=0,0,16,11,i,#FF7F00,array of numbers or points
+

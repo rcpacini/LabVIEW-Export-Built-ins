@@ -1,0 +1,8 @@
+[1702]
+name=Set Occurrence
+ring=Set Occurrence
+class=16400,Function
+rect=0,0,16,21
+terms=1
+term/0=0,0,16,21,i,#007F7F,occurrence
+

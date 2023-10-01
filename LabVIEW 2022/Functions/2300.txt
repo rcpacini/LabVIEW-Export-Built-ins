@@ -1,0 +1,9 @@
+[2300]
+name=VISA Refnum to Session
+ring=VISA Refnum to Session
+class=16400,Function
+rect=0,0,25,11
+terms=2
+term/0=12,0,25,11,o,#0000FF,session
+term/1=0,0,12,11,i,#7F007F,Visa Refnum
+

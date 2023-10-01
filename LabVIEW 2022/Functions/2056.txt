@@ -1,0 +1,9 @@
+[2056]
+name=Index & Bundle Cluster Array
+ring=Index & Bundle Cluster Array
+class=16411,BuildClusterArray
+rect=0,0,32,9
+terms=2
+term/0=16,0,32,9,o,#000000,array of clusters
+term/1=0,0,16,8,i,#000000,component array
+

@@ -1,0 +1,8 @@
+[3487]
+name=Set
+ring=Set
+class=136,Set
+rect=0,19,114,92
+terms=1
+term/0=0,19,114,92,o,#FF00FF,Set
+

@@ -1,0 +1,11 @@
+[9140]
+name=IrDA Create Listener
+ring=IrDA Create Listener
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#007F7F,listener ID
+term/2=0,24,8,32,i,#7F7F00,error in (no error)
+term/3=0,8,8,16,i,#FF00FF,service name
+

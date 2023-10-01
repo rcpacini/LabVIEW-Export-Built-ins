@@ -1,0 +1,9 @@
+[1536]
+name=Rotate String
+ring=Rotate String
+class=16400,Function
+rect=0,0,32,17
+terms=2
+term/0=16,0,32,17,o,#FF00FF,first char last
+term/1=0,0,16,17,i,#FF00FF,string
+

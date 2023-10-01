@@ -1,0 +1,10 @@
+[2454]
+name=Element of Set?
+ring=Element of Set?
+class=16400,Function
+rect=0,0,32,19
+terms=3
+term/0=24,0,32,8,o,#007F00,found?
+term/1=0,8,8,16,i,#FF00FF,element
+term/2=0,0,8,8,i,#FF00FF,set
+

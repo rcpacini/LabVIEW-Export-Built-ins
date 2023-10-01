@@ -1,0 +1,9 @@
+[2058]
+name=Unbundle By Name
+ring=Unbundle By Name
+class=16478,NamedUnbundler
+rect=0,0,30,18
+terms=2
+term/0=0,0,16,18,i,#000000,input cluster
+term/1=16,0,30,17,o,#000000,element
+

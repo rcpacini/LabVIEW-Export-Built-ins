@@ -1,0 +1,8 @@
+[3128]
+name=stop
+ring=Rectangular Stop Button
+class=8,Boolean
+rect=0,19,44,41
+terms=1
+term/0=0,19,44,41,o,#007F00,stop
+

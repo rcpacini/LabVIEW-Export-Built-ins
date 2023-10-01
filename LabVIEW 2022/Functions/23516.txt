@@ -1,0 +1,7 @@
+[23516]
+name=
+ring=Planck's Constant (J/Hz)
+class=0,
+rect=0,0,0,0
+terms=0
+

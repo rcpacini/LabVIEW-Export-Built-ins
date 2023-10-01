@@ -1,0 +1,11 @@
+[1108]
+name=Max & Min
+ring=Max & Min
+class=16429,Comparison
+rect=0,0,32,32
+terms=4
+term/0=16,16,32,32,o,#FF7F00,min(x,y)
+term/1=16,0,32,16,o,#FF7F00,max(x,y)
+term/2=0,16,16,32,i,#FF7F00,y
+term/3=0,0,16,16,i,#FF7F00,x
+

@@ -1,0 +1,12 @@
+[9107]
+name=Cancel Notification
+ring=Cancel Notification
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,0,8,8,i,#007F7F,notifier
+term/1=0,24,8,32,i,#7F7F00,error in (no error)
+term/2=24,0,32,8,o,#007F7F,notifier out
+term/3=24,8,32,16,o,#FF00FF,canceled notifcation
+term/4=24,24,32,32,o,#7F7F00,error out
+

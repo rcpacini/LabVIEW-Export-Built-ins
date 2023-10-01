@@ -1,0 +1,8 @@
+[21925]
+name=Ring
+ring=Pict Ring (system)
+class=34,Ring
+rect=0,19,50,67
+terms=1
+term/0=0,19,50,67,o,#FF7F00,Ring
+

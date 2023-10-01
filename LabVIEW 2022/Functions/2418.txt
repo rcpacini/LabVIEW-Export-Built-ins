@@ -1,0 +1,8 @@
+[2418]
+name=Type Must Be Cluster
+ring=Type Must Be Cluster
+class=16400,Function
+rect=0,0,20,13
+terms=1
+term/0=0,0,20,13,i,#7F007F,any
+

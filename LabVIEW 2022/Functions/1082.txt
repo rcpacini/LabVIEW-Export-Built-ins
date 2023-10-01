@@ -1,0 +1,10 @@
+[1082]
+name=Rotate
+ring=Rotate
+class=16400,Function
+rect=0,0,25,15
+terms=3
+term/0=12,0,25,15,o,#0000FF,x rotated left by y
+term/1=0,7,12,15,i,#0000FF,x
+term/2=0,0,12,7,i,#0000FF,y
+

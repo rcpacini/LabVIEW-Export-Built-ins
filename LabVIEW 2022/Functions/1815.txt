@@ -1,0 +1,9 @@
+[1815]
+name=Boolean Array To Number
+ring=Boolean Array To Number
+class=16400,Function
+rect=0,0,26,11
+terms=2
+term/0=13,0,26,11,o,#0000FF,number
+term/1=0,0,13,11,i,#007F00,Boolean array
+

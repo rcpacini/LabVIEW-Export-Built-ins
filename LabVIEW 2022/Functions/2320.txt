@@ -1,0 +1,10 @@
+[2320]
+name=Unregister Session
+ring=Unregister Session
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=0,24,8,32,i,#7F7F00,error in (no error)
+term/2=0,0,8,8,i,#7F007F,refnum
+

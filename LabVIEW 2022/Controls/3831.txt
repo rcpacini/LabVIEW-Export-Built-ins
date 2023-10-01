@@ -1,0 +1,7 @@
+[3831]
+name=
+ring=Agitator
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

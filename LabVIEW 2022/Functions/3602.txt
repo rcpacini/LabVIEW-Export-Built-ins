@@ -1,0 +1,7 @@
+[3602]
+name=
+ring=Flat Box
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,8 @@
+[3016]
+name=Ring
+ring=Text & Pict Ring (classic)
+class=34,Ring
+rect=7,19,57,72
+terms=1
+term/0=7,19,57,72,o,#0000FF,Ring
+

@@ -1,0 +1,8 @@
+[21951]
+name=DAQmx Analog Trigger Source
+ring=DAQmx Analog Trigger Source (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Analog Trigger Source
+

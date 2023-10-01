@@ -1,0 +1,7 @@
+[21767]
+name=
+ring=Down Bow Valve (shaded)
+class=0,
+rect=0,0,0,0
+terms=0
+

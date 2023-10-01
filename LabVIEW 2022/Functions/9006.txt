@@ -1,0 +1,16 @@
+[9006]
+name=Set Menu Item Info
+ring=Set Menu Item Info
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#007F7F,menu reference out
+term/2=16,16,24,32,i,#FF00FF,short cut
+term/3=8,16,16,32,i,#007F00,checked
+term/4=8,0,16,16,i,#FF00FF,item tag
+term/5=0,24,8,32,i,#7F7F00,error in (no error)
+term/6=0,16,8,24,i,#007F00,enabled
+term/7=0,8,8,16,i,#FF00FF,item name
+term/8=0,0,8,8,i,#007F7F,menu reference
+

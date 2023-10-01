@@ -1,0 +1,7 @@
+[3710]
+name=
+ring=Horiz Pipe (shaded)
+class=4,Decoration
+rect=0,0,32,16
+terms=0
+

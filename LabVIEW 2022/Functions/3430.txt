@@ -1,0 +1,7 @@
+[3430]
+name=
+ring=DAQmx Global Channel (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,9 @@
+[1206]
+name=Inverse Sine
+ring=Inverse Sine
+class=16400,Function
+rect=0,0,32,32
+terms=2
+term/0=16,0,32,32,o,#FF7F00,arcsin(x)
+term/1=0,0,16,32,i,#FF7F00,x
+

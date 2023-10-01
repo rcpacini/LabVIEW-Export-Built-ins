@@ -1,0 +1,8 @@
+[3013]
+name=Color Box
+ring=Classic Color Box
+class=7,ColorBox
+rect=0,19,30,49
+terms=1
+term/0=0,19,30,49,o,#0000FF,Color Box
+

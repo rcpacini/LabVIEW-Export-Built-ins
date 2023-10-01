@@ -1,0 +1,11 @@
+[1606]
+name=Rotate Left With Carry
+ring=Rotate Left With Carry
+class=16400,Function
+rect=0,0,25,17
+terms=4
+term/0=12,8,25,17,o,#0000FF,value
+term/1=12,0,25,8,o,#007F00,msb carry out
+term/2=0,8,12,17,i,#0000FF,value
+term/3=0,0,12,8,i,#007F00,carry
+

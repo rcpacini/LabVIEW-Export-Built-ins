@@ -1,0 +1,7 @@
+[3620]
+name=
+ring=Flat Left Triangle
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,13 @@
+[8077]
+name=Set Type and Creator
+ring=Set Type and Creator
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=16,24,32,32,o,#7F7F00,error out
+term/1=16,0,32,8,o,#007F7F,path out
+term/2=0,24,16,32,i,#7F7F00,error in
+term/3=0,16,16,24,i,#FF00FF,creator (no change)
+term/4=0,8,16,16,i,#FF00FF,type (no change)
+term/5=0,0,16,8,i,#007F7F,path
+

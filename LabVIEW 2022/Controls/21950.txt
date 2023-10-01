@@ -1,0 +1,8 @@
+[21950]
+name=DAQmx Device Name
+ring=DAQmx Device Name (system)
+class=57,DAQmxName
+rect=0,19,101,42
+terms=1
+term/0=0,19,101,42,o,#7F007F,DAQmx Device Name
+

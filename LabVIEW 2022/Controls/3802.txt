@@ -1,0 +1,7 @@
+[3802]
+name=
+ring=Up Rect Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

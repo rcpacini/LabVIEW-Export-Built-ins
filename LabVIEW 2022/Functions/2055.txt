@@ -1,0 +1,10 @@
+[2055]
+name=Reshape Array
+ring=Reshape Array
+class=16410,GrowableFunction
+rect=0,0,32,27
+terms=3
+term/0=0,0,16,18,i,#FF7F00,array
+term/1=16,0,32,27,o,#000000,output array
+term/2=0,18,16,26,i,#0000FF,dimension size
+

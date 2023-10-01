@@ -1,0 +1,7 @@
+[3717]
+name=
+ring=Right Down Elbow (shaded)
+class=0,
+rect=0,0,0,0
+terms=0
+

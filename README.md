@@ -10,9 +10,15 @@ where `YYYY` is the LabVIEW version year.
 
 **Each PNG image is a VI Snippet, which can be drag-and-dropped to the block diagram to load.**
 
+## LabVIEW Versions
+
+[LabVIEW 2018](LabVIEW 2018)
+
+[LabVIEW 2022](LabVIEW 2022)
+
 ## Overview
 
-LabVIEW's built-in Functions and Controls that are not easily identified by the the function and
+LabVIEW's built-in Functions and Controls that are not easily identified by the function and
 control palettes. This library exports all built-in functions and controls as VI Snippets (png) images,
 identified my the object id & name which can then be loaded by drag-and-drop on the block diagram.
 

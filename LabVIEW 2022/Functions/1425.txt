@@ -1,0 +1,8 @@
+[1425]
+name=VI Library
+ring=VI Library
+class=16400,Function
+rect=0,0,23,16
+terms=1
+term/0=0,0,23,16,o,#007F7F,path
+

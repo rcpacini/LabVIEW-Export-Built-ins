@@ -1,0 +1,12 @@
+[24201]
+name=Flatten To JSON
+ring=Flatten To JSON
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,0,8,8,i,#000000,anything
+term/1=0,24,8,32,i,#7F7F00,error in (no error)
+term/2=16,0,24,16,i,#007F00,enable LabVIEW extensions? (T)
+term/3=24,0,32,8,o,#FF00FF,JSON string
+term/4=24,24,32,32,o,#7F7F00,error out
+

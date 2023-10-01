@@ -1,0 +1,13 @@
+[2083]
+name=Format Into File
+ring=Format Into File
+class=16438,FormatScanString
+rect=0,0,32,29
+terms=6
+term/0=10,0,22,9,i,#FF00FF,format string
+term/1=0,0,10,9,i,#007F7F,input file
+term/2=22,0,32,9,o,#007F7F,output file refnum
+term/3=0,9,16,20,i,#7F7F00,error in
+term/4=16,9,32,20,o,#7F7F00,error out
+term/5=0,20,16,28,i,#FF7F00,input 1
+

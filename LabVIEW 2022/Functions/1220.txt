@@ -1,0 +1,10 @@
+[1220]
+name=Sine & Cosine
+ring=Sine & Cosine
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=0,0,16,32,i,#FF7F00,x
+term/1=16,0,32,16,o,#FF7F00,sin(x)
+term/2=16,16,32,32,o,#FF7F00,cos(x)
+

@@ -1,0 +1,12 @@
+[23066]
+name=Text to UTF-8
+ring=Text to UTF-8
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#FF00FF,utf-8 text
+term/2=0,24,8,32,i,#7F7F00,error in
+term/3=0,8,8,16,i,#0000FF,encoding
+term/4=0,0,8,8,i,#FF00FF,text
+

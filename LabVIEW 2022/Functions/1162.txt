@@ -1,0 +1,9 @@
+[1162]
+name=Swap Bytes
+ring=Swap Bytes
+class=16400,Function
+rect=0,0,32,32
+terms=2
+term/0=16,0,32,32,o,#0000FF,byte swapped
+term/1=0,0,16,32,i,#0000FF,anything
+

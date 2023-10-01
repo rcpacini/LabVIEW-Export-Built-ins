@@ -1,0 +1,7 @@
+[3811]
+name=
+ring=Left Down Elbow (flat)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

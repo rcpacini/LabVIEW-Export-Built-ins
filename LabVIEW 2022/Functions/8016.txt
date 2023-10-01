@@ -1,0 +1,12 @@
+[8016]
+name=To More Specific Class
+ring=To More Specific Class
+class=16400,Function
+rect=0,0,32,16
+terms=5
+term/0=21,0,32,8,o,#007F7F,specific class reference
+term/1=21,8,32,16,o,#7F7F00,error out
+term/2=11,0,21,16,i,#007F7F,target class
+term/3=0,0,11,8,i,#007F7F,reference
+term/4=0,8,11,16,i,#7F7F00,error in
+

@@ -1,0 +1,9 @@
+[1711]
+name=String To IP
+ring=String To IP
+class=16400,Function
+rect=0,0,32,10
+terms=2
+term/0=16,0,32,10,o,#0000FF,net address
+term/1=0,0,16,10,i,#FF00FF,name
+

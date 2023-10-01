@@ -1,0 +1,17 @@
+[2086]
+name=VISA USB Control In
+ring=VISA USB Control In
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=0,0,7,7,i,#7F007F,VISA resource name
+term/1=7,0,13,16,i,#0000FF,value (0)
+term/2=13,0,19,16,i,#0000FF,index (0)
+term/3=25,0,32,7,o,#7F007F,VISA resource name out
+term/4=0,7,7,13,i,#0000FF,request type
+term/5=25,7,32,13,o,#0000FF,read buffer
+term/6=0,13,7,19,i,#0000FF,request
+term/7=0,19,7,25,i,#0000FF,length (0)
+term/8=0,25,7,32,i,#7F7F00,error in (no error)
+term/9=25,25,32,32,o,#7F7F00,error out
+

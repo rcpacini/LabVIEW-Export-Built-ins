@@ -1,0 +1,7 @@
+[23506]
+name=
+ring=Pi Divided By 2
+class=0,
+rect=0,0,0,0
+terms=0
+

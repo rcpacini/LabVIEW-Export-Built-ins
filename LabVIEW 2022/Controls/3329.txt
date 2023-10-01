@@ -1,0 +1,8 @@
+[3329]
+name=User Defined Tag
+ring=User Defined Tag (classic)
+class=28,IOName
+rect=0,19,100,40
+terms=1
+term/0=0,19,100,40,o,#7F007F,User Defined Tag
+

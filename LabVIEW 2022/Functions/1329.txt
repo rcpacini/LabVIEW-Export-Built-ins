@@ -1,0 +1,8 @@
+[1329]
+name=Generate Front Panel Activity
+ring=Generate Front Panel Activity
+class=16400,Function
+rect=0,0,32,32
+terms=1
+term/0=0,0,32,32,i,#007F7F,front panel (this VI's panel)
+

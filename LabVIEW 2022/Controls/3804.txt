@@ -1,0 +1,7 @@
+[3804]
+name=
+ring=Right Rect Valve (outline)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

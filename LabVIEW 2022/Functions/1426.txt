@@ -1,0 +1,8 @@
+[1426]
+name=Current VI's Path
+ring=Current VI's Path
+class=16400,Function
+rect=0,0,18,18
+terms=1
+term/0=0,0,18,18,o,#007F7F,path
+

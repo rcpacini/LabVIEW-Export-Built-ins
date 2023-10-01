@@ -1,0 +1,8 @@
+[21004]
+name=Numeric
+ring=Numeric Indicator (modern)
+class=18,Digital
+rect=0,17,54,42
+terms=1
+term/0=0,17,54,42,i,#FF7F00,Numeric
+

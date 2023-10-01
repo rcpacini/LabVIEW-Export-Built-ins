@@ -1,0 +1,7 @@
+[2118]
+name=
+ring=DAQmx Physical Channel (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

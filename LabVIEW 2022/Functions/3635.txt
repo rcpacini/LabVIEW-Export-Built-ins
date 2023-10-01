@@ -1,0 +1,7 @@
+[3635]
+name=
+ring=Lowered Box (thick)
+class=0,
+rect=0,0,0,0
+terms=0
+

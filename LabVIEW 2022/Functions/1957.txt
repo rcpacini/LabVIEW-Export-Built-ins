@@ -1,0 +1,15 @@
+[1957]
+name=GPIB Initialization
+ring=GPIB Initialization
+class=16400,Function
+rect=0,0,32,32
+terms=8
+term/0=16,16,32,32,o,#7F7F00,error out
+term/1=16,0,32,16,i,#007F00,require re-addressing (T)
+term/2=8,16,16,32,i,#007F00,disallow DMA (F)
+term/3=8,0,16,16,i,#007F00,assert REN with IFC (T)
+term/4=0,24,8,32,i,#7F7F00,error in
+term/5=0,16,8,24,i,#007F00,IST bit sense (T)
+term/6=0,8,8,16,i,#FF00FF,address string
+term/7=0,0,8,8,i,#007F00,system controller (T)
+

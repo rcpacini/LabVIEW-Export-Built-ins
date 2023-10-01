@@ -1,0 +1,18 @@
+[24000]
+name=RT FIFO Create
+ring=RT FIFO Create
+class=16400,Function
+rect=0,0,32,32
+terms=11
+term/0=0,0,8,8,i,#FF00FF,name (unnamed)
+term/1=0,8,8,16,i,#7F007F,type
+term/2=0,16,8,24,i,#007F00,create if not found? (T)
+term/3=0,24,8,32,i,#7F7F00,error in (no error)
+term/4=8,0,16,16,i,#0000FF,size (10)
+term/5=8,16,16,32,i,#0000FF,datapoints in waveform (1)
+term/6=16,0,24,16,i,#0000FF,elements in array (1)
+term/7=16,16,24,32,i,#993300,r/w modes (polling,polling)
+term/8=24,0,32,8,o,#007F7F,rt fifo
+term/9=24,16,32,24,o,#007F00,created new?
+term/10=24,24,32,32,o,#7F7F00,error out
+

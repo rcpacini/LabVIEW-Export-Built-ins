@@ -1,0 +1,9 @@
+[2462]
+name=Build Set
+ring=Build Set
+class=16549,BuildSetNode
+rect=0,0,32,9
+terms=2
+term/0=16,0,32,9,o,#FF00FF,set
+term/1=0,0,16,8,i,#FF00FF,element
+

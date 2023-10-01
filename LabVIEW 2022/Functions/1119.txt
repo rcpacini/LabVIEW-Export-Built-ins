@@ -1,0 +1,9 @@
+[1119]
+name=Decimal Digit?
+ring=Decimal Digit?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,digit?
+term/1=0,0,10,21,i,#FF00FF,char
+

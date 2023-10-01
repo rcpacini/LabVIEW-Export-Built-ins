@@ -1,0 +1,7 @@
+[3624]
+name=
+ring=Recessed Frame (system)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

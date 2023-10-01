@@ -1,0 +1,8 @@
+[21006]
+name=Tank
+ring=Tank (modern)
+class=21,Slide
+rect=24,25,84,124
+terms=1
+term/0=24,25,84,124,i,#FF7F00,Tank
+

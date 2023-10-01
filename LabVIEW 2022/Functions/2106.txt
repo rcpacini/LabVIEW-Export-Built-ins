@@ -1,0 +1,7 @@
+[2106]
+name=
+ring=Variable Class Specifier Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,7 @@
+[3700]
+name=
+ring=Left Rect Valve (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

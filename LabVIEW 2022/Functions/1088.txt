@@ -1,0 +1,9 @@
+[1088]
+name=Resource Index
+ring=Resource Index
+class=16400,Function
+rect=0,0,32,32
+terms=2
+term/0=16,0,32,32,o,#0000FF,Index
+term/1=0,0,16,32,i,#FF00FF,Resource
+

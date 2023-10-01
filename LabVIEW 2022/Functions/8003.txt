@@ -1,0 +1,12 @@
+[8003]
+name=Variant To Data
+ring=Variant To Data
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,24,8,32,i,#7F7F00,error in
+term/1=24,24,32,32,o,#7F7F00,error out
+term/2=0,0,8,8,i,#7F007F,Variant
+term/3=8,0,16,8,i,#7F007F,type
+term/4=24,0,32,8,o,#7F007F,data
+

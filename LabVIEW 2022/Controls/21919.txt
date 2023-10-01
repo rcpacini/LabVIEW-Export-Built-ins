@@ -1,0 +1,8 @@
+[21919]
+name=Numeric
+ring=Numeric Control (system)
+class=18,Digital
+rect=0,21,39,43
+terms=1
+term/0=0,21,39,43,o,#FF7F00,Numeric
+

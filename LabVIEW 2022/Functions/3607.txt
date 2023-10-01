@@ -1,0 +1,7 @@
+[3607]
+name=
+ring=Recessed Frame (modern)
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,7 @@
+[128]
+name=
+ring=
+class=5,Text
+rect=0,0,4,14
+terms=0
+

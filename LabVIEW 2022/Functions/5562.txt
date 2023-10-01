@@ -1,0 +1,10 @@
+[5562]
+name=Clear Fixed-Point Overflow Status
+ring=Clear Fixed-Point Overflow Status
+class=16400,Function
+rect=0,0,32,24
+terms=3
+term/0=16,12,32,24,o,#007F00,overflow?
+term/1=16,0,32,12,o,#666699,FXP with overflow cleared
+term/2=0,0,16,12,i,#666699,FXP
+

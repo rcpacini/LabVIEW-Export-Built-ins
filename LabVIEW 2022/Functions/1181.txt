@@ -1,0 +1,10 @@
+[1181]
+name=Number To Hexadecimal String
+ring=Number To Hexadecimal String
+class=16400,Function
+rect=0,0,32,32
+terms=3
+term/0=16,0,32,32,o,#FF00FF,hex integer string
+term/1=0,16,16,32,i,#0000FF,width (-)
+term/2=0,0,16,16,i,#0000FF,number
+

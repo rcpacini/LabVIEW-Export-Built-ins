@@ -1,0 +1,8 @@
+[5555]
+name=Time Stamp
+ring=Time Stamp Control (classic)
+class=60,AbsTime
+rect=7,18,99,54
+terms=1
+term/0=7,18,99,54,o,#990000,Time Stamp
+

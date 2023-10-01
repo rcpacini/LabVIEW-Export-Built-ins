@@ -1,0 +1,8 @@
+[21101]
+name=Slide
+ring=Horizontal Pointer Slide (modern)
+class=21,Slide
+rect=7,24,108,34
+terms=1
+term/0=7,24,108,34,o,#FF7F00,Slide
+

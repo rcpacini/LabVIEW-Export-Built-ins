@@ -1,0 +1,8 @@
+[3506]
+name=
+ring=User Item
+class=6,Control
+rect=0,0,38,38
+terms=1
+term/0=0,0,38,38,i,#0000FF,
+

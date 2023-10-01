@@ -1,0 +1,8 @@
+[21738]
+name=OK Button
+ring=OK Button (modern)
+class=8,Boolean
+rect=1,20,40,40
+terms=1
+term/0=1,20,40,40,o,#007F00,OK Button
+

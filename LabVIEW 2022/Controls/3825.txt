@@ -1,0 +1,7 @@
+[3825]
+name=
+ring=Right Arrow
+class=4,Decoration
+rect=0,0,8,8
+terms=0
+

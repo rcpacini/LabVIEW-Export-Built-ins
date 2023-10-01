@@ -1,0 +1,9 @@
+[1188]
+name=To Upper Case
+ring=To Upper Case
+class=16400,Function
+rect=0,0,25,11
+terms=2
+term/0=12,0,25,11,o,#FF00FF,all upper case string
+term/1=0,0,12,11,i,#FF00FF,string
+

@@ -1,0 +1,7 @@
+[3473]
+name=
+ring=Shared Variable Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

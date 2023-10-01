@@ -1,0 +1,8 @@
+[3115]
+name=Boolean
+ring=Vertical Slide Switch (classic)
+class=8,Boolean
+rect=0,19,19,49
+terms=1
+term/0=0,19,19,49,o,#007F00,Boolean
+

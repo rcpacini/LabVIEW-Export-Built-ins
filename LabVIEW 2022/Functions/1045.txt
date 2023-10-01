@@ -1,0 +1,10 @@
+[1045]
+name=Complex To Polar
+ring=Complex To Polar
+class=16400,Function
+rect=0,0,22,22
+terms=3
+term/0=0,0,11,22,i,#FF7F00,r * e^(i*theta)
+term/1=11,0,22,11,o,#FF7F00,r
+term/2=11,11,22,22,o,#FF7F00,theta
+

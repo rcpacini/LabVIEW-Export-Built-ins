@@ -1,0 +1,10 @@
+[1171]
+name=Join Numbers
+ring=Join Numbers
+class=16400,Function
+rect=0,0,18,18
+terms=3
+term/0=9,0,18,18,o,#0000FF,(hi.lo)
+term/1=0,9,9,18,i,#0000FF,lo
+term/2=0,0,9,9,i,#0000FF,hi
+

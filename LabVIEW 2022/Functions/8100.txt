@@ -1,0 +1,11 @@
+[8100]
+name=Format Date/Time String
+ring=Format Date/Time String
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=16,0,32,32,o,#FF00FF,date/time string
+term/1=0,21,16,32,i,#007F00,UTC format
+term/2=0,11,16,21,i,#990000,seconds (now)
+term/3=0,0,16,11,i,#FF00FF,time format string (%c)
+

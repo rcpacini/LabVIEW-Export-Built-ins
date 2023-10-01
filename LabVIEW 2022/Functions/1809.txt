@@ -1,0 +1,9 @@
+[1809]
+name=Array Size
+ring=Array Size
+class=16400,Function
+rect=0,0,32,21
+terms=2
+term/0=16,0,32,21,o,#0000FF,size(s)
+term/1=0,0,16,21,i,#FF7F00,array
+

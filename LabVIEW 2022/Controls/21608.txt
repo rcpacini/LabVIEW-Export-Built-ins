@@ -1,0 +1,8 @@
+[21608]
+name=Array
+ring=Array (modern)
+class=14,Array
+rect=41,19,121,99
+terms=1
+term/0=41,19,121,99,o,#000000,Array
+

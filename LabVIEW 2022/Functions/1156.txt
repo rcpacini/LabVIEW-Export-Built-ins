@@ -1,0 +1,9 @@
+[1156]
+name=To Unsigned Quad Integer
+ring=To Unsigned Quad Integer
+class=16400,Function
+rect=0,0,25,11
+terms=2
+term/0=12,0,25,11,o,#0000FF,unsigned 64bit integer
+term/1=0,0,12,11,i,#0000FF,number
+

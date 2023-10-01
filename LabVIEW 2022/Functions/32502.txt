@@ -1,0 +1,7 @@
+[32502]
+name=
+ring=Horizontal Gradient Oval
+class=0,
+rect=0,0,0,0
+terms=0
+

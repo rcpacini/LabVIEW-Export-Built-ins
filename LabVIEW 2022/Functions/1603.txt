@@ -1,0 +1,11 @@
+[1603]
+name=Size Handle
+ring=Size Handle
+class=16400,Function
+rect=0,0,25,17
+terms=4
+term/0=12,8,25,17,o,#000000,handle
+term/1=12,0,25,8,o,#0000FF,error
+term/2=0,8,12,17,i,#000000,handle (-)
+term/3=0,0,12,8,i,#0000FF,size
+

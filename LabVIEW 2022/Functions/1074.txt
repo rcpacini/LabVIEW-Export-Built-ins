@@ -1,0 +1,10 @@
+[1074]
+name=Scale By Power Of 2
+ring=Scale By Power Of 2
+class=16400,Function
+rect=0,0,21,21
+terms=3
+term/0=10,0,21,21,o,#FF7F00,x*2^n
+term/1=0,10,10,21,i,#FF7F00,x
+term/2=0,0,10,10,i,#0000FF,n
+

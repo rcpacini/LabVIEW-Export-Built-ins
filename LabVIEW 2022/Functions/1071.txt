@@ -1,0 +1,10 @@
+[1071]
+name=Not And
+ring=Not And
+class=16400,Function
+rect=0,0,24,16
+terms=3
+term/0=12,0,24,16,o,#007F00,.not. (x .and. y)?
+term/1=0,8,12,16,i,#007F00,y
+term/2=0,0,12,8,i,#007F00,x
+

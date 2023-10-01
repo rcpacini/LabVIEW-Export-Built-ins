@@ -1,0 +1,8 @@
+[3508]
+name=2D Picture
+ring=2D Picture
+class=15,Picture
+rect=0,19,81,100
+terms=1
+term/0=0,19,81,100,i,#0000FF,2D Picture
+

@@ -1,0 +1,17 @@
+[1432]
+name=Read Device
+ring=Read Device
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=24,24,32,32,o,#0000FF,new offset
+term/1=24,8,32,16,o,#FF00FF,string
+term/2=24,0,32,8,o,#0000FF,err
+term/3=16,0,24,32,i,#007F00,spc reset (F)
+term/4=8,16,16,32,i,#0000FF,misc (-)
+term/5=8,0,16,16,i,#007F00,async (T)
+term/6=0,24,8,32,i,#0000FF,pos offset (-)
+term/7=0,16,8,24,i,#0000FF,pos mode (-)
+term/8=0,8,8,16,i,#0000FF,count
+term/9=0,0,8,8,i,#007F7F,device refnum
+

@@ -1,0 +1,10 @@
+[1906]
+name=Rotate 1D Array
+ring=Rotate 1D Array
+class=16400,Function
+rect=0,0,32,18
+terms=3
+term/0=16,0,32,18,o,#FF7F00,array (last n elements first)
+term/1=0,9,16,18,i,#FF7F00,array
+term/2=0,0,16,9,i,#0000FF,n
+

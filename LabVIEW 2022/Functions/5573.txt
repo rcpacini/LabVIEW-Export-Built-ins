@@ -1,0 +1,11 @@
+[5573]
+name=Input Node
+ring=Timed Sequence
+class=16497,XDataNode
+rect=0,0,80,90
+terms=4
+term/0=0,20,80,35,i,#FF00FF,Source Name
+term/1=0,35,80,50,i,#0000FF,Offset
+term/2=0,50,80,65,i,#0000FF,Priority
+term/3=0,65,80,80,i,#0000FF,Assigned CPU
+

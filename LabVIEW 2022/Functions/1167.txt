@@ -1,0 +1,9 @@
+[1167]
+name=Boolean To (0,1)
+ring=Boolean To (0,1)
+class=16400,Function
+rect=0,0,25,11
+terms=2
+term/0=12,0,25,11,o,#0000FF,0, 1
+term/1=0,0,12,11,i,#007F00,Boolean
+

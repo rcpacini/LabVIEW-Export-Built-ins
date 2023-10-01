@@ -1,0 +1,11 @@
+[3901]
+name=Call By Reference
+ring=Call By Reference
+class=16402,CallByRef
+rect=0,0,43,61
+terms=4
+term/0=0,0,13,9,i,#007F7F,reference
+term/1=30,0,43,9,o,#007F7F,reference out
+term/2=0,9,13,18,i,#7F7F00,error in (no error)
+term/3=30,9,43,18,o,#7F7F00,error out
+

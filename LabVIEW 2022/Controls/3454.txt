@@ -1,0 +1,8 @@
+[3454]
+name=User Defined Refnum Tag Flatten
+ring=User Defined Refnum Tag Flatten (classic)
+class=122,GenClassTagFlatRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,User Defined Refnum Tag Flatten
+

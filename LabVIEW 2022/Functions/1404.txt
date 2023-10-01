@@ -1,0 +1,16 @@
+[1404]
+name=New File
+ring=New File
+class=16400,Function
+rect=0,0,32,32
+terms=9
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#007F7F,refnum
+term/2=16,0,24,32,i,#0000FF,datalog type
+term/3=8,16,16,32,i,#007F00,overwrite (F)
+term/4=8,0,16,16,i,#0000FF,permissions
+term/5=0,24,8,32,i,#7F7F00,error in
+term/6=0,16,8,24,i,#0000FF,deny mode (2)
+term/7=0,8,8,16,i,#FF00FF,group
+term/8=0,0,8,8,i,#007F7F,file path
+

@@ -1,0 +1,10 @@
+[1830]
+name=String to Shared Variable
+ring=String to Shared Variable
+class=16400,Function
+rect=0,0,25,11
+terms=3
+term/0=0,0,7,11,i,#FF00FF,string
+term/1=7,0,17,11,o,#007F00,valid Shared Variable?
+term/2=17,0,25,11,o,#7F007F,Shared Variable
+

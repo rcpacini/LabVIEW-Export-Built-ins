@@ -1,0 +1,7 @@
+[23505]
+name=
+ring=Pi Multiplied By 2
+class=0,
+rect=0,0,0,0
+terms=0
+

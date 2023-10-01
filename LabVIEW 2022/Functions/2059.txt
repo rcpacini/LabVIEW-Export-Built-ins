@@ -1,0 +1,9 @@
+[2059]
+name=Convert Unit
+ring=Convert Unit
+class=16403,UnitCast
+rect=0,0,28,17
+terms=2
+term/0=0,0,8,17,i,#FF7F00,
+term/1=20,0,28,17,o,#FF7F00,
+

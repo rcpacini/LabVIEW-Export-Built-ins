@@ -1,0 +1,8 @@
+[3310]
+name=Variant
+ring=Variant
+class=10,LVVariant
+rect=0,19,150,94
+terms=1
+term/0=0,19,150,94,i,#000000,Variant
+

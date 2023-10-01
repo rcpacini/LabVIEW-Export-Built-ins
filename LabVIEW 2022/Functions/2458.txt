@@ -1,0 +1,12 @@
+[2458]
+name=Look In Map
+ring=Look In Map
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=24,16,32,24,o,#0000FF,value
+term/1=24,8,32,16,o,#007F00,key not found?
+term/2=0,16,8,24,i,#0000FF,default value
+term/3=0,8,8,16,i,#FF00FF,key
+term/4=0,0,8,8,i,#0000FF,map
+

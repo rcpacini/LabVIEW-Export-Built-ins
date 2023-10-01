@@ -1,0 +1,14 @@
+[1722]
+name=Wait For Activity
+ring=Wait For Activity
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,8,32,16,o,#007F7F,connection IDs active
+term/2=24,0,32,8,o,#007F7F,listener IDs active
+term/3=0,24,8,32,i,#7F7F00,error in (no error)
+term/4=0,16,8,24,i,#0000FF,timeout
+term/5=0,8,8,16,i,#007F7F,connection IDs
+term/6=0,0,8,8,i,#007F7F,listener IDs
+

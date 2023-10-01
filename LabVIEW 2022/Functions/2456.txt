@@ -1,0 +1,13 @@
+[2456]
+name=Insert Into Map
+ring=Insert Into Map
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=24,16,32,24,o,#007F00,value unchanged?
+term/1=24,8,32,16,o,#007F00,key already included?
+term/2=24,0,32,8,o,#0000FF,map out
+term/3=0,16,8,24,i,#0000FF,value
+term/4=0,8,8,16,i,#FF00FF,key
+term/5=0,0,8,8,i,#0000FF,map in
+

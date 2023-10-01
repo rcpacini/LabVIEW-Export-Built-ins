@@ -1,0 +1,9 @@
+[1128]
+name=Not A Number/Path/Refnum?
+ring=Not A Number/Path/Refnum?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,NaN/Path/Refnum?
+term/1=0,0,10,21,i,#FF7F00,number/path/refnum
+

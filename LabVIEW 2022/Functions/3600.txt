@@ -1,0 +1,7 @@
+[3600]
+name=
+ring=Raised Box (classic)
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,8 @@
+[21716]
+name=XY Graph
+ring=XY Graph (modern)
+class=83,XYGraph
+rect=0,25,342,325
+terms=1
+term/0=0,25,342,325,i,#993300,XY Graph
+

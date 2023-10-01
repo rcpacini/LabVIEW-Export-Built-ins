@@ -1,0 +1,7 @@
+[32501]
+name=
+ring=Vertical Gradient Oval
+class=0,
+rect=0,0,0,0
+terms=0
+

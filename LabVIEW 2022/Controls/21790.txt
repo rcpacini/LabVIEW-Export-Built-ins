@@ -1,0 +1,8 @@
+[21790]
+name=Table Control
+ring=Table (modern)
+class=13,Table
+rect=0,19,250,169
+terms=1
+term/0=0,19,250,169,o,#FF00FF,Table Control
+

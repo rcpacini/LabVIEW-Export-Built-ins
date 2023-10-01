@@ -1,0 +1,10 @@
+[2045]
+name=Interleave 1D Arrays
+ring=Interleave 1D Arrays
+class=16476,Bundler
+rect=0,0,32,17
+terms=3
+term/0=16,0,32,17,o,#FF7F00,interleaved array
+term/1=0,0,16,8,i,#FF7F00,array
+term/2=0,8,16,16,i,#FF7F00,array
+

@@ -1,0 +1,9 @@
+[1210]
+name=Logarithm Base 10
+ring=Logarithm Base 10
+class=16400,Function
+rect=0,0,32,32
+terms=2
+term/0=16,0,32,32,o,#FF7F00,log(x)
+term/1=0,0,16,32,i,#FF7F00,x
+

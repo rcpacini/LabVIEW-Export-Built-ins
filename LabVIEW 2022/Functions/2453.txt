@@ -1,0 +1,11 @@
+[2453]
+name=Remove From Set
+ring=Remove From Set
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=24,8,32,16,o,#007F00,not included?
+term/1=24,0,32,8,o,#FF00FF,set out
+term/2=0,8,8,16,i,#FF00FF,element
+term/3=0,0,8,8,i,#FF00FF,set in
+

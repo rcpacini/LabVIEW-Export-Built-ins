@@ -1,0 +1,7 @@
+[3610]
+name=
+ring=Recessed Rounded Box
+class=0,
+rect=0,0,0,0
+terms=0
+

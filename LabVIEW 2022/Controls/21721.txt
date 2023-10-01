@@ -1,0 +1,8 @@
+[21721]
+name=Mixed Signal Graph
+ring=Mixed Signal Graph
+class=92,MixedSignalGraph
+rect=0,19,392,238
+terms=1
+term/0=0,19,392,238,i,#FF7F00,Mixed Signal Graph
+

@@ -1,0 +1,11 @@
+[3911]
+name=Insert Into Array
+ring=Insert Into Array
+class=16410,GrowableFunction
+rect=0,0,32,33
+terms=4
+term/0=0,0,16,16,i,#FF7F00,array
+term/1=16,0,32,33,o,#000000,output array
+term/2=0,16,16,24,i,#0000FF,index
+term/3=0,24,16,33,i,#FF7F00,new element/subarray
+

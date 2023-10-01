@@ -1,0 +1,14 @@
+[2151]
+name=TDMS Advanced Asynchronous Read (Data Ref)
+ring=TDMS Advanced Asynchronous Read (Data Ref)
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,0,32,8,o,#007F7F,tdms file out
+term/2=16,16,24,32,o,#007F00,read process finished?
+term/3=8,16,16,32,i,#007F00,auto delete reference? (T)
+term/4=0,24,8,32,i,#7F7F00,error in (no error)
+term/5=0,8,8,16,i,#007F7F,data reference
+term/6=0,0,8,8,i,#007F7F,tdms file
+

@@ -1,0 +1,7 @@
+[3719]
+name=
+ring=Right Pump (shaded)
+class=0,
+rect=0,0,0,0
+terms=0
+

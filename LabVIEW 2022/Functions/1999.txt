@@ -1,0 +1,8 @@
+[1999]
+name=Call Chain
+ring=Call Chain
+class=16400,Function
+rect=0,0,26,26
+terms=1
+term/0=0,0,26,26,o,#FF00FF,call chain
+

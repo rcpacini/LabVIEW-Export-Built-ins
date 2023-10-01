@@ -1,0 +1,14 @@
+[1960]
+name=AllSpoll
+ring=AllSpoll
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=0,0,16,11,i,#0000FF,bus
+term/1=0,11,16,21,i,#0000FF,address list
+term/2=0,21,16,32,i,#7F7F00,error in
+term/3=16,0,32,8,o,#0000FF,serial poll byte list
+term/4=16,8,32,16,o,#007F00,status
+term/5=16,16,32,24,o,#0000FF,byte count
+term/6=16,24,32,32,o,#7F7F00,error out
+

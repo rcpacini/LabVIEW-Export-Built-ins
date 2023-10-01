@@ -1,0 +1,13 @@
+[1958]
+name=GPIB Wait
+ring=GPIB Wait
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=21,16,32,32,o,#7F7F00,error out
+term/1=21,0,32,16,o,#007F00,status
+term/2=11,0,21,32,i,#0000FF,timeout ms (488.2 global)
+term/3=0,21,11,32,i,#7F7F00,error in
+term/4=0,11,11,21,i,#007F00,wait state vector
+term/5=0,0,11,11,i,#FF00FF,address string
+

@@ -1,0 +1,10 @@
+[2463]
+name=Build Map
+ring=Build Map
+class=16550,BuildMapNode
+rect=0,0,32,17
+terms=3
+term/0=16,0,32,17,o,#0000FF,map
+term/1=0,0,16,8,i,#FF00FF,key
+term/2=0,8,16,16,i,#0000FF,value
+

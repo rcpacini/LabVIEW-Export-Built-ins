@@ -1,0 +1,17 @@
+[9005]
+name=Get Menu Item Info
+ring=Get Menu Item Info
+class=16400,Function
+rect=0,0,32,32
+terms=10
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#007F00,enabled
+term/2=24,8,32,16,o,#FF00FF,item name
+term/3=24,0,32,8,o,#007F7F,menu reference out
+term/4=16,16,24,32,o,#007F00,checked
+term/5=16,0,24,16,o,#FF00FF,submenu tags
+term/6=8,16,16,32,o,#FF00FF,short cut
+term/7=8,0,16,16,i,#FF00FF,item tag
+term/8=0,24,8,32,i,#7F7F00,error in (no error)
+term/9=0,0,8,8,i,#007F7F,menu reference
+

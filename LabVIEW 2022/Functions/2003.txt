@@ -1,0 +1,7 @@
+[2003]
+name=While Loop
+ring=While Loop #1
+class=16435,WhileLoop
+rect=0,0,48,48
+terms=0
+

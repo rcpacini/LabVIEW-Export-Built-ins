@@ -1,0 +1,8 @@
+[3457]
+name=LabVIEW Object
+ring=LabVIEW Object
+class=102,LabVIEWClassControl
+rect=0,15,48,63
+terms=1
+term/0=0,15,48,63,o,#C10061,LabVIEW Object
+

@@ -1,0 +1,9 @@
+[1125]
+name=White Space?
+ring=White Space?
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#007F00,space, h/v tab, cr, lf, ff?
+term/1=0,0,10,21,i,#FF00FF,char
+

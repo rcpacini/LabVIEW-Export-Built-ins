@@ -1,0 +1,12 @@
+[9152]
+name=Bluetooth Discover
+ring=Bluetooth Discover
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,8,32,16,o,#FF00FF,device list
+term/2=24,0,32,8,o,#0000FF,number of devices
+term/3=0,24,8,32,i,#7F7F00,error in (no error)
+term/4=0,8,8,16,i,#0000FF,time limit ms (10000)
+

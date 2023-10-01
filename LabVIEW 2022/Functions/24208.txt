@@ -1,0 +1,11 @@
+[24208]
+name=Open MATLAB Session
+ring=Open MATLAB Session
+class=16400,Function
+rect=0,0,32,32
+terms=4
+term/0=0,0,8,8,i,#FF00FF,release name
+term/1=0,24,8,32,i,#7F7F00,error in (no error)
+term/2=24,0,32,8,o,#007F7F,session out
+term/3=24,24,32,32,o,#7F7F00,error out
+

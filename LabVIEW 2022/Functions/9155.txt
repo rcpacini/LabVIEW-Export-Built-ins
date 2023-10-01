@@ -1,0 +1,12 @@
+[9155]
+name=Lookup Channel Probe
+ring=Lookup Channel Probe
+class=16400,Function
+rect=0,0,32,32
+terms=5
+term/0=0,0,8,8,i,#007F7F,refnum to monitor
+term/1=0,8,8,16,i,#007F7F,probe type specifier
+term/2=0,16,8,24,i,#007F00,force create?
+term/3=24,8,32,16,o,#007F7F,probe VI refnum
+term/4=24,16,32,24,o,#007F00,type mismatched?
+

@@ -1,0 +1,8 @@
+[21015]
+name=Boolean
+ring=Text Button
+class=8,Boolean
+rect=1,20,40,40
+terms=1
+term/0=1,20,40,40,o,#007F00,Boolean
+

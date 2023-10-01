@@ -1,0 +1,8 @@
+[3112]
+name=Boolean
+ring=Round Push Button (profile)
+class=8,Boolean
+rect=0,19,30,49
+terms=1
+term/0=0,19,30,49,o,#007F00,Boolean
+

@@ -1,0 +1,8 @@
+[3061]
+name=Ring
+ring=Pulldown Menu Ring
+class=34,Ring
+rect=1,35,116,55
+terms=1
+term/0=1,35,116,55,o,#0000FF,Ring
+

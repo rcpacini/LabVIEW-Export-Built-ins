@@ -1,0 +1,7 @@
+[23517]
+name=
+ring=Elementary Charge (C)
+class=0,
+rect=0,0,0,0
+terms=0
+

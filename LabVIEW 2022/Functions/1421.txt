@@ -1,0 +1,9 @@
+[1421]
+name=Path Type
+ring=Path Type
+class=16400,Function
+rect=0,0,21,21
+terms=2
+term/0=10,0,21,21,o,#0000FF,type
+term/1=0,0,10,21,i,#007F7F,path
+

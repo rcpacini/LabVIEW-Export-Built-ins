@@ -1,0 +1,8 @@
+[21740]
+name=Boolean
+ring=Vert Rocker
+class=8,Boolean
+rect=5,24,25,74
+terms=1
+term/0=5,24,25,74,o,#007F00,Boolean
+

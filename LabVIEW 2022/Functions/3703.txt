@@ -1,0 +1,7 @@
+[3703]
+name=
+ring=Up Bow Valve (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

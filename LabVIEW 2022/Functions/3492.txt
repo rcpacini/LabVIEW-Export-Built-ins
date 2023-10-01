@@ -1,0 +1,7 @@
+[3492]
+name=
+ring=Python Object Refnum (block diagram constant)
+class=0,
+rect=0,0,0,0
+terms=0
+

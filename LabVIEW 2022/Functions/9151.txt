@@ -1,0 +1,14 @@
+[9151]
+name=Bluetooth Create Listener
+ring=Bluetooth Create Listener
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,8,32,16,o,#0000FF,channel
+term/2=24,0,32,8,o,#007F7F,listener ID
+term/3=8,16,16,32,i,#FF00FF,service description
+term/4=8,0,16,16,i,#FF00FF,address
+term/5=0,24,8,32,i,#7F7F00,error in (no error)
+term/6=0,8,8,16,i,#FF00FF,uuid
+

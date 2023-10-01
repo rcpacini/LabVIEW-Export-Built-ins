@@ -1,0 +1,8 @@
+[21106]
+name=Slide
+ring=Horizontal Graduated Bar
+class=21,Slide
+rect=4,26,101,37
+terms=1
+term/0=4,26,101,37,i,#0000FF,Slide
+

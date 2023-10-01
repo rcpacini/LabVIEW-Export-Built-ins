@@ -1,0 +1,14 @@
+[1414]
+name=Volume Info
+ring=Volume Info
+class=16400,Function
+rect=0,0,32,32
+terms=7
+term/0=24,24,32,32,o,#7F7F00,error out
+term/1=24,16,32,24,o,#FF7F00,free
+term/2=24,8,32,16,o,#FF7F00,used
+term/3=24,0,32,8,o,#FF7F00,size
+term/4=16,0,24,32,o,#007F7F,volume path
+term/5=0,16,16,32,i,#7F7F00,error in
+term/6=0,0,16,16,i,#007F7F,path
+

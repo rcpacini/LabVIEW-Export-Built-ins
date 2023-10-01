@@ -1,0 +1,8 @@
+[3120]
+name=Boolean
+ring=Round LED (classic)
+class=8,Boolean
+rect=0,19,20,39
+terms=1
+term/0=0,19,20,39,i,#007F00,Boolean
+

@@ -1,0 +1,8 @@
+[3062]
+name=Enum
+ring=Enum (system)
+class=35,Enum
+rect=0,19,116,40
+terms=1
+term/0=0,19,116,40,o,#0000FF,Enum
+

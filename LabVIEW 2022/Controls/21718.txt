@@ -1,0 +1,8 @@
+[21718]
+name=Digital Waveform Graph
+ring=Digital Waveform Graph (modern)
+class=121,DigitalGraph
+rect=111,19,439,237
+terms=1
+term/0=111,19,439,237,i,#FF00FF,Digital Waveform Graph
+

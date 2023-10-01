@@ -1,0 +1,12 @@
+[1127]
+name=In Range and Coerce
+ring=In Range and Coerce
+class=16535,InRangeAndCoerce
+rect=0,0,32,24
+terms=5
+term/0=16,12,32,24,o,#007F00,In Range?
+term/1=16,0,32,12,o,#FF7F00,coerced(x)
+term/2=0,17,16,24,i,#FF7F00,lower limit
+term/3=0,7,16,17,i,#FF7F00,x
+term/4=0,0,16,7,i,#FF7F00,upper limit
+

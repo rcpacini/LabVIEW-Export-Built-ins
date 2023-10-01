@@ -1,0 +1,7 @@
+[23504]
+name=
+ring=Pi
+class=0,
+rect=0,0,0,0
+terms=0
+

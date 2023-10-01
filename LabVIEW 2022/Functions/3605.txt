@@ -1,0 +1,7 @@
+[3605]
+name=
+ring=Flat Circle
+class=0,
+rect=0,0,0,0
+terms=0
+

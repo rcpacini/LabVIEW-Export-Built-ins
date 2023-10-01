@@ -1,0 +1,8 @@
+[2354]
+name=Call Parent Class Method
+ring=Call Parent Class Method
+class=16528,CallParentNode
+rect=-8,-10,24,22
+terms=1
+term/0=-8,-10,24,22,i,#000000,
+

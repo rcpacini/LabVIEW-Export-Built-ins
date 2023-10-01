@@ -1,0 +1,7 @@
+[23513]
+name=
+ring=Natural Logarithm Of 10
+class=0,
+rect=0,0,0,0
+terms=0
+

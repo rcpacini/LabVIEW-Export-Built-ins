@@ -1,0 +1,7 @@
+[3628]
+name=
+ring=Line with Arrow (thin)
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,8 @@
+[3030]
+name=Meter
+ring=Meter (classic)
+class=32,Knob
+rect=0,19,160,79
+terms=1
+term/0=0,19,160,79,i,#FF7F00,Meter
+

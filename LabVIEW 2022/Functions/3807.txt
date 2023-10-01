@@ -1,0 +1,7 @@
+[3807]
+name=
+ring=Down Bow Valve (outline)
+class=0,
+rect=0,0,0,0
+terms=0
+

@@ -1,0 +1,8 @@
+[23780]
+name=Multi-Segment Pipe
+ring=Multi-Segment Pipe
+class=130,MultiSegmentPipe
+rect=0,19,124,97
+terms=1
+term/0=0,19,124,97,o,#007F00,Multi-Segment Pipe
+

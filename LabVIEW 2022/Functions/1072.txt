@@ -1,0 +1,10 @@
+[1072]
+name=Not Or
+ring=Not Or
+class=16400,Function
+rect=0,0,25,16
+terms=3
+term/0=12,0,25,16,o,#007F00,.not. (x .or. y)?
+term/1=0,8,12,16,i,#007F00,y
+term/2=0,0,12,8,i,#007F00,x
+

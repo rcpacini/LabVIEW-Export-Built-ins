@@ -1,0 +1,8 @@
+[3419]
+name=Ctl Refnum
+ring=Control Refnum
+class=59,LVObjectRefNum
+rect=0,19,36,67
+terms=1
+term/0=0,19,36,67,o,#007F7F,Ctl Refnum
+

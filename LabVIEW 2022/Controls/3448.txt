@@ -1,0 +1,8 @@
+[3448]
+name=Classic Motion Resource
+ring=Motion Resource (classic)
+class=67,GenClassTagRef
+rect=0,15,100,36
+terms=1
+term/0=0,15,100,36,o,#7F007F,Classic Motion Resource
+

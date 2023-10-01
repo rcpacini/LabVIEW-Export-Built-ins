@@ -1,0 +1,19 @@
+[3914]
+name=Search and Replace String
+ring=Search and Replace String
+class=16400,Function
+rect=0,0,32,32
+terms=12
+term/0=0,0,7,7,i,#FF00FF,input string
+term/1=7,0,13,16,i,#007F00,replace all?
+term/2=13,0,19,16,i,#007F00,case sensitive?
+term/3=19,0,25,16,i,#007F00,multiline?
+term/4=25,0,32,7,o,#FF00FF,result string
+term/5=0,7,7,13,i,#FF00FF,search string
+term/6=0,13,7,19,i,#FF00FF,replace string
+term/7=25,13,32,19,o,#0000FF,number of replacements
+term/8=0,19,7,25,i,#0000FF,offset
+term/9=25,19,32,25,o,#0000FF,offset past replacement
+term/10=0,25,7,32,i,#7F7F00,error in
+term/11=25,25,32,32,o,#7F7F00,error out
+

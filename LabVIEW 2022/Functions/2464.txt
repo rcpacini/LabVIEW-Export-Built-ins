@@ -1,0 +1,10 @@
+[2464]
+name=Assert Structural Type Mismatch
+ring=Assert Structural Type Mismatch
+class=16551,AssertStructuralTypeMismatchNode
+rect=0,0,24,17
+terms=3
+term/0=12,0,24,17,o,#0000FF,mismatch
+term/1=0,0,12,8,i,#7F007F,type
+term/2=0,8,12,16,i,#7F007F,mismatch
+

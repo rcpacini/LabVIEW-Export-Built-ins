@@ -1,0 +1,10 @@
+[8507]
+name=Matrix Size
+ring=Matrix Size
+class=16400,Function
+rect=0,0,32,22
+terms=3
+term/0=0,0,16,22,i,#FF7F00,number of rows
+term/1=16,0,32,11,o,#0000FF,number of columns
+term/2=16,11,32,22,o,#0000FF,matrix
+

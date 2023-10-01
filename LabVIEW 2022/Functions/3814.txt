@@ -1,0 +1,7 @@
+[3814]
+name=
+ring=Right Up Elbow (flat)
+class=0,
+rect=0,0,0,0
+terms=0
+

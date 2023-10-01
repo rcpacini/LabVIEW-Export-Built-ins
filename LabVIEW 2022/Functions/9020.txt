@@ -1,0 +1,9 @@
+[9020]
+name=Script Node
+ring=MATLAB script
+class=16436,ScriptNode
+rect=0,0,160,84
+terms=2
+term/0=0,74,9,84,i,#7F7F00,error in
+term/1=151,74,160,84,o,#7F7F00,error out
+

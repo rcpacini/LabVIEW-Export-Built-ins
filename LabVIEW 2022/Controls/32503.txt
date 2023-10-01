@@ -1,0 +1,7 @@
+[32503]
+name=
+ring=Vertical Gradient Rectangle
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

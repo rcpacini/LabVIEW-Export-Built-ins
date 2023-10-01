@@ -1,0 +1,8 @@
+[21603]
+name=Ring
+ring=Text & Pict Ring (modern)
+class=34,Ring
+rect=9,17,63,75
+terms=1
+term/0=9,17,63,75,o,#0000FF,Ring
+

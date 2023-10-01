@@ -1,0 +1,13 @@
+[1959]
+name=GPIB Status
+ring=GPIB Status
+class=16400,Function
+rect=0,0,32,32
+terms=6
+term/0=0,0,16,16,i,#FF00FF,address string
+term/1=0,16,16,32,i,#7F7F00,error in
+term/2=16,0,32,8,o,#007F00,status
+term/3=16,8,32,16,o,#0000FF,GPIB error
+term/4=16,16,32,24,o,#0000FF,byte count
+term/5=16,24,32,32,o,#7F7F00,error out
+

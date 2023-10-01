@@ -1,0 +1,8 @@
+[21019]
+name=Color Box
+ring=Framed Color Box (modern)
+class=7,ColorBox
+rect=0,19,32,51
+terms=1
+term/0=0,19,32,51,o,#0000FF,Color Box
+

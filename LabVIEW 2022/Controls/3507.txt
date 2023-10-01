@@ -1,0 +1,8 @@
+[3507]
+name=Pixmap
+ring=PixMap (warning: dangerous)
+class=78,Pixmap
+rect=53,19,91,57
+terms=1
+term/0=53,19,91,57,i,#0000FF,Pixmap
+

@@ -1,0 +1,7 @@
+[2460]
+name=
+ring=Set Constant
+class=0,
+rect=0,0,0,0
+terms=0
+

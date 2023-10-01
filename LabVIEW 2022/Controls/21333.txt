@@ -1,0 +1,8 @@
+[21333]
+name=Mixed Checkbox
+ring=Mixed Checkbox (system)
+class=127,MixedCheckbox
+rect=0,19,13,32
+terms=1
+term/0=0,19,13,32,o,#0000FF,Mixed Checkbox
+

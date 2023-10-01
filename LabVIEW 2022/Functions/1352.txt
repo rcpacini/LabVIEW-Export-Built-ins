@@ -1,0 +1,8 @@
+[1352]
+name=Quit LabVIEW
+ring=Quit LabVIEW
+class=16400,Function
+rect=0,0,32,32
+terms=1
+term/0=0,0,32,32,i,#007F00,quit? (T)
+

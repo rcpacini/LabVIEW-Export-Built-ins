@@ -1,0 +1,11 @@
+[23060]
+name=Re/Im To Polar
+ring=Re/Im To Polar
+class=16400,Function
+rect=0,0,22,22
+terms=4
+term/0=11,11,22,22,o,#FF7F00,theta
+term/1=11,0,22,11,o,#FF7F00,r
+term/2=0,11,11,22,i,#FF7F00,y
+term/3=0,0,11,11,i,#FF7F00,x
+

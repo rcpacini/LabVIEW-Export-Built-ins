@@ -1,0 +1,7 @@
+[21761]
+name=
+ring=Left Bow Valve (shaded)
+class=4,Decoration
+rect=0,0,32,32
+terms=0
+

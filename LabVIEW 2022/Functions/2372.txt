@@ -1,0 +1,8 @@
+[2372]
+name=
+ring=Closure Structure
+class=16545,ClosureStructureNode
+rect=0,0,48,48
+terms=1
+term/0=36,36,48,48,i,#0000FF,
+

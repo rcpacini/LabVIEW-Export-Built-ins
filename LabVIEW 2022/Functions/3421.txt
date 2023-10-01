@@ -1,0 +1,7 @@
+[3421]
+name=
+ring=VISA Resource Name
+class=0,
+rect=0,0,0,0
+terms=0
+
